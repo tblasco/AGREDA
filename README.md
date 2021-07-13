@@ -1,29 +1,23 @@
 # AGREDA
 AGREDA (AGORA-based REconstruction for Diet Analysis) is a new repository of genome-scale metabolic models of the human gut microbiota. AGREDA includes degradation pathways for many diet derived compounds, which are mainly metabolized by the gut microbiota. In particular, AGREDA incorporates 179 degradation pathways of phenolic compounds, which play an important role in human health and nutrition, and are closely related to the human gut microbiota.
 
-Citing AGREDA
-# (reference)
+## Citing AGREDA
+(reference)
 
-####################################### REQUIREMENTS #######################################
+Please refer to the following sections for a folder structure and pipeline execution description.
 
-It will be necessary to install Matlab. We encourage users to download release 
-R2018a.
+## SOFTWARE REQUIREMENTS
 
-Free academic licenses for the IBM CPLEX solver can be obtained from
-https://www.ibm.com/developerworks/community/blogs/jfp/entry/CPLEX_Is_Free_For_Students?lang=en.
-We encourage users to download CPLEX version 12.8.0.
+* It will be necessary to install Matlab. We encourage users to download release R2018a.
 
-Cobratoolbox github link https://github.com/opencobra/cobratoolbox.
+* Free academic licenses for the IBM CPLEX solver can be obtained from https://www.ibm.com/developerworks/community/blogs/jfp/entry/CPLEX_Is_Free_For_Students?lang=en. We    encourage users to download CPLEX version 12.8.0.
 
-In order to generate the supra-organism model, please download AGORA 1.03 version
-from https://vmh.life/#downloadview and locate metabolic reconstructions in .mat
-format at ./input/AGORA_models/ directory.
+* Cobratoolbox github link https://github.com/opencobra/cobratoolbox.
 
-In order to run any section of the pipeline, please uncompress AGREDA_UNBALANCED.zip, 
-modelSEED.zip and supraOrganism-all_models.zip files located at
-./output/Models/ directory.
+* In order to generate the supra-organism model, please download AGORA 1.03 version (with mucins) from https://vmh.life/#downloadview and locate metabolic reconstructions in .mat format at **./pipeline/input/AGORA_models/** directory.
 
-No further installation is required for running the code.
+* In order to run any section of the pipeline, please uncompress **AGREDA_UNBALANCED.zip**, **modelSEED.zip** and **supraOrganism-all_models.zip** files located at 
+**./pipeline/output/Models/** directory.
 
 ###################################### EXECUTION TIME ######################################
 
