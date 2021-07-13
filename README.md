@@ -1,2 +1,2 @@
 # AGREDA
-AGREDA (AGORA-based REconstruction for Diet Analysis) is a new repository of genome-scale metabolic models of human gut microbes.
+AGREDA (AGORA-based REconstruction for Diet Analysis) is a new repository of genome-scale metabolic models of the human gut microbiota. AGREDA includes degradation pathways for many diet derived compounds, which are mainly metabolized by the gut microbiota. In particular, AGREDA incorporates 179 degradation pathways of phenolic compounds, which play an important role in human health and nutrition, and are closely related to the human gut microbiota.
