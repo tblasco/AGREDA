@@ -1,6 +1,12 @@
 # AGREDA
 AGREDA (AGORA-based REconstruction for Diet Analysis) is a new repository of genome-scale metabolic models of the human gut microbiota. AGREDA includes degradation pathways for many diet derived compounds, which are mainly metabolized by the gut microbiota. In particular, AGREDA incorporates 179 degradation pathways of phenolic compounds, which play an important role in human health and nutrition, and are closely related to the human gut microbiota.
 
+For further information, please refer to:
+	* Telmo Blasco	tblasco@tecnun.es
+	* Francesco Balzerani	fbalzerani@tecnun.es
+	* Iñigo Apaolaza	iaemparanza@tecnun.es
+	* Francisco J. Planes	fplanes@tecnun.es
+
 ## Citing AGREDA
 (reference)
 
@@ -66,8 +72,8 @@ Folder containing AGORA models in .mat format.
 
 ##### EC_Numbers:
 
-  * myRAST: EC numbers obtained from myRAST.
-  * KEGG: EC numbers obtained from KEGG database.
+  * **myRAST:** Folder containing EC numbers obtained from myRAST.
+  * **KEGG:** Folder containing EC numbers obtained from KEGG database.
 
 ##### FVA_Species: folder containing fastFVA information during species balancing process.
 
@@ -81,7 +87,7 @@ Folder containing AGORA models in .mat format.
 
 ##### SpeciesToMerge:
   
-  * all_models.mat: All the species present in AGORA.
+  * **all_models.mat:** All the species present in AGORA.
 
 ## CODE FOLDER
 
@@ -94,16 +100,12 @@ Folder containing AGORA models in .mat format.
   * balanceSpecies.m: function to balance AGREDA model based on the species paths.
   * ConcatenateModels.m: function to concatenate AGORA and SEED metabolic networks
 	with all their fields.
-  * Create_exchange_reaction_agora.m: function to create exchange reactions (if
-	necessary) for i-Diet metabolites present in AGORA.
-  * Create_exchange_reaction_seed.m: function to create exchange reactions (if 
-	necessary) for i-Diet metabolites present in SEED.
+  * **Create_exchange_reaction_agora.m:** function to create exchange reactions (if necessary) for i-Diet metabolites present in AGORA.
+  * **Create_exchange_reaction_seed.m:** function to create exchange reactions (if necessary) for i-Diet metabolites present in SEED.
   * FBA.m: function to apply Flux Balance Analysis.
-  * manageEC_pipeline.m: function to add taxonomic information to SEED metabolic
-	network through EC number information.
+  * **manageEC_pipeline.m:** function to add taxonomic information to SEED metabolic network through EC number information.
   * mapToAGREDA.m: function to contextualize species information to the AGREDA model.
-  * Merge_mets_by_structure.m: function to merge information of repeated
-	metabolites in SEED.
+  * **Merge_mets_by_structure.m:** function to merge information of repeated metabolites in SEED.
   * mergeMets.m: function to merge metabolite information from modelSEED.
   * mergeSEEDmetabolites.m: function to merge AGORA and SEED models.
   * **mergeSpeciesLevel.m:** function to concatenate all AGORA reconstructions.
@@ -118,4 +120,5 @@ Folder containing AGORA models in .mat format.
 ################################### OUTPUT FOLDER CONTENT ##################################
 
 ##### Models:
-Folder containing the different models in the different steps of the pipeline.
+
+Folder containing the different models generated during the different steps of the pipeline.
