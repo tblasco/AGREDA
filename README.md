@@ -4,7 +4,9 @@ AGREDA (AGORA-based REconstruction for Diet Analysis) is a new repository of gen
 ## Citing AGREDA
 (reference)
 
-Please refer to the following sections for a folder structure and pipeline execution description.
+# PIPELINE
+
+Please refer to the following sections for a pipeline execution description.
 
 ## SOFTWARE REQUIREMENTS
 
@@ -19,24 +21,29 @@ Please refer to the following sections for a folder structure and pipeline execu
 * In order to run any section of the pipeline, please uncompress **AGREDA_UNBALANCED.zip**, **modelSEED.zip** and **supraOrganism-all_models.zip** files located at 
 **./pipeline/output/Models/** directory.
 
-###################################### EXECUTION TIME ######################################
+## EXECUTION
 
-main.m Section 1: Species-level and supra-organism model generation -> about 1,5 hours.
-main.m Section 2: AGREDA model generation -> about 9 hours.
+Different sections can be run independently by **main.m** script as all the necessary data is located at input directory.
 
-######################################### PIPELINE #########################################
+* **main.m Section 1:** AGORA mixed-bag model -> Building AGORA species level and mixed-bag models.
+* **main.m Section 2:** AGREDA building -> Building AGREDA mixed-bag model.
 
-Different sections can be run independently as all the necessary data is located at input
-directory.
+## EXECUTION TIME 
 
-  * main.m: script divided in sections that generates the species-level based
-	model, the supra-organism model and AGREDA model.
+* **main.m Section 1:** AGORA mixed-bag model -> about 1,5 hours.
+* **main.m Section 2:** AGREDA building -> about 9 hours.
 
-################################### INPUT FOLDER CONTENT ###################################
+# FOLDER CONTENT
 
-#AGORA_models: folder containing AGORA models in .mat format.
+Please refer to the following sections for a pipeline execution description.
 
-#Annotation:
+## INPUT FOLDER
+
+#### AGORA_models:
+
+Folder containing AGORA models in .mat format.
+
+#### Annotation:
 
   * AGORA_SEED_with_exc.xlsx: link between AGORA and modelSEED metabolites.
   * Input_metabolites.xlsx: i-Diet metabolites/nutrients list.
@@ -57,14 +64,14 @@ directory.
   * targetMetabolites.xlsx: set of metabolites to add a transport reaction, based on the
 	evidence found at HMDB.
 
-#EC_Numbers:
+##### EC_Numbers:
 
   * myRAST: EC numbers obtained from myRAST.
   * KEGG: EC numbers obtained from KEGG database.
 
-#FVA_Species: folder containing fastFVA information during species balancing process.
+##### FVA_Species: folder containing fastFVA information during species balancing process.
 
-#OptionsFastcore:
+##### OptionsFastcore:
 
   * blockedDietRxnsOut_AGREDA.mat: blocked i-Diet metabolites production reaction.
   * blockedDietRxnsUp_AGREDA.mat: blocked i-Diet metabolites uptake reaction.
@@ -72,11 +79,11 @@ directory.
   * removeNotAnnotatedRxnsFastFVA.mat: fastFVA result after removing reactions
 	without taxonomy.
 
-#SpeciesToMerge:
+##### SpeciesToMerge:
   
   * all_models.mat: All the species present in AGORA.
 
-#################################### CODE FOLDER CONTENT ###################################
+## CODE FOLDER
 
   * addExchangesInfo.m: function to add transport reaction to a set of metabolites
 	based on the evidence found at HMDB.
@@ -99,9 +106,8 @@ directory.
 	metabolites in SEED.
   * mergeMets.m: function to merge metabolite information from modelSEED.
   * mergeSEEDmetabolites.m: function to merge AGORA and SEED models.
-  * mergeSpeciesLevel.m: function to concatenate all AGORA reconstructions.
-  * mergeSupraOrganism.m: function to merge the species-level model into a supra-
-	organism model.
+  * **mergeSpeciesLevel.m:** function to concatenate all AGORA reconstructions.
+  * **mergeSupraOrganism.m:** function to merge the species-level model into a mixed-bag model.
   * removeNotAnnotatedRxns.m: function to remove not annotated rxns of the final 
 	model and apply a model reconstruction with fastFVA.
   * removeProblematicMets.m: function to remove metabolites from modelSEED with limited
@@ -111,4 +117,5 @@ directory.
 
 ################################### OUTPUT FOLDER CONTENT ##################################
 
-#Models: folder containing the different models in the different steps of the pipeline.
+##### Models:
+Folder containing the different models in the different steps of the pipeline.
