@@ -72,14 +72,16 @@ Folder containing AGORA models in .mat format.
   * **myRAST:** Folder containing EC numbers obtained from myRAST.
   * **KEGG:** Folder containing EC numbers obtained from KEGG database.
 
-##### FVA_Species: folder containing fastFVA information during species balancing process.
+##### FVA_Species: 
+
+Folder containing fastFVA information during species balancing process.
 
 ##### OptionsFastcore:
 
-  * blockedDietRxnsOut_AGREDA_UNBALANCED.mat: blocked i-Diet metabolites production reaction.
-  * blockedDietRxnsUp_AGREDA_UNBALANCED.mat: blocked i-Diet metabolites uptake reaction.
-  * fastFVAAgoraSeedExpertBounded_AGREDA_UNBALANCED.mat: fastFVA result of global merged model.
-  * removeNotAnnotatedRxnsFastFVA.mat: fastFVA result after removing reactions without taxonomy.
+  * **blockedDietRxnsOut_AGREDA_UNBALANCED.mat:** blocked i-Diet metabolites production reaction.
+  * **blockedDietRxnsUp_AGREDA_UNBALANCED.mat:** blocked i-Diet metabolites uptake reaction.
+  * **fastFVAAgoraSeedExpertBounded_AGREDA_UNBALANCED.mat:** fastFVA result of global merged model.
+  * **removeNotAnnotatedRxnsFastFVA.mat:** fastFVA result after removing reactions without taxonomy.
 
 ##### SpeciesToMerge:
   
@@ -107,7 +109,7 @@ Folder containing AGORA models in .mat format.
   * **removeProblematicMets.m:** function to remove metabolites from modelSEED with limited evidence.
   * **removeRxnsAndMets.m:** function to remove a set of reactions and their related metabolites (if necessary) from a model, based on a reaction index.
 
-################################### OUTPUT FOLDER CONTENT ##################################
+## OUTPUT FOLDER
 
 ##### Models:
 
