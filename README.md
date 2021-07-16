@@ -1,6 +1,8 @@
 # AGREDA
 AGREDA (AGORA-based REconstruction for Diet Analysis) is a new repository of genome-scale metabolic models of the human gut microbiota. AGREDA includes degradation pathways for many diet derived compounds, which are mainly metabolized by the gut microbiota. In particular, AGREDA incorporates 179 degradation pathways of phenolic compounds, which play an important role in human health and nutrition, and are closely related to the human gut microbiota.
 
+AGREDA mixed-bag model and subsequent species models can be found at **AGREDA_v1.0.0.zip** file.
+
 For further information, please refer to:
 * Telmo Blasco	tblasco@tecnun.es
 * Francesco Balzerani	fbalzerani@tecnun.es
@@ -101,6 +103,7 @@ Folder containing fastFVA information during species balancing process.
   * **manageEC_pipeline.m:** function to add taxonomic information to SEED metabolic network through EC number information.
   * **mapToAGREDA.m:** function to contextualize species information to the AGREDA model.
   * **Merge_mets_by_structure.m:** function to merge information of repeated metabolites in SEED.
+  * **mergeDupRxns:** function to merge duplicated reactions in a model.
   * **mergeMets.m:** function to merge metabolite information from modelSEED.
   * **mergeSEEDmetabolites.m:** function to merge AGORA and SEED models.
   * **mergeSpeciesLevel.m:** function to concatenate all AGORA reconstructions.
