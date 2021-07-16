@@ -1,0 +1,1888 @@
+prot_00001	FIG00000441	402	58	402	Chromosomal replication initiator protein DnaA
+prot_00002	FIG00000605	36	9	39	FIG000605: protein co-occurring with transport systems (COG1739)
+prot_00006	FIG01623505	99	19	101	DNA-methyltransferase
+prot_00009	FIG01306568	13	6	14	Mobile element protein
+prot_00010	FIG01306568	339	54	340	Mobile element protein
+prot_00018	FIG01329130	34	8	36	conserved hypothetical protein, putative transport protein
+prot_00020	FIG00139238	19	9	23	Galactoside O-acetyltransferase (EC 2.3.1.18)
+prot_00021	FIG00009294	11	5	12	tRNA proofreading protein STM4549
+prot_00028	FIG01345284	4	2	5	putative disulphide-isomerase
+prot_00030	FIG00133767	440	65	440	Alpha-galactosidase precursor (EC 3.2.1.22)
+prot_00031	FIG01395125	3	3	11	putative secretory protein
+prot_00032	FIG00024073	79	20	81	Galactokinase (EC 2.7.1.6)
+prot_00033	FIG00135025	96	22	98	Aldose 1-epimerase (EC 5.1.3.3)
+prot_00034	FIG00938721	125	32	128	Predicted sodium-dependent galactose transporter
+prot_00035	FIG00000986	64	15	66	L-ribulose-5-phosphate 4-epimerase (EC 5.1.3.4)
+prot_00036	FIG00002117	295	48	297	L-arabinose isomerase (EC 5.3.1.4)
+prot_00037	FIG00002300	123	29	125	Ribulokinase (EC 2.7.1.16)
+prot_00041	FIG01396189	127	27	129	Transposase, IS4
+prot_00043	FIG00005170	24	10	26	Domain often clustered or fused with uracil-DNA glycosylase
+prot_00044	FIG01005404	129	29	134	Biotin synthase related domain containing protein
+prot_00048	FIG01409116	27	8	29	putative surface protein
+prot_00049	FIG00132586	138	29	138	NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)
+prot_00050	FIG00132586	210	35	210	NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)
+prot_00052	FIG00000257	388	54	388	tRNA(Ile)-lysidine synthetase (EC 6.3.4.19)
+prot_00053	FIG00005836	450	70	450	COG0488: ATPase components of ABC transporters with duplicated ATPase domains
+prot_00054	FIG01415411	24	8	26	probable DNA alkylation repair enzyme
+prot_00056	FIG00006461	125	23	125	Chromosome (plasmid) partitioning protein ParA
+prot_00057	FIG00021843	175	31	175	Chromosome (plasmid) partitioning protein ParB
+prot_00059	FIG00008294	447	63	447	Membrane-bound lytic murein transglycosylase D precursor (EC 3.2.1.-)
+prot_00076	FIG01023919	107	22	108	Oxidoreductase, Gfo/Idh/MocA family
+prot_00077	FIG00938141	33	8	35	MdsC protein
+prot_00090	FIG00946040	7	3	9	putative anti-sigma factor
+prot_00096	FIG00450796	144	36	146	ABC transporter ATP-binding protein
+prot_00106	FIG01337986	31	10	33	Avirulence protein
+prot_00108	FIG00027226	186	32	186	DnaJ-class molecular chaperone CbpA
+prot_00110	FIG00946040	4	5	8	putative anti-sigma factor
+prot_00112	FIG01396189	128	26	129	Transposase, IS4
+prot_00113	FIG01306568	3	4	5	Mobile element protein
+prot_00114	FIG01954412	5	6	12	TonB family protein / TonB-dependent receptor
+prot_00116	FIG01380762	7	4	9	Integral membrane protein
+prot_00123	FIG00003715	161	30	163	UDP-N-acetylglucosamine 4,6-dehydratase (EC 4.2.1.-)
+prot_00124	FIG00046703	31	15	47	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase (EC 2.6.1.-)
+prot_00125	FIG00001311	57	12	59	N-Acetylneuraminate cytidylyltransferase (EC 2.7.7.43)
+prot_00126	FIG00001311	4	2	5	N-Acetylneuraminate cytidylyltransferase (EC 2.7.7.43)
+prot_00129	FIG00008273	81	22	83	N-acetylneuraminate synthase (EC 2.5.1.56)
+prot_00130	FIG01970683	11	3	13	Membrane protein involved in the export of O-antigen, teichoic acid lipoteichoic acids
+prot_00135	FIG00106349	211	30	211	Putative N-acetylgalactosaminyl-diphosphoundecaprenol glucuronosyltransferase
+prot_00136	FIG01031830	5	4	7	FIG01031831: hypothetical protein
+prot_00138	FIG00000532	166	30	166	UDP-glucose dehydrogenase (EC 1.1.1.22)
+prot_00141	FIG00001230	4	5	6	Molybdopterin biosynthesis protein MoeB
+prot_00142	FIG00908722	11	4	14	FIG00908727: hypothetical protein
+prot_00143	FIG00000055	130	26	131	Tryptophanyl-tRNA synthetase (EC 6.1.1.2)
+prot_00144	FIG00000314	132	23	132	Holliday junction DNA helicase RuvA
+prot_00147	FIG00000013	145	25	145	Hydroxyacylglutathione hydrolase (EC 3.1.2.6)
+prot_00148	FIG00000443	154	26	154	5'-methylthioadenosine nucleosidase (EC 3.2.2.16) @ S-adenosylhomocysteine nucleosidase (EC 3.2.2.9)
+prot_00149	FIG00000845	126	19	126	S-ribosylhomocysteine lyase (EC 4.4.1.21) / Autoinducer-2 production protein LuxS
+prot_00153	FIG00908722	7	2	9	FIG00908727: hypothetical protein
+prot_00154	FIG01962472	136	23	136	2-heptaprenyl-1,4-naphthoquinone methyltransferase MenG (EC 2.1.1.163)
+prot_00155	FIG00085608	258	42	258	1,4-dihydroxy-2-naphthoate polyprenyltransferase (EC 2.5.1.74)
+prot_00156	FIG00001104	362	51	362	Arginine deiminase (EC 3.5.3.6)
+prot_00158	FIG00000225	46	12	48	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase (EC 2.1.1.182)
+prot_00159	FIG00937476	8	3	10	putative dolichol-P-glucose synthetase
+prot_00160	FIG00000521	32	7	33	rRNA small subunit 7-methylguanosine (m7G) methyltransferase GidB
+prot_00163	FIG00946040	4	3	6	putative anti-sigma factor
+prot_00167	FIG00935824	5	4	12	FIG00935826: hypothetical protein
+prot_00170	FIG01351616	29	8	29	Glutaminase A
+prot_00174	FIG00001065	244	38	244	Glucokinase (EC 2.7.1.2)
+prot_00176	FIG01114793	47	21	51	DNA-binding response regulator, AraC family
+prot_00177	FIG00017518	29	12	31	Alpha-L-arabinofuranosidase II precursor (EC 3.2.1.55)
+prot_00178	FIG01407043	12	8	26	FIG00937589: hypothetical protein
+prot_00179	FIG00026750	17	8	20	Predicted glucose transporter in maltodextrin utilization gene cluster
+prot_00180	FIG00000335	203	29	203	Twin-arginine translocation protein TatC
+prot_00181	FIG00138313	38	6	38	Twin-arginine translocation protein TatA
+prot_00183	FIG00000392	217	37	219	Transcription termination factor Rho
+prot_00184	FIG01391784	257	47	263	ISNCY family transposase
+prot_00186	FIG00001269	1004	141	1004	Pyruvate-flavodoxin oxidoreductase (EC 1.2.7.-)
+prot_00192	FIG00000340	5	3	6	Fumarate hydratase class II (EC 4.2.1.2)
+prot_00194	FIG00139491	4	4	7	NAD-reducing hydrogenase subunit HoxE (EC 1.12.1.2)
+prot_00195	FIG00049433	22	21	44	Periplasmic [Fe] hydrogenase large subunit (EC 1.12.7.2)
+prot_00196	FIG00139192	76	24	78	NAD-reducing hydrogenase subunit HoxF (EC 1.12.1.2)
+prot_00197	FIG00142507	9	4	11	NADP-reducing hydrogenase, subunit B
+prot_00201	FIG00126843	14	5	16	Periplasmic [Fe] hydrogenase (EC 1.12.7.2)
+prot_00202	FIG00002380	89	15	89	anti-sigma B factor RsbT
+prot_00211	FIG00051439	660	99	660	DNA ligase (EC 6.5.1.2)
+prot_00212	FIG00014000	395	68	395	ATP-dependent Clp protease ATP-binding subunit ClpA
+prot_00213	FIG01956023	7	4	9	Transcriptional regulator, AsnC family
+prot_00215	FIG00034881	422	62	422	Alkaline phosphatase (EC 3.1.3.1); Type I phosphodiesterase/nucleotide pyrophosphatase precursor
+prot_00216	FIG00089163	7	4	8	GldD
+prot_00220	FIG00938684	549	82	550	Outer membrane receptor for Fe3+-dicitrate
+prot_00221	FIG01954412	4	4	6	TonB family protein / TonB-dependent receptor
+prot_00222	FIG01390670	399	59	400	Putative outer membrane protein, probably involved in nutrient binding
+prot_00223	FIG00937125	266	37	266	FIG00404104: hypothetical protein
+prot_00224	FIG00937000	272	39	272	FIG00937001: hypothetical protein
+prot_00225	FIG00936888	160	22	161	FIG00936889: hypothetical protein
+prot_00226	FIG00937229	242	37	243	FIG00937230: hypothetical protein
+prot_00227	FIG00938257	287	44	288	probable chitinase
+prot_00228	FIG00936948	228	35	230	FIG00936951: hypothetical protein
+prot_00231	FIG00042627	38	11	40	Magnesium and cobalt efflux protein CorC
+prot_00233	FIG00446664	382	62	383	Retron-type RNA-directed DNA polymerase (EC 2.7.7.49)
+prot_00234	FIG00077620	75	12	75	Single-stranded DNA-binding protein
+prot_00235	FIG00615494	9	4	11	DNA-binding protein HU
+prot_00236	FIG00059426	411	61	411	Cytoplasmic axial filament protein CafA and Ribonuclease G (EC 3.1.4.-)
+prot_00237	FIG00000709	547	79	547	Cytochrome c-type biogenesis protein DsbD, protein-disulfide reductase (EC 1.8.1.8)
+prot_00238	FIG00937790	6	2	8	RNA polymerase ECF-type sigma factor
+prot_00242	FIG00937165	8	5	10	FIG00937167: hypothetical protein
+prot_00244	FIG00003090	158	24	158	cAMP-binding proteins - catabolite gene activator and regulatory subunit of cAMP-dependent protein kinases
+prot_00245	FIG00049915	282	42	282	GTP-binding and nucleic acid-binding protein YchF
+prot_00247	FIG00036772	64	18	65	Arabinan endo-1,5-alpha-L-arabinosidase (EC 3.2.1.99)
+prot_00248	FIG00135025	93	23	95	Aldose 1-epimerase (EC 5.1.3.3)
+prot_00249	FIG00018388	162	32	165	Putative glycosyl hydrolase of unknown function (DUF1680)
+prot_00252	FIG00006310	25	8	27	Diadenylate cyclase spyDAC; Bacterial checkpoint controller DisA with nucleotide-binding domain
+prot_00253	FIG00000195	133	26	135	Phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6)
+prot_00254	FIG00045341	241	38	241	Phosphate starvation-inducible protein PhoH, predicted ATPase
+prot_00255	FIG00002974	190	31	190	Nucleoside triphosphate pyrophosphohydrolase MazG (EC 3.6.1.8)
+prot_00257	FIG00001687	327	69	337	Sarcosine oxidase alpha subunit (EC 1.5.3.1)
+prot_00258	FIG01304042	9	3	11	S1 RNA binding domain
+prot_00259	FIG01336741	3	2	4	Acyltransferase
+prot_00261	FIG00002914	268	41	268	Cell division transporter, ATP-binding protein FtsE (TC 3.A.5.1.1)
+prot_00262	FIG00000047	160	25	160	Ribulose-phosphate 3-epimerase (EC 5.1.3.1)
+prot_00263	FIG00553719	13	6	19	carbonic anhydrase, family 3
+prot_00266	FIG00001088	571	80	571	Beta-hexosaminidase (EC 3.2.1.52)
+prot_00269	FIG01315414	72	15	74	DNA repair and recombination protein, putative helicase
+prot_00271	FIG01310368	18	6	20	FIG00896814: hypothetical protein
+prot_00272	FIG01360707	60	20	62	ATPase, AAA family
+prot_00273	FIG00000556	99	20	101	2-Keto-3-deoxy-D-manno-octulosonate-8-phosphate synthase (EC 2.5.1.55)
+prot_00274	FIG00042627	68	19	70	Magnesium and cobalt efflux protein CorC
+prot_00276	FIG00000990	61	21	63	Recombination inhibitory protein MutS2
+prot_00279	FIG00000144	65	10	65	SSU ribosomal protein S15p (S13e)
+prot_00280	FIG00000391	262	57	264	Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)
+prot_00281	FIG00002486	4	3	7	L-fuculose phosphate aldolase (EC 4.1.2.17)
+prot_00283	FIG00000520	307	44	307	4-hydroxythreonine-4-phosphate dehydrogenase (EC 1.1.1.262)
+prot_00292	FIG00937212	23	7	25	Hemolysin A
+prot_00294	FIG00634291	98	24	101	DNA-damage-inducible protein F
+prot_00295	FIG00004221	32	8	33	COG2110, Macro domain, possibly ADP-ribose binding module
+prot_00296	FIG00613966	5	4	7	Permeases of the major facilitator superfamily
+prot_00297	FIG00002066	151	29	153	Cytoplasmic alpha-amylase (EC 3.2.1.1)
+prot_00298	FIG00086220	30	14	37	Oligo-1,6-glucosidase (EC 3.2.1.10)
+prot_00300	FIG00552648	4	2	6	FIG00552655: hypothetical protein
+prot_00301	FIG01963612	12	5	15	putative peptidase
+prot_00302	FIG00000679	263	39	263	Low-specificity L-threonine aldolase (EC 4.1.2.48)
+prot_00303	FIG00000320	8	3	10	Ubiquinone biosynthesis monooxygenase UbiB
+prot_00305	FIG00047463	77	22	79	Predicted cobalt transporter in Bacteroides_Porphyromonas
+prot_00309	FIG00024930	178	37	180	1,4-alpha-glucan (glycogen) branching enzyme, GH-13-type (EC 2.4.1.18)
+prot_00310	FIG00146582	45	17	47	Putative glycogen debranching enzyme, archaeal type, TIGR01561
+prot_00311	FIG00139262	36	15	55	Poly(glycerol-phosphate) alpha-glucosyltransferase (EC 2.4.1.52)
+prot_00312	FIG00004763	124	26	126	Alpha-amylase (EC 3.2.1.1)
+prot_00313	FIG00000476	228	52	239	Glycogen phosphorylase (EC 2.4.1.1)
+prot_00314	FIG00000655	153	23	153	Thymidine kinase (EC 2.7.1.21)
+prot_00317	FIG00004078	805	112	805	Alpha-1,2-mannosidase
+prot_00318	FIG00000594	6	2	7	Chaperone protein HtpG
+prot_00319	FIG01346633	4	4	10	FIG00405737: hypothetical protein
+prot_00320	FIG00000422	675	127	677	ATP-dependent DNA helicase RecQ
+prot_00322	FIG00023369	433	68	433	Chaperone protein DnaK
+prot_00324	FIG00000134	14	7	22	Threonine synthase (EC 4.2.3.1)
+prot_00325	FIG00136522	333	51	333	Ribonuclease BN (EC 3.1.-.-)
+prot_00327	FIG00439698	19	8	21	membrane protein, putative
+prot_00328	FIG00000112	260	38	260	Methionyl-tRNA formyltransferase (EC 2.1.2.9)
+prot_00338	FIG01306568	32	12	34	Mobile element protein
+prot_00339	FIG00008360	39	15	49	Peptide methionine sulfoxide reductase MsrA (EC 1.8.4.11) / Peptide methionine sulfoxide reductase MsrB (EC 1.8.4.12)
+prot_00340	FIG00000831	56	19	58	Na+/H+ antiporter NhaA type
+prot_00341	FIG00030688	201	35	201	dTDP-glucose 4,6-dehydratase (EC 4.2.1.46)
+prot_00342	FIG00002029	354	51	354	tRNA-t(6)A37 methylthiotransferase
+prot_00343	FIG00000611	46	14	48	Lipid-A-disaccharide synthase (EC 2.4.1.182)
+prot_00345	FIG00006235	315	52	315	RND efflux system, outer membrane lipoprotein CmeC
+prot_00346	FIG00001179	294	46	294	Macrolide-specific efflux protein MacA
+prot_00347	FIG00450796	16	6	20	ABC transporter ATP-binding protein
+prot_00348	FIG01288623	27	16	38	ABC transporter, permease protein
+prot_00349	FIG00897642	23	8	25	putative two-component system sensor protein, no kinase domain
+prot_00350	FIG00003808	23	8	25	Two-component system response regulator
+prot_00351	FIG00003468	557	86	557	POTASSIUM/PROTON ANTIPORTER ROSB
+prot_00352	FIG00000402	345	53	345	Multi antimicrobial extrusion protein (Na(+)/drug antiporter), MATE family of MDR efflux pumps
+prot_00353	FIG00001676	211	31	211	Ferredoxin
+prot_00365	FIG01407240	10	4	12	TPR-repeat-containing proteins
+prot_00367	FIG00898544	111	19	113	putative DNA methylase
+prot_00368	FIG01306568	46	8	47	Mobile element protein
+prot_00369	FIG01866660	46	16	75	ISPg7, transposase
+prot_00371	FIG00004220	89	27	103	Dipeptidyl carboxypeptidase Dcp (EC 3.4.15.5)
+prot_00374	FIG00001088	618	90	618	Beta-hexosaminidase (EC 3.2.1.52)
+prot_00376	FIG00946040	8	4	10	putative anti-sigma factor
+prot_00378	FIG01396189	129	28	131	Transposase, IS4
+prot_00379	FIG00629146	20	6	22	endonuclease/exonuclease/phosphatase family protein
+prot_00380	FIG00000594	29	5	29	Chaperone protein HtpG
+prot_00387	FIG00000381	218	33	218	4-hydroxy-3-methylbut-2-enyl diphosphate reductase (EC 1.17.1.2)
+prot_00388	FIG00058830	228	37	228	6-phosphofructokinase (EC 2.7.1.11)
+prot_00389	FIG00080955	655	96	655	Helicase PriA essential for oriC/DnaA-independent DNA replication
+prot_00392	FIG00946040	4	3	6	putative anti-sigma factor
+prot_00393	FIG00010771	16	6	20	SusC, outer membrane protein involved in starch binding
+prot_00394	FIG00450796	27	10	32	ABC transporter ATP-binding protein
+prot_00397	FIG00938292	52	9	53	FIG00938293: hypothetical protein
+prot_00398	FIG00938705	25	5	26	FIG00938706: hypothetical protein
+prot_00402	FIG00001086	193	28	193	Potassium voltage-gated channel subfamily KQT; possible potassium channel, VIC family
+prot_00403	FIG00001174	245	38	245	Glutaminase (EC 3.5.1.2)
+prot_00406	FIG00000866	455	68	455	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase (EC 2.2.1.9)
+prot_00407	FIG00071623	176	28	176	Naphthoate synthase (EC 4.1.3.36)
+prot_00408	FIG01306622	264	41	264	O-succinylbenzoate synthase (EC 4.2.1.113)
+prot_00409	FIG00000860	263	41	263	O-succinylbenzoic acid--CoA ligase (EC 6.2.1.26)
+prot_00411	FIG00687982	36	12	37	Fe-S oxidoreductase
+prot_00412	FIG01963302	21	8	23	SAM-dependent methyltransferases
+prot_00413	FIG01261528	42	12	44	Na+/H+ antiporter NhaD type
+prot_00417	FIG00018396	255	37	255	Thioredoxin reductase (EC 1.8.1.9)
+prot_00418	FIG01321383	6	3	10	putative DNA mismatch repair protein
+prot_00420	FIG01258694	176	26	176	Alkyl hydroperoxide reductase subunit C-like protein
+prot_00422	FIG00001339	250	34	250	Phospholipase A1 precursor (EC 3.1.1.32, EC 3.1.1.4); Outer membrane phospholipase A
+prot_00423	FIG00094176	562	81	562	Urocanate hydratase (EC 4.2.1.49)
+prot_00425	FIG01349997	28	7	30	putative permease
+prot_00426	FIG00000106	233	40	233	Dihydrofolate synthase (EC 6.3.2.12) @ Folylpolyglutamate synthase (EC 6.3.2.17)
+prot_00427	FIG00001237	205	31	205	Redox-sensitive transcriptional regulator (AT-rich DNA-binding protein)
+prot_00428	FIG00000101	274	53	276	Threonyl-tRNA synthetase (EC 6.1.1.3)
+prot_00429	FIG00000206	132	20	132	Translation initiation factor 3
+prot_00430	FIG00000216	24	5	25	LSU ribosomal protein L20p
+prot_00431	FIG00000347	41	11	43	4-hydroxy-tetrahydrodipicolinate reductase (EC 1.17.1.8)
+prot_00432	FIG00000015	399	56	399	Signal peptidase I (EC 3.4.21.89)
+prot_00434	FIG00075426	346	52	346	Predicted ATPase related to phosphate starvation-inducible protein PhoH
+prot_00436	FIG00002967	15	5	16	DJ-1/YajL/PfpI superfamily, includes chaperone protein YajL (former ThiJ), parkinsonism-associated protein DJ-1, peptidases PfpI, Hsp31
+prot_00440	FIG01954412	7	5	9	TonB family protein / TonB-dependent receptor
+prot_00442	FIG00946040	5	3	7	putative anti-sigma factor
+prot_00443	FIG00937790	4	2	5	RNA polymerase ECF-type sigma factor
+prot_00447	FIG00023463	60	14	62	heterodisulfide reductase, subunit A/methylviologen reducing hydrogenase, subunit delta
+prot_00448	FIG00004027	319	44	319	CoB--CoM heterodisulfide reductase subunit B (EC 1.8.98.1)
+prot_00449	FIG00010908	30	7	32	CoB--CoM heterodisulfide reductase subunit C (EC 1.8.98.1)
+prot_00451	FIG00095112	146	22	146	Crossover junction endodeoxyribonuclease RuvC (EC 3.1.22.4)
+prot_00454	FIG00000121	335	50	335	Seryl-tRNA synthetase (EC 6.1.1.11)
+prot_00455	FIG00000189	39	8	40	LSU ribosomal protein L27p
+prot_00456	FIG00000276	23	7	25	LSU ribosomal protein L21p
+prot_00464	FIG00000594	6	2	7	Chaperone protein HtpG
+prot_00467	FIG01413063	5	4	7	D-alanyl-D-alanine dipeptidase (EC 3.4.13.22)
+prot_00468	FIG00001755	8	6	20	Uridine kinase (EC 2.7.1.48) [C1]
+prot_00470	FIG00937439	54	16	56	Dipeptidyl peptidase IV
+prot_00472	FIG00000230	187	27	187	tRNA (Guanine37-N1) -methyltransferase (EC 2.1.1.31)
+prot_00473	FIG00000210	457	72	457	SSU ribosomal protein S1p
+prot_00474	FIG00000828	20	6	22	Ribonuclease Z (EC 3.1.26.11)
+prot_00475	FIG00895292	48	10	50	putative alpha-1,6-mannanase
+prot_00476	FIG01396189	53	10	54	Transposase, IS4
+prot_00477	FIG01396189	56	12	58	Transposase, IS4
+prot_00479	FIG00001719	21	4	21	Co-activator of prophage gene expression IbrB
+prot_00481	FIG00946040	7	4	9	putative anti-sigma factor
+prot_00482	FIG00010771	5	5	10	SusC, outer membrane protein involved in starch binding
+prot_00485	FIG01396189	117	24	119	Transposase, IS4
+prot_00487	FIG01211459	6	4	10	dipeptidyl peptidase IV
+prot_00490	FIG01308481	9	4	11	Two-component system sensor histidine kinase
+prot_00491	FIG01956356	295	43	295	Mannose-1-phosphate guanylyltransferase (GDP) (EC 2.7.7.22)
+prot_00492	FIG01351068	6	3	8	Phospholipid-binding protein
+prot_00493	FIG00000396	160	26	160	Uracil phosphoribosyltransferase (EC 2.4.2.9)
+prot_00494	FIG01463966	29	8	31	Probable lipase (EC 3.1.1.1)
+prot_00495	FIG00000456	278	45	278	Glycerate kinase (EC 2.7.1.31)
+prot_00498	FIG00034293	359	71	362	Protein export cytoplasm protein SecA ATPase RNA helicase (TC 3.A.5.1.1)
+prot_00499	FIG00000985	60	15	62	Prolipoprotein diacylglyceryl transferase (EC 2.4.99.-)
+prot_00500	FIG00117785	11	7	15	Guanine deaminase (EC 3.5.4.3)
+prot_00505	FIG01519065	5	2	7	conserved hypothetical protein, putative outer membrane protein
+prot_00509	FIG00000594	32	5	33	Chaperone protein HtpG
+prot_00511	FIG01094116	11	8	28	FIG01094118: hypothetical protein
+prot_00512	FIG01548074	5	6	13	TonB-dependent receptor, plug
+prot_00519	FIG00001548	4	2	6	Beta-galactosidase (EC 3.2.1.23)
+prot_00530	FIG01502747	16	3	18	Abortive infection bacteriophage resistance protein
+prot_00531	FIG00946155	54	21	59	putative helicase
+prot_00534	FIG00042847	49	11	51	Similar to tRNA pseudouridine synthase C, group TruC1
+prot_00535	FIG00000364	121	22	122	3-methyl-2-oxobutanoate hydroxymethyltransferase (EC 2.1.2.11)
+prot_00536	FIG00001264	35	8	37	Phosphatidylserine decarboxylase (EC 4.1.1.65)
+prot_00537	FIG00000097	34	7	35	Phosphatidate cytidylyltransferase (EC 2.7.7.41)
+prot_00539	FIG01120704	492	76	492	Cell division protein FtsH (EC 3.4.24.-)
+prot_00541	FIG00001504	5	3	7	Serine--glyoxylate aminotransferase (EC 2.6.1.45)
+prot_00545	FIG00000196	61	15	62	tRNA dimethylallyltransferase (EC 2.5.1.75)
+prot_00548	FIG00898544	33	8	34	putative DNA methylase
+prot_00559	FIG01306568	13	6	14	Mobile element protein
+prot_00560	FIG00502854	45	10	47	Predicted ATPase (AAA+ superfamily)
+prot_00564	FIG00137255	359	57	359	Acetoacetyl-CoA synthetase (EC 6.2.1.16) / Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3)
+prot_00566	FIG01304835	15	10	32	Fumarate hydratase class I (EC 4.2.1.2)
+prot_00567	FIG00711790	33	10	35	CAAX prenyl protease 1, putative
+prot_00569	FIG00008348	38	10	39	Predicted transcriptional regulator of N-Acetylglucosamine utilization, GntR family
+prot_00570	FIG01361367	62	15	64	mannose-6-phosphate isomerase, class I
+prot_00577	FIG00653727	42	14	50	Sialic acid-specific 9-O-acetylesterase
+prot_00578	FIG01304044	8	4	10	Molybdopterin binding motif, CinA N-terminal domain / C-terminal domain of CinA type S
+prot_00580	FIG00003808	22	8	24	Two-component system response regulator
+prot_00582	FIG00450796	32	11	34	ABC transporter ATP-binding protein
+prot_00587	FIG01409959	29	10	31	Nudix hydrolase 3 (EC 3.6.1.-)
+prot_00589	FIG01329862	46	21	59	Prolyl oligopeptidase family protein
+prot_00590	FIG00000234	209	36	209	RecA protein
+prot_00591	FIG00132548	108	17	108	Thiol peroxidase, Bcp-type (EC 1.11.1.15)
+prot_00592	FIG01321055	19	5	20	conserved hypothetical protein, putative membrane protein
+prot_00596	FIG00896522	78	17	80	FIG00896523: hypothetical protein
+prot_00597	FIG00133143	112	29	113	Sulfate adenylyltransferase subunit 1 (EC 2.7.7.4)
+prot_00598	FIG00000728	190	30	192	Sulfate adenylyltransferase subunit 2 (EC 2.7.7.4)
+prot_00599	FIG00000821	43	10	44	Adenylylsulfate kinase (EC 2.7.1.25)
+prot_00600	FIG00001745	27	7	28	3'(2'),5'-bisphosphate nucleotidase (EC 3.1.3.7)
+prot_00601	FIG00000820	364	75	366	Phosphoribosylformylglycinamidine synthase, synthetase subunit (EC 6.3.5.3) / Phosphoribosylformylglycinamidine synthase, glutamine amidotransferase subunit (EC 6.3.5.3)
+prot_00602	FIG00000508	18	6	20	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase (EC 2.3.1.129)
+prot_00603	FIG00006235	21	12	36	RND efflux system, outer membrane lipoprotein CmeC
+prot_00604	FIG00034851	428	82	430	RND efflux system, inner membrane transporter CmeB
+prot_00605	FIG00207095	29	13	40	Membrane fusion protein of RND family multidrug efflux pump
+prot_00606	FIG00000842	232	37	232	D-lactate dehydrogenase (EC 1.1.1.28)
+prot_00607	FIG00016846	6	2	8	N-acetyl-L,L-diaminopimelate deacetylase (EC 3.5.1.47)
+prot_00608	FIG00002792	186	27	186	Putative preQ0 transporter
+prot_00612	FIG00008055	27	10	35	Proton/glutamate symport protein @ Sodium/glutamate symport protein
+prot_00613	FIG00001653	241	35	241	Fructokinase (EC 2.7.1.4)
+prot_00614	FIG01520939	69	22	82	Endothelin-converting enzyme 1 precursor (EC 3.4.24.71)
+prot_00616	FIG00008246	85	24	86	Na+/H+ antiporter
+prot_00617	FIG00896376	8	3	11	FIG00896378: hypothetical protein
+prot_00619	FIG00000708	162	24	162	Aminodeoxychorismate lyase (EC 4.1.3.38)
+prot_00620	FIG00341164	264	39	264	Para-aminobenzoate synthase, aminase component (EC 2.6.1.85)
+prot_00621	FIG00132685	148	22	148	Anthranilate synthase, amidotransferase component (EC 4.1.3.27) @ Para-aminobenzoate synthase, amidotransferase component (EC 2.6.1.85)
+prot_00622	FIG00002839	12	7	14	MutS-related protein, family 1
+prot_00625	FIG01970755	11	5	13	Thioredoxin
+prot_00626	FIG00000377	223	33	223	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)
+prot_00629	FIG01341998	6	6	8	Small-conductance mechanosensitive channel
+prot_00630	FIG00000088	148	34	151	Arginyl-tRNA synthetase (EC 6.1.1.19)
+prot_00631	FIG00229257	228	32	228	Histidinol-phosphatase (EC 3.1.3.15)
+prot_00634	FIG00002332	197	30	197	Inositol-1-monophosphatase (EC 3.1.3.25)
+prot_00635	FIG01321055	129	30	140	conserved hypothetical protein, putative membrane protein
+prot_00636	FIG00613342	3	3	6	UPF0028 protein YchK
+prot_00637	FIG00042267	230	42	230	GMP synthase [glutamine-hydrolyzing] (EC 6.3.5.2)
+prot_00638	FIG01959880	32	10	34	FIG146085: 3'-to-5' oligoribonuclease A, Bacillus type
+prot_00641	FIG00001188	128	26	130	Aminoacyl-histidine dipeptidase (Peptidase D) (EC 3.4.13.3)
+prot_00645	FIG01396189	130	26	132	Transposase, IS4
+prot_00648	FIG00946040	7	4	9	putative anti-sigma factor
+prot_00649	FIG00010771	5	3	9	SusC, outer membrane protein involved in starch binding
+prot_00655	FIG01965201	208	30	208	tRNA pseudouridine synthase A (EC 4.2.1.70)
+prot_00656	FIG01304601	946	144	946	Exonuclease SbcC
+prot_00657	FIG00000782	336	50	336	Exonuclease SbcD
+prot_00658	FIG01371550	35	12	37	putative heme biosynthesis protein
+prot_00662	FIG00937790	7	2	8	RNA polymerase ECF-type sigma factor
+prot_00663	FIG00003955	53	10	54	Hypothetical protein YggS, proline synthase co-transcribed bacterial homolog PROSC
+prot_00666	FIG00001002	165	25	165	Sulfur carrier protein adenylyltransferase ThiF
+prot_00667	FIG00001265	229	37	229	2-iminoacetate synthase (ThiH) (EC 4.1.99.19)
+prot_00668	FIG00000563	167	28	167	Thiazole biosynthesis protein ThiG
+prot_00669	FIG00038668	473	74	473	Thiamin-phosphate pyrophosphorylase (EC 2.5.1.3) / Hydroxymethylpyrimidine phosphate kinase ThiD (EC 2.7.4.7)
+prot_00670	FIG01958823	241	43	241	Hydroxymethylpyrimidine phosphate synthase ThiC (EC 4.1.99.17)
+prot_00676	FIG01314079	7	3	8	Transposase
+prot_00677	FIG00897550	36	10	38	FIG00897551: hypothetical protein
+prot_00678	FIG00070513	4	3	6	phosphotransbutyrylase (EC 2.3.1.19)
+prot_00680	FIG00000423	25	8	26	Dethiobiotin synthetase (EC 6.3.3.3)
+prot_00682	FIG00000038	243	46	245	Glucosamine--fructose-6-phosphate aminotransferase [isomerizing] (EC 2.6.1.16)
+prot_00683	FIG01396189	7	2	8	Transposase, IS4
+prot_00685	FIG01396189	47	8	49	Transposase, IS4
+prot_00686	FIG01396189	55	11	56	Transposase, IS4
+prot_00688	FIG00029120	5	3	8	Phosphoenolpyruvate synthase / Pyruvate phosphate dikinase
+prot_00689	FIG00019456	73	14	84	Xylose isomerase (EC 5.3.1.5)
+prot_00690	FIG01322184	24	4	24	putative integrase
+prot_00691	FIG01433211	88	17	89	FIG00939822: hypothetical protein
+prot_00692	FIG01336076	600	87	601	Outer membrane hemin receptor
+prot_00695	FIG00020613	420	60	420	Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205)
+prot_00696	FIG00001235	128	19	128	D-glycero-D-manno-heptose 1,7-bisphosphate phosphatase (EC 3.1.1.-)
+prot_00697	FIG00106663	278	40	278	DNA polymerase III delta subunit (EC 2.7.7.7)
+prot_00700	FIG00137400	4	2	6	UPF0301 protein YqgE
+prot_00701	FIG01969672	258	40	258	L-serine dehydratase (EC 4.3.1.17)
+prot_00703	FIG00000245	344	52	344	Glucose-6-phosphate isomerase (EC 5.3.1.9)
+prot_00704	FIG00058830	324	46	324	6-phosphofructokinase (EC 2.7.1.11)
+prot_00705	FIG00053044	174	32	176	Threonine dehydrogenase and related Zn-dependent dehydrogenases
+prot_00707	FIG00938454	24	12	26	FIG00405790: hypothetical protein
+prot_00708	FIG00000376	273	42	273	L-asparaginase (EC 3.5.1.1)
+prot_00709	FIG01373818	71	20	73	Anaerobic C4-dicarboxylate transporter
+prot_00712	FIG00067248	276	43	276	Acetate kinase (EC 2.7.2.1)
+prot_00713	FIG00000522	207	38	207	Phosphate acetyltransferase (EC 2.3.1.8)
+prot_00715	FIG00001360	99	17	99	Ser-tRNA(Ala) deacylase; Gly-tRNA(Ala) deacylase
+prot_00716	FIG00621114	56	15	57	3-oxoacyl-[acyl-carrier protein] reductase (EC 1.1.1.100)
+prot_00730	FIG01396189	42	8	43	Transposase, IS4
+prot_00732	FIG01349997	37	9	39	putative permease
+prot_00735	FIG00002158	10	6	11	UPF0246 protein YaaA
+prot_00736	FIG00007694	76	18	79	Butyrate kinase (EC 2.7.2.7)
+prot_00738	FIG00050603	225	32	225	Branched-chain amino acid aminotransferase (EC 2.6.1.42)
+prot_00740	FIG00896816	13	6	15	FIG137884: hypothetical protein
+prot_00741	FIG00000742	11	5	13	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase (EC 3.1.3.45)
+prot_00743	FIG00021845	146	22	146	Septum formation protein Maf
+prot_00744	FIG00654190	11	3	14	FIG00654191: hypothetical protein
+prot_00745	FIG00133139	173	25	173	Superoxide dismutase [Fe] (EC 1.15.1.1)
+prot_00750	FIG00002225	112	16	112	Peroxide stress regulator; Ferric uptake regulation protein; Fe2+/Zn2+ uptake regulation proteins
+prot_00751	FIG01306733	31	6	33	Rubrerythrin
+prot_00752	FIG00005840	176	28	176	Phosphoglycerate mutase (EC 5.4.2.1)
+prot_00753	FIG01262685	300	43	300	Fructose-bisphosphate aldolase class I (EC 4.1.2.13)
+prot_00754	FIG00931175	6	4	8	Tetrapyrrole methylase family protein
+prot_00755	FIG01955808	22	10	24	Metal-dependent hydrolases of the beta-lactamase superfamily I; PhnP protein
+prot_00756	FIG00000080	620	94	620	DNA gyrase subunit A (EC 5.99.1.3)
+prot_00758	FIG00621114	3	3	5	3-oxoacyl-[acyl-carrier protein] reductase (EC 1.1.1.100)
+prot_00761	FIG00004453	14	6	16	FIG004453: protein YceG like
+prot_00762	FIG00000170	92	14	92	SSU ribosomal protein S6p
+prot_00763	FIG00000127	17	3	17	SSU ribosomal protein S18p @ SSU ribosomal protein S18p, zinc-independent
+prot_00764	FIG00000205	25	7	27	LSU ribosomal protein L9p
+prot_00766	FIG00005924	71	28	94	Excinuclease ABC subunit A paralog in greater Bacteroides group
+prot_00767	FIG00133515	28	7	30	Dihydroorotate dehydrogenase electron transfer subunit (EC 1.3.3.1)
+prot_00768	FIG00001054	87	22	88	Dihydroorotate dehydrogenase, catalytic subunit (EC 1.3.3.1)
+prot_00770	FIG00010600	60	20	62	Xaa-Pro aminopeptidase (EC 3.4.11.9)
+prot_00771	FIG00937790	16	6	18	RNA polymerase ECF-type sigma factor
+prot_00775	FIG00000275	127	31	128	IMP cyclohydrolase (EC 3.5.4.10) / Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3)
+prot_00776	FIG00065314	232	38	232	Rod shape-determining protein MreB
+prot_00777	FIG00000460	220	33	220	Rod shape-determining protein MreC
+prot_00778	FIG00001024	17	6	18	Rod shape-determining protein MreD
+prot_00779	FIG00143531	528	74	528	Penicillin-binding protein 2 (PBP-2)
+prot_00780	FIG00000803	341	53	341	Rod shape-determining protein RodA
+prot_00781	FIG00057840	319	49	319	Imidazolonepropionase (EC 3.5.2.7)
+prot_00782	FIG01964470	395	66	395	Glutamate formiminotransferase (EC 2.1.2.5) @ Glutamate formyltransferase
+prot_00785	FIG01391586	84	28	87	Calcium-transporting ATPase
+prot_00787	FIG00136447	7	3	8	Hypothetical nudix hydrolase YeaB
+prot_00790	FIG00051001	39	14	43	8-amino-7-oxononanoate synthase (EC 2.3.1.47)
+prot_00791	FIG00012547	76	20	78	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase (EC 2.6.1.62)
+prot_00792	FIG00000467	27	11	29	Biotin synthase (EC 2.8.1.6)
+prot_00794	FIG00000491	168	25	168	Queuosine Biosynthesis QueC ATPase
+prot_00795	FIG00138171	156	22	156	6-carboxytetrahydropterin synthase (EC 4.1.2.50) @ Queuosine biosynthesis QueD, PTPS-I
+prot_00796	FIG00000490	227	32	227	Queuosine Biosynthesis QueE Radical SAM
+prot_00797	FIG01962650	400	65	400	ATP-dependent DNA helicase, RecQ family
+prot_00799	FIG00036406	366	53	366	Survival protein SurA precursor (Peptidyl-prolyl cis-trans isomerase SurA) (EC 5.2.1.8)
+prot_00800	FIG00654349	12	5	14	MoxR protein
+prot_00807	FIG00000877	405	65	405	Formate--tetrahydrofolate ligase (EC 6.3.4.3)
+prot_00808	FIG01337690	11	5	13	putative phosphoesterase
+prot_00809	FIG01396189	131	26	133	Transposase, IS4
+prot_00810	FIG00017431	13	5	15	Serine phosphatase RsbU, regulator of sigma subunit
+prot_00813	FIG00061313	345	56	345	Replicative DNA helicase (EC 3.6.1.-)
+prot_00814	FIG00008411	145	21	145	DNA polymerase III alpha subunit (EC 2.7.7.7)
+prot_00815	FIG00000524	82	18	84	Enoyl-[acyl-carrier-protein] reductase [NADH] (EC 1.3.1.9)
+prot_00816	FIG00000317	418	65	418	DNA repair protein RecN
+prot_00817	FIG00649497	4	3	6	FIG00649500: hypothetical protein
+prot_00818	FIG00016836	14	3	16	Transcription termination protein NusB
+prot_00820	FIG00028203	429	71	429	DNA gyrase subunit B (EC 5.99.1.3)
+prot_00823	FIG00031504	484	78	484	Pyrophosphate-energized proton pump (EC 3.6.1.1)
+prot_00826	FIG01266244	84	20	87	Ribosomal protein S12p Asp88 (E. coli) methylthiotransferase
+prot_00827	FIG00937370	59	25	68	putative Fe-S oxidoreductase
+prot_00831	FIG01210748	7	2	9	Cell filamentation protein Fic
+prot_00834	FIG00552544	641	93	641	Outer membrane lipoprotein omp16 precursor
+prot_00835	FIG00000895	308	47	308	Alanine dehydrogenase (EC 1.4.1.1)
+prot_00836	FIG00000228	104	17	104	TsaE protein, required for threonylcarbamoyladenosine t(6)A37 formation in tRNA
+prot_00838	FIG00000519	221	37	221	Septum site-determining protein MinD
+prot_00839	FIG00002849	7	2	8	Putative predicted metal-dependent hydrolase
+prot_00841	FIG00105533	176	28	176	Tryptophan synthase alpha chain (EC 4.2.1.20)
+prot_00842	FIG00069722	151	23	151	Phosphoribosylanthranilate isomerase (EC 5.3.1.24)
+prot_00846	FIG00446664	3	4	5	Retron-type RNA-directed DNA polymerase (EC 2.7.7.49)
+prot_00848	FIG00003520	165	32	165	Phage tail fiber protein
+prot_00858	FIG00001385	126	18	126	N-acetylmuramoyl-L-alanine amidase (EC 3.5.1.28)
+prot_00863	FIG01319482	3	4	6	Phage protein
+prot_00871	FIG01353148	37	7	39	FIG00406507: hypothetical protein
+prot_00878	FIG01399471	83	12	83	FIG00405988: hypothetical protein
+prot_00881	FIG00937491	177	28	179	FIG00409580: hypothetical protein
+prot_00882	FIG01534773	28	9	30	FIG00937960: hypothetical protein
+prot_00888	FIG00135159	184	30	184	Indole-3-glycerol phosphate synthase (EC 4.1.1.48)
+prot_00889	FIG00062957	239	38	239	Anthranilate phosphoribosyltransferase (EC 2.4.2.18)
+prot_00890	FIG00132685	120	21	120	Anthranilate synthase, amidotransferase component (EC 4.1.3.27) @ Para-aminobenzoate synthase, amidotransferase component (EC 2.6.1.85)
+prot_00891	FIG00011663	382	55	382	Anthranilate synthase, aminase component (EC 4.1.3.27)
+prot_00892	FIG00116323	253	41	253	Tryptophan synthase beta chain (EC 4.2.1.20)
+prot_00894	FIG00000212	95	23	97	Chorismate synthase (EC 4.2.3.5)
+prot_00895	FIG00000763	137	22	137	FKBP-type peptidyl-prolyl cis-trans isomerase SlyD (EC 5.2.1.8)
+prot_00896	FIG00000575	36	13	38	L-aspartate oxidase (EC 1.4.3.16)
+prot_00897	FIG00000413	62	16	64	Quinolinate phosphoribosyltransferase [decarboxylating] (EC 2.4.2.19)
+prot_00899	FIG00000463	52	14	54	Quinolinate synthetase (EC 2.5.1.72)
+prot_00900	FIG00000116	167	42	169	Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)
+prot_00902	FIG00897374	207	38	209	FIG00897375: hypothetical protein
+prot_00903	FIG00898001	26	8	29	FIG00898002: hypothetical protein
+prot_00904	FIG00450796	23	7	24	ABC transporter ATP-binding protein
+prot_00905	FIG00450796	92	19	94	ABC transporter ATP-binding protein
+prot_00907	FIG00450796	113	27	116	ABC transporter ATP-binding protein
+prot_00908	FIG01418567	81	18	83	Tetracenomycin polyketide synthesis O-methyltransferase TcmP (EC 2.1.1.-)
+prot_00910	FIG00897829	6	3	8	Bll2647 protein
+prot_00914	FIG00000147	181	51	188	Excinuclease ABC subunit A
+prot_00916	FIG01308481	19	7	22	Two-component system sensor histidine kinase
+prot_00918	FIG00897577	35	8	37	putative membrane-associated phospholipid phosphatase
+prot_00921	FIG00000362	225	33	225	Lipoate synthase
+prot_00922	FIG00000528	178	27	178	Octanoate-[acyl-carrier-protein]-protein-N-octanoyltransferase
+prot_00923	FIG00000594	31	5	31	Chaperone protein HtpG
+prot_00927	FIG00000290	154	25	154	Endonuclease III (EC 4.2.99.18)
+prot_00931	FIG01362387	25	7	27	ApeH acylamino-acid-releasing enzyme (EC 3.4.19.1)
+prot_00932	FIG00020289	513	79	513	Transketolase (EC 2.2.1.1)
+prot_00936	FIG01306568	32	12	34	Mobile element protein
+prot_00939	FIG01396189	130	26	132	Transposase, IS4
+prot_00940	FIG00007641	23	7	24	Enoyl-[acyl-carrier-protein] reductase [FMN] (EC 1.3.1.9)
+prot_00942	FIG00846773	228	36	228	Permease of the drug/metabolite transporter (DMT) superfamily
+prot_00945	FIG00008708	463	84	463	NADH dehydrogenase (EC 1.6.99.3)
+prot_00946	FIG01970755	4	2	6	Thioredoxin
+prot_00949	FIG01961774	8	2	8	LSU ribosomal protein L33p
+prot_00950	FIG00004220	123	33	126	Dipeptidyl carboxypeptidase Dcp (EC 3.4.15.5)
+prot_00951	FIG00000089	137	22	137	Adenylate kinase (EC 2.7.4.3)
+prot_00954	FIG00000011	608	92	608	Multimodular transpeptidase-transglycosylase (EC 2.4.1.129) (EC 3.4.-.-)
+prot_00955	FIG01330525	55	14	57	putative Na+/H+ exchange protein
+prot_00958	FIG00133219	34	7	37	Thiamin biosynthesis lipoprotein ApbE
+prot_00959	FIG00012254	52	19	54	putative patatin-like phospholipase
+prot_00960	FIG01444013	11	5	15	Sigma-54 dependent transcriptional regulator/response regulator
+prot_00964	FIG00015100	4	4	5	3-oxoacyl-[acyl-carrier-protein] synthase, KASIII (EC 2.3.1.180)
+prot_00974	FIG00450796	19	7	21	ABC transporter ATP-binding protein
+prot_00977	FIG00946040	7	4	9	putative anti-sigma factor
+prot_00981	FIG00896826	12	8	27	FIG00896827: hypothetical protein
+prot_00983	FIG00138182	734	104	734	Beta-mannosidase (EC 3.2.1.25)
+prot_00984	FIG00002794	13	4	15	Sulfate transporter, CysZ-type
+prot_00985	FIG00000117	333	50	333	Adenylosuccinate lyase (EC 4.3.2.2)
+prot_00986	FIG00002914	4	8	15	Cell division transporter, ATP-binding protein FtsE (TC 3.A.5.1.1)
+prot_00988	FIG00001032	242	35	242	NADPH dependent preQ0 reductase (EC 1.7.1.13)
+prot_00989	FIG00936903	39	14	41	Carboxy-terminal processing protease
+prot_00991	FIG00000899	242	34	242	Endonuclease IV (EC 3.1.21.2)
+prot_00992	FIG00000594	651	95	651	Chaperone protein HtpG
+prot_00995	FIG00000280	439	65	439	3-isopropylmalate dehydratase large subunit (EC 4.2.1.33)
+prot_00997	FIG00000017	186	27	186	Peptide deformylase (EC 3.5.1.88)
+prot_00999	FIG00007941	42	17	49	ABC transporter ATP-binding protein uup
+prot_01001	FIG01314079	7	3	8	Transposase
+prot_01005	FIG00030688	257	39	257	dTDP-glucose 4,6-dehydratase (EC 4.2.1.46)
+prot_01006	FIG00000368	225	34	225	dTDP-4-dehydrorhamnose reductase (EC 1.1.1.133)
+prot_01007	FIG00000408	143	22	143	dTDP-4-dehydrorhamnose 3,5-epimerase (EC 5.1.3.13)
+prot_01008	FIG00000187	195	31	195	Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)
+prot_01009	FIG00662416	286	43	286	Undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase (EC 2.7.8.-)
+prot_01010	FIG00003715	309	47	309	UDP-N-acetylglucosamine 4,6-dehydratase (EC 4.2.1.-)
+prot_01011	FIG01955850	24	8	29	Lipid carrier : UDP-N-acetylgalactosaminyltransferase (EC 2.4.1.-)
+prot_01012	FIG00150184	7	5	11	Bacillosamine/Legionaminic acid biosynthesis aminotransferase PglE; 4-keto-6-deoxy-N-Acetyl-D-hexosaminyl-(Lipid carrier) aminotransferase
+prot_01013	FIG00000482	67	17	69	UDP-N-acetylglucosamine 2-epimerase (EC 5.1.3.14)
+prot_01014	FIG00898576	35	10	37	FIG00898577: hypothetical protein
+prot_01017	FIG01193496	8	5	12	Glycosyltransferase (EC 2.4.1.-)
+prot_01019	FIG00000482	158	28	159	UDP-N-acetylglucosamine 2-epimerase (EC 5.1.3.14)
+prot_01020	FIG01396189	62	12	64	Transposase, IS4
+prot_01021	FIG01396189	63	13	64	Transposase, IS4
+prot_01022	FIG00000482	32	6	34	UDP-N-acetylglucosamine 2-epimerase (EC 5.1.3.14)
+prot_01023	FIG00512783	22	6	24	FIG00512786: hypothetical protein
+prot_01030	FIG00000532	250	44	250	UDP-glucose dehydrogenase (EC 1.1.1.22)
+prot_01031	FIG00001821	30	10	33	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase (EC 2.3.1.89)
+prot_01032	FIG01393078	34	17	39	Pleiotropic regulatory protein
+prot_01033	FIG00712911	45	11	47	UDP-2-acetamido-2-deoxy-D-glucuronic acid dehydrogenase (NAD+ cofactor)
+prot_01036	FIG00000532	204	35	204	UDP-glucose dehydrogenase (EC 1.1.1.22)
+prot_01037	FIG01534732	6	4	8	putative flippase
+prot_01038	FIG01193496	5	2	7	Glycosyltransferase (EC 2.4.1.-)
+prot_01045	FIG00621114	36	12	37	3-oxoacyl-[acyl-carrier protein] reductase (EC 1.1.1.100)
+prot_01047	FIG01348229	3	2	4	Acyl carrier protein
+prot_01048	FIG00015100	34	9	37	3-oxoacyl-[acyl-carrier-protein] synthase, KASIII (EC 2.3.1.180)
+prot_01050	FIG00150184	8	5	11	Bacillosamine/Legionaminic acid biosynthesis aminotransferase PglE; 4-keto-6-deoxy-N-Acetyl-D-hexosaminyl-(Lipid carrier) aminotransferase
+prot_01051	FIG01955850	24	8	29	Lipid carrier : UDP-N-acetylgalactosaminyltransferase (EC 2.4.1.-)
+prot_01052	FIG00003715	310	47	310	UDP-N-acetylglucosamine 4,6-dehydratase (EC 4.2.1.-)
+prot_01056	FIG01954244	31	18	34	putative polysialic acid transport protein
+prot_01058	FIG00869624	32	12	35	Ribosomal large subunit pseudouridine synthase B (EC 4.2.1.70)
+prot_01059	FIG00439698	13	7	14	membrane protein, putative
+prot_01060	FIG00000274	318	45	318	tRNA-guanine transglycosylase (EC 2.4.2.29)
+prot_01061	FIG00937439	59	14	62	Dipeptidyl peptidase IV
+prot_01062	FIG00001188	146	27	148	Aminoacyl-histidine dipeptidase (Peptidase D) (EC 3.4.13.3)
+prot_01063	FIG00000860	5	3	7	O-succinylbenzoic acid--CoA ligase (EC 6.2.1.26)
+prot_01064	FIG01424094	133	32	136	FIG00898139: hypothetical protein
+prot_01065	FIG01955809	162	27	162	Cytoplasmic copper homeostasis protein cutC
+prot_01066	FIG00038920	127	26	130	Alpha-L-fucosidase (EC 3.2.1.51)
+prot_01068	FIG01316199	5	5	7	Nitroreductase family protein
+prot_01069	FIG00939962	4	3	7	FIG00405262: hypothetical protein
+prot_01072	FIG00000477	25	8	26	Type I restriction-modification system, DNA-methyltransferase subunit M (EC 2.1.1.72)
+prot_01074	FIG01451256	133	29	136	Mobilization protein BmpH
+prot_01077	FIG01463095	34	6	35	hypothetical protein
+prot_01079	FIG01116662	331	49	333	Integrase
+prot_01081	FIG00000207	216	33	216	Cobalt-zinc-cadmium resistance protein
+prot_01082	FIG00731882	34	11	39	Chloride channel protein
+prot_01084	FIG00000592	363	56	363	NAD(P)HX epimerase / NAD(P)HX dehydratase
+prot_01085	FIG00004528	55	20	61	Di-/tripeptide transporter
+prot_01086	FIG00004528	117	24	119	Di-/tripeptide transporter
+prot_01087	FIG00017431	16	8	18	Serine phosphatase RsbU, regulator of sigma subunit
+prot_01088	FIG00017431	294	43	294	Serine phosphatase RsbU, regulator of sigma subunit
+prot_01089	FIG01396189	122	25	124	Transposase, IS4
+prot_01100	FIG00946040	9	4	11	putative anti-sigma factor
+prot_01107	FIG00946040	11	4	12	putative anti-sigma factor
+prot_01109	FIG01321404	19	7	21	Probable glutamate/gamma-aminobutyrate antiporter
+prot_01111	FIG00010134	313	50	313	Methionine transporter MetT
+prot_01113	FIG00896782	78	29	85	AcrB/D/F family transporter
+prot_01115	FIG00007843	641	96	641	gliding motility protein GldG
+prot_01116	FIG00936869	84	18	86	DNA Pol III Epsilon Chain
+prot_01117	FIG00066425	309	44	309	DNA polymerase III beta subunit (EC 2.7.7.7)
+prot_01119	FIG00010600	122	25	125	Xaa-Pro aminopeptidase (EC 3.4.11.9)
+prot_01121	FIG00003953	67	13	68	Methylmalonyl-CoA epimerase (EC 5.1.99.1)
+prot_01122	FIG00017160	78	26	94	Methylmalonyl-CoA decarboxylase, alpha chain (EC 4.1.1.41)
+prot_01126	FIG00001675	66	19	69	Oxaloacetate decarboxylase beta chain (EC 4.1.1.3)
+prot_01128	FIG01310523	4	3	5	probable uroporphyrin-III c-methyltransferase (EC 2.1.1.107)
+prot_01129	FIG00554193	107	25	110	Tripeptide aminopeptidase (EC 3.4.11.4)
+prot_01130	FIG01312850	133	32	135	Oligopeptide transporter, OPT family
+prot_01134	FIG01307387	4	4	17	MFS general substrate transporter
+prot_01135	FIG01316199	37	8	39	Nitroreductase family protein
+prot_01136	FIG01316199	14	4	16	Nitroreductase family protein
+prot_01137	FIG01371060	50	15	52	Outer membrane protein romA
+prot_01139	FIG00000425	763	112	763	Topoisomerase IV subunit A (EC 5.99.1.-)
+prot_01140	FIG00000439	492	73	492	Topoisomerase IV subunit B (EC 5.99.1.-)
+prot_01143	FIG00000972	8	5	9	Biotin--protein ligase (EC 6.3.4.9, EC 6.3.4.10, EC 6.3.4.11, EC 6.3.4.15)
+prot_01144	FIG00552544	5	3	7	Outer membrane lipoprotein omp16 precursor
+prot_01145	FIG01306733	3	2	4	Rubrerythrin
+prot_01146	FIG00134830	354	51	354	Lysine 2,3-aminomutase (EC 5.4.3.2)
+prot_01148	FIG00937212	9	4	11	Hemolysin A
+prot_01149	FIG00000594	38	6	38	Chaperone protein HtpG
+prot_01151	FIG00898844	4	4	6	FIG00898845: hypothetical protein
+prot_01152	FIG01365091	10	7	11	FIG00406884: hypothetical protein
+prot_01154	FIG00000828	18	7	23	Ribonuclease Z (EC 3.1.26.11)
+prot_01158	FIG01344518	23	6	25	putative protease I
+prot_01159	FIG00001175	150	23	150	Thiamin pyrophosphokinase (EC 2.7.6.2)
+prot_01160	FIG00030821	171	24	171	Predicted thiamin transporter PnuT
+prot_01164	FIG00000402	346	53	346	Multi antimicrobial extrusion protein (Na(+)/drug antiporter), MATE family of MDR efflux pumps
+prot_01165	FIG00003090	167	23	167	cAMP-binding proteins - catabolite gene activator and regulatory subunit of cAMP-dependent protein kinases
+prot_01166	FIG00048580	158	24	158	Hcp transcriptional regulator HcpR (Crp/Fnr family)
+prot_01168	FIG01297554	258	37	258	Ferredoxin 3 fused to uncharacterized domain
+prot_01169	FIG00001354	438	65	438	Hydroxylamine reductase (EC 1.7.-.-)
+prot_01170	FIG00744597	18	8	22	lipase
+prot_01175	FIG00000387	320	46	320	Nicotinate phosphoribosyltransferase (EC 2.4.2.11)
+prot_01176	FIG00000367	3	2	8	ADP-ribose pyrophosphatase (EC 3.6.1.13)
+prot_01183	FIG00010771	5	3	8	SusC, outer membrane protein involved in starch binding
+prot_01185	FIG00946040	3	3	6	putative anti-sigma factor
+prot_01186	FIG01834805	14	5	15	FIG00407350: hypothetical protein
+prot_01187	FIG00000667	4	6	12	Outer membrane protein assembly factor YaeT precursor
+prot_01191	FIG00008396	29	8	30	Aquaporin Z
+prot_01192	FIG00554193	73	21	79	Tripeptide aminopeptidase (EC 3.4.11.4)
+prot_01193	FIG01955779	116	29	125	Prolyl-tRNA synthetase (EC 6.1.1.15), archaeal/eukaryal type
+prot_01195	FIG01266631	4	4	8	Vitellogenin II precursor
+prot_01197	FIG00846773	219	36	219	Permease of the drug/metabolite transporter (DMT) superfamily
+prot_01198	FIG00108342	347	52	347	tRNA-i(6)A37 methylthiotransferase
+prot_01200	FIG00000307	197	31	197	Dihydropteroate synthase (EC 2.5.1.15)
+prot_01201	FIG00651722	17	7	18	FIG00651728: hypothetical protein
+prot_01203	FIG00000076	183	29	183	Triosephosphate isomerase (EC 5.3.1.1)
+prot_01204	FIG00937050	53	17	57	Dipeptidyl-peptidase III (EC 3.4.14.4)
+prot_01206	FIG00002293	8	2	10	tRNA (guanosine(18)-2'-O)-methyltransferase (EC 2.1.1.34)
+prot_01207	FIG00000367	21	7	23	ADP-ribose pyrophosphatase (EC 3.6.1.13)
+prot_01208	FIG00023268	21	6	22	DNA-binding protein HU-beta
+prot_01209	FIG00010169	11	8	15	NAD(FAD)-utilizing dehydrogenase, sll0175 homolog
+prot_01213	FIG00000414	280	42	280	DNA polymerase III subunits gamma and tau (EC 2.7.7.7)
+prot_01215	FIG01255664	180	31	181	Dienelactone hydrolase and related enzymes
+prot_01220	FIG00001385	12	5	16	N-acetylmuramoyl-L-alanine amidase (EC 3.5.1.28)
+prot_01224	FIG01314079	59	15	61	Transposase
+prot_01225	FIG00008055	3	2	5	Proton/glutamate symport protein @ Sodium/glutamate symport protein
+prot_01234	FIG00002205	698	102	700	DNA helicase IV
+prot_01235	FIG01954412	5	9	13	TonB family protein / TonB-dependent receptor
+prot_01236	FIG00946040	13	5	14	putative anti-sigma factor
+prot_01238	FIG01057935	9	5	11	Fic family protein
+prot_01241	FIG00946040	4	2	6	putative anti-sigma factor
+prot_01248	FIG01396189	189	33	190	Transposase, IS4
+prot_01255	FIG00946040	5	4	7	putative anti-sigma factor
+prot_01257	FIG00011106	4	2	6	BatE
+prot_01258	FIG00009446	10	5	12	BatD
+prot_01259	FIG00035412	17	9	24	BatC
+prot_01260	FIG00938010	37	9	39	BatB
+prot_01261	FIG00015469	31	12	34	BatA (Bacteroides aerotolerance operon)
+prot_01263	FIG00137450	68	11	70	hypothetical protein PA3071
+prot_01264	FIG00002600	90	20	92	MoxR-like ATPase in aerotolerance operon
+prot_01268	FIG00004100	8	4	9	Cold shock protein CspA
+prot_01270	FIG00004345	84	24	86	ATP-dependent RNA helicase RhlE
+prot_01271	FIG01472340	10	3	12	putative RNA-binding protein rbpA
+prot_01272	FIG00001887	71	15	73	Bacterioferritin
+prot_01274	FIG00002239	15	8	18	Glycerophosphoryl diester phosphodiesterase (EC 3.1.4.46)
+prot_01277	FIG01312420	9	2	10	Transcriptional regulator
+prot_01278	FIG00898024	7	3	9	FIG00898025: hypothetical protein
+prot_01279	FIG00002223	12	3	13	Flavodoxin 1
+prot_01280	FIG00938207	6	4	8	FIG00938208: hypothetical protein
+prot_01281	FIG00001650	54	15	65	Histone acetyltransferase HPA2 and related acetyltransferases
+prot_01282	FIG01954984	14	6	17	Methyltransferase type 12
+prot_01285	FIG01306568	5	2	6	Mobile element protein
+prot_01286	FIG01451256	8	5	11	Mobilization protein BmpH
+prot_01287	FIG00019251	289	40	289	DNA primase (EC 2.7.7.-)
+prot_01288	FIG00898244	88	19	90	FIG00898246: hypothetical protein
+prot_01289	FIG01414163	7	2	9	putative excisionase
+prot_01290	FIG01353761	42	14	44	FIG00897538: hypothetical protein
+prot_01291	FIG01396189	131	26	133	Transposase, IS4
+prot_01293	FIG00446664	382	62	383	Retron-type RNA-directed DNA polymerase (EC 2.7.7.49)
+prot_01294	FIG01508374	149	25	150	Phage integrase precursor
+prot_01295	FIG00896387	5	3	12	putative sodium-dependent transporter
+prot_01296	FIG00000179	142	29	144	Amidophosphoribosyltransferase (EC 2.4.2.14)
+prot_01297	FIG00132839	618	88	618	Glutamine synthetase type III, GlnN (EC 6.3.1.2)
+prot_01302	FIG01326468	5	6	11	Acetyl esterase
+prot_01303	FIG00000594	39	6	39	Chaperone protein HtpG
+prot_01304	FIG01303877	51	14	56	Phosphoadenylyl-sulfate reductase [thioredoxin] (EC 1.8.4.8) / Adenylyl-sulfate reductase [thioredoxin] (EC 1.8.4.10)
+prot_01305	FIG00011114	201	32	201	Phosphate transport ATP-binding protein PstB (TC 3.A.1.7.1)
+prot_01306	FIG00083946	188	32	188	Phosphate transport system permease protein PstA (TC 3.A.1.7.1)
+prot_01307	FIG00018561	231	35	231	Phosphate transport system permease protein PstC (TC 3.A.1.7.1)
+prot_01308	FIG00010508	254	40	254	Phosphate ABC transporter, periplasmic phosphate-binding protein PstS (TC 3.A.1.7.1)
+prot_01309	FIG01955902	37	6	37	Rubredoxin
+prot_01310	FIG00907554	6	4	12	FIG00907557: hypothetical protein
+prot_01312	FIG01308481	48	16	50	Two-component system sensor histidine kinase
+prot_01313	FIG01308481	3	3	5	Two-component system sensor histidine kinase
+prot_01315	FIG00512713	4	4	7	Iron-sulfur flavoprotein
+prot_01316	FIG00002048	10	5	11	Cell division inhibitor
+prot_01318	FIG00000538	203	27	203	Uracil-DNA glycosylase, family 1
+prot_01320	FIG00104852	50	15	52	Predicted D-lactate dehydrogenase, Fe-S protein, FAD/FMN-containing
+prot_01323	FIG00004917	104	24	105	Protein AraJ precursor
+prot_01324	FIG01347028	7	3	9	Possible glyoxylase family protein (Lactoylglutathione lyase) (EC 4.4.1.5)
+prot_01327	FIG00001908	367	59	367	UDP-sugar hydrolase (EC 3.6.1.45); 5'-nucleotidase (EC 3.1.3.5)
+prot_01331	FIG00139259	3	2	5	Eukaryotic-type low-affinity urea transporter
+prot_01332	FIG00001113	260	37	260	Urease accessory protein UreD
+prot_01333	FIG00001001	166	25	166	Urease accessory protein UreG
+prot_01334	FIG00001025	191	28	191	Urease accessory protein UreF
+prot_01337	FIG00002050	424	66	424	Urease alpha subunit (EC 3.5.1.5)
+prot_01338	FIG00001042	113	19	113	Urease beta subunit (EC 3.5.1.5)
+prot_01339	FIG00010604	55	10	55	Urease gamma subunit (EC 3.5.1.5)
+prot_01344	FIG00001872	253	36	253	COG1720: Uncharacterized conserved protein
+prot_01348	FIG01306568	32	12	34	Mobile element protein
+prot_01351	FIG00936212	28	5	30	FIG00936213: hypothetical protein
+prot_01352	FIG00001980	156	21	156	Very-short-patch mismatch repair endonuclease (G-T specific)
+prot_01354	FIG01241328	13	3	15	5-methylcytosine-specific restriction related enzyme
+prot_01356	FIG01304601	766	114	766	Exonuclease SbcC
+prot_01357	FIG00003334	15	7	19	DNA-cytosine methyltransferase (EC 2.1.1.37)
+prot_01370	FIG00010771	6	3	8	SusC, outer membrane protein involved in starch binding
+prot_01377	FIG01625245	9	6	11	FIG00898051: hypothetical protein
+prot_01389	FIG01234439	3	2	4	RS21-C6-like protein (RS21-C6 protein)
+prot_01390	FIG01964216	49	17	53	ATP/GTP binding protein
+prot_01393	FIG01832216	3	2	5	FIG00417958: hypothetical protein
+prot_01398	FIG00004334	9	4	10	CRISPR-associated protein Cas2
+prot_01399	FIG00023946	64	12	66	CRISPR-associated protein Cas1
+prot_01400	FIG00093352	3	3	4	CRISPR-associated RecB family exonuclease Cas4a
+prot_01401	FIG00002034	9	6	11	CRISPR-associated helicase Cas3
+prot_01402	FIG00138619	8	3	9	CRISPR-associated protein, Cas5h family
+prot_01408	FIG01313749	77	18	79	Prolidase (EC 3.4.13.9)
+prot_01411	FIG00002333	324	51	324	Putative Dihydrolipoamide dehydrogenase (EC 1.8.1.4); Mercuric ion reductase (EC 1.16.1.1); PF00070 family, FAD-dependent NAD(P)-disulphide oxidoreductase
+prot_01412	FIG00001910	8	3	9	Acyl carrier protein phosphodiesterase (EC 3.1.4.14)
+prot_01415	FIG01376814	35	15	37	Glutamate decarboxylase (EC 4.1.1.15)
+prot_01418	FIG00000287	718	104	718	Cell division protein FtsK
+prot_01420	FIG00001732	25	8	27	Aminopeptidase C (EC 3.4.22.40)
+prot_01421	FIG00661484	15	8	19	Alkyldihydroxyacetonephosphate synthase (EC 2.5.1.26)
+prot_01434	FIG00000015	249	35	249	Signal peptidase I (EC 3.4.21.89)
+prot_01435	FIG00007957	385	68	385	Glutamate synthase [NADPH] small chain (EC 1.4.1.13)
+prot_01436	FIG00138356	81	12	81	Translation initiation factor SUI1-related protein
+prot_01439	FIG01311360	66	15	68	ABC transporter permease
+prot_01440	FIG00000667	39	9	41	Outer membrane protein assembly factor YaeT precursor
+prot_01441	FIG00003808	25	12	30	Two-component system response regulator
+prot_01442	FIG01308481	22	8	25	Two-component system sensor histidine kinase
+prot_01443	FIG00561498	361	54	361	D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)
+prot_01445	FIG00000323	373	54	373	Exodeoxyribonuclease VII large subunit (EC 3.1.11.6)
+prot_01447	FIG00000298	169	24	169	GTP-binding protein EngB
+prot_01448	FIG00000595	341	51	341	DNA recombination protein RmuC
+prot_01449	FIG00001381	23	9	25	DEAD-box ATP-dependent RNA helicase CshA (EC 3.6.4.13)
+prot_01450	FIG00000145	278	44	278	Cell division protein FtsZ (EC 3.4.24.-)
+prot_01451	FIG00000145	318	50	318	Cell division protein FtsZ (EC 3.4.24.-)
+prot_01452	FIG00000385	310	46	310	Cell division protein FtsA
+prot_01453	FIG00021517	167	25	169	Cell division protein FtsQ
+prot_01454	FIG00135554	353	54	353	UDP-N-acetylmuramate--alanine ligase (EC 6.3.2.8)
+prot_01455	FIG00047056	218	40	218	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227)
+prot_01456	FIG00000025	375	56	375	Cell division protein FtsW
+prot_01457	FIG00085033	324	50	324	UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)
+prot_01458	FIG00000221	306	47	306	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)
+prot_01459	FIG00000243	362	56	362	UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase (EC 6.3.2.13)
+prot_01460	FIG00046929	590	84	590	Cell division protein FtsI [Peptidoglycan synthetase] (EC 2.4.1.129)
+prot_01462	FIG00000172	223	36	223	rRNA small subunit methyltransferase H
+prot_01463	FIG00000547	129	18	129	Cell division protein MraZ
+prot_01464	FIG01388981	177	28	177	Tyrosine type site-specific recombinase
+prot_01466	FIG00897622	77	12	77	Similar to conjugative transposon protein TraH
+prot_01470	FIG01321637	43	11	46	Metal transporter, ZIP family
+prot_01474	FIG00120101	659	94	659	TonB-dependent receptor; Outer membrane receptor for ferrienterochelin and colicins
+prot_01479	FIG01306568	13	4	14	Mobile element protein
+prot_01485	FIG00000194	113	17	113	tmRNA-binding protein SmpB
+prot_01487	FIG00945012	16	9	18	4-hydroxybutyrate coenzyme A transferase
+prot_01488	FIG00023004	328	50	328	Deoxyguanosinetriphosphate triphosphohydrolase (EC 3.1.5.1)
+prot_01489	FIG00012764	18	5	21	Transamidase GatB domain protein
+prot_01492	FIG00897209	20	7	21	FIG00897708: hypothetical protein
+prot_01493	FIG00000402	64	16	66	Multi antimicrobial extrusion protein (Na(+)/drug antiporter), MATE family of MDR efflux pumps
+prot_01496	FIG00946040	6	4	8	putative anti-sigma factor
+prot_01500	FIG00719736	17	9	19	Aspartate aminotransferase (EC 2.6.1.1)
+prot_01501	FIG00008294	243	36	243	Membrane-bound lytic murein transglycosylase D precursor (EC 3.2.1.-)
+prot_01502	FIG00000995	47	13	49	Uridine kinase (EC 2.7.1.48)
+prot_01503	FIG01017256	4	6	6	Probable Co/Zn/Cd efflux system membrane fusion protein
+prot_01504	FIG00000518	100	16	100	Large-conductance mechanosensitive channel
+prot_01506	FIG00218417	119	17	119	probable beta-D-galactosidase
+prot_01507	FIG01304818	222	33	222	GTP-binding protein Era
+prot_01508	FIG00129616	322	50	322	GTP-binding protein EngA
+prot_01510	FIG00133292	223	35	223	Electron transport complex protein RnfB
+prot_01511	FIG00018536	332	52	332	Electron transport complex protein RnfC
+prot_01512	FIG00022976	223	34	223	Electron transport complex protein RnfD
+prot_01513	FIG00002689	138	23	138	Electron transport complex protein RnfG
+prot_01514	FIG00134060	128	22	128	Electron transport complex protein RnfE
+prot_01515	FIG00001505	125	21	125	Electron transport complex protein RnfA
+prot_01516	FIG00000289	85	25	87	tRNA nucleotidyltransferase (EC 2.7.7.21) (EC 2.7.7.25)
+prot_01517	FIG00001646	12	6	14	Transcription regulator [contains diacylglycerol kinase catalytic domain]
+prot_01518	FIG00000532	206	37	206	UDP-glucose dehydrogenase (EC 1.1.1.22)
+prot_01520	FIG01368718	8	4	11	FIG00908368: hypothetical protein
+prot_01521	FIG01376123	48	9	49	putative ATP-dependent DNA helicase
+prot_01523	FIG00498241	69	26	80	peptidase M16 domain protein
+prot_01524	FIG00935893	69	13	71	Flavoredoxin
+prot_01526	FIG00035201	216	39	216	Ornithine aminotransferase (EC 2.6.1.13)
+prot_01528	FIG00134348	248	40	248	TsaD/Kae1/Qri7 protein, required for threonylcarbamoyladenosine t(6)A37 formation in tRNA
+prot_01529	FIG00031250	184	30	184	D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95)
+prot_01530	FIG00000594	32	5	32	Chaperone protein HtpG
+prot_01531	FIG00938437	7	3	9	FIG00938439: hypothetical protein
+prot_01532	FIG00935706	47	9	48	FIG00935708: hypothetical protein
+prot_01533	FIG00938964	37	10	39	hypothetical transporter PduT for various metalloporphyrins
+prot_01534	FIG00937326	5	3	7	FIG00402742: hypothetical protein
+prot_01535	FIG00937127	105	33	113	CobN/magnesium chelatase family protein
+prot_01542	FIG00000402	347	52	347	Multi antimicrobial extrusion protein (Na(+)/drug antiporter), MATE family of MDR efflux pumps
+prot_01543	FIG00000858	490	70	490	Adenosylhomocysteinase (EC 3.3.1.1)
+prot_01544	FIG00102132	47	9	48	Deoxycytidine triphosphate deaminase (EC 3.5.4.13)
+prot_01548	FIG00937649	85	26	89	FIG00937650: hypothetical protein
+prot_01549	FIG00938317	3	4	7	FIG00938318: hypothetical protein
+prot_01552	FIG01322260	11	5	14	Probable zinc protease pqqL (EC 3.4.99.-)
+prot_01553	FIG00938437	16	7	18	FIG00938439: hypothetical protein
+prot_01556	FIG00023943	277	42	277	DNA polymerase IV (EC 2.7.7.7)
+prot_01557	FIG01319925	36	9	39	Pirin
+prot_01558	FIG00846773	257	38	257	Permease of the drug/metabolite transporter (DMT) superfamily
+prot_01560	FIG00946155	140	30	142	putative helicase
+prot_01562	FIG00000558	77	13	77	NADH ubiquinone oxidoreductase chain A (EC 1.6.5.3)
+prot_01563	FIG00133539	145	21	145	NADH-ubiquinone oxidoreductase chain B (EC 1.6.5.3)
+prot_01564	FIG01304927	422	63	422	NADH-ubiquinone oxidoreductase chain C (EC 1.6.5.3) / NADH-ubiquinone oxidoreductase chain D (EC 1.6.5.3)
+prot_01565	FIG00133041	289	43	289	NADH-ubiquinone oxidoreductase chain H (EC 1.6.5.3)
+prot_01566	FIG00138210	134	19	134	NADH-ubiquinone oxidoreductase chain I (EC 1.6.5.3)
+prot_01567	FIG00000569	126	20	126	NADH-ubiquinone oxidoreductase chain J (EC 1.6.5.3)
+prot_01568	FIG00000559	80	12	80	NADH-ubiquinone oxidoreductase chain K (EC 1.6.5.3)
+prot_01569	FIG00068727	443	69	443	NADH-ubiquinone oxidoreductase chain L (EC 1.6.5.3)
+prot_01570	FIG00138227	365	53	365	NADH-ubiquinone oxidoreductase chain M (EC 1.6.5.3)
+prot_01571	FIG00000512	362	56	362	NADH-ubiquinone oxidoreductase chain N (EC 1.6.5.3)
+prot_01572	FIG00034973	15	6	17	2-dehydropantoate 2-reductase (EC 1.1.1.169)
+prot_01573	FIG00003555	23	6	24	Phosphoglycolate phosphatase (EC 3.1.3.18)
+prot_01574	FIG00000036	212	33	212	Methionine aminopeptidase (EC 3.4.11.18)
+prot_01575	FIG00000402	372	54	372	Multi antimicrobial extrusion protein (Na(+)/drug antiporter), MATE family of MDR efflux pumps
+prot_01577	FIG01337950	4	4	9	BexA, multidrug efflux pump
+prot_01581	FIG00003555	3	2	6	Phosphoglycolate phosphatase (EC 3.1.3.18)
+prot_01584	FIG01322260	19	7	21	Probable zinc protease pqqL (EC 3.4.99.-)
+prot_01593	FIG00002470	56	14	59	Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)
+prot_01594	FIG01348229	5	2	6	Acyl carrier protein
+prot_01595	FIG00001579	403	58	403	D-alanine--poly(phosphoribitol) ligase subunit 1 (EC 6.1.1.13)
+prot_01605	FIG00023994	234	35	234	ATP synthase gamma chain (EC 3.6.3.14)
+prot_01606	FIG01969372	349	55	349	ATP synthase alpha chain (EC 3.6.3.14)
+prot_01607	FIG00000262	142	21	142	ATP synthase delta chain (EC 3.6.3.14)
+prot_01608	FIG00000186	102	18	102	ATP synthase F0 sector subunit b
+prot_01609	FIG00017607	42	7	42	ATP synthase F0 sector subunit c
+prot_01610	FIG01959520	269	40	269	ATP synthase F0 sector subunit a
+prot_01611	FIG00000249	53	9	53	ATP synthase epsilon chain (EC 3.6.3.14)
+prot_01612	FIG00040241	342	53	342	ATP synthase beta chain (EC 3.6.3.14)
+prot_01619	FIG00001174	245	35	245	Glutaminase (EC 3.5.1.2)
+prot_01627	FIG01306568	5	2	6	Mobile element protein
+prot_01629	FIG00009681	16	3	19	Bipolar DNA helicase HerA
+prot_01633	FIG00502854	25	8	27	Predicted ATPase (AAA+ superfamily)
+prot_01644	FIG00001326	313	49	313	Type IV fimbrial assembly, ATPase PilB
+prot_01646	FIG00002458	91	15	91	Type IV pilin PilA
+prot_01652	FIG00079822	4	3	6	Aspartate ammonia-lyase (EC 4.3.1.1)
+prot_01653	FIG01305173	202	42	203	Methylmalonyl-CoA mutase (EC 5.4.99.2)
+prot_01654	FIG01305173	195	40	198	Methylmalonyl-CoA mutase (EC 5.4.99.2)
+prot_01656	FIG00629921	86	19	88	transcriptional regulator
+prot_01657	FIG01326491	294	53	296	alkyl sulfatase (EC 3.1.6.-)
+prot_01658	FIG00796613	164	27	164	Beta-phosphoglucomutase (EC 5.4.2.6)
+prot_01661	FIG01969951	18	6	20	DNA polymerase III epsilon subunit (EC 2.7.7.7)
+prot_01662	FIG00001166	22	13	45	Arginine/ornithine antiporter ArcD
+prot_01663	FIG00000908	104	19	106	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase (EC 2.3.1.117)
+prot_01664	FIG00072271	88	16	90	Meso-diaminopimelate D-dehydrogenase (EC 1.4.1.16)
+prot_01669	FIG01954412	5	4	7	TonB family protein / TonB-dependent receptor
+prot_01670	FIG00946040	9	5	11	putative anti-sigma factor
+prot_01671	FIG00937790	3	3	5	RNA polymerase ECF-type sigma factor
+prot_01672	FIG00012971	138	22	138	TsaC protein (YrdC domain) required for threonylcarbamoyladenosine t(6)A37 modification in tRNA
+prot_01673	FIG00000247	184	26	184	TsaB protein, required for threonylcarbamoyladenosine (t(6)A) formation in tRNA
+prot_01680	FIG00946040	7	3	9	putative anti-sigma factor
+prot_01681	FIG01337039	46	13	48	FIG00411375: hypothetical protein
+prot_01682	FIG01380942	147	33	150	FIG00406060: hypothetical protein
+prot_01683	FIG01678946	32	11	34	FIG00413008: hypothetical protein
+prot_01687	FIG00938131	4	3	6	Immunoreactive 53 kDa antigen PG123
+prot_01696	FIG00229216	6	3	7	Diacylglycerol kinase (EC 2.7.1.107)
+prot_01697	FIG01311399	14	4	16	Membrane-associated phospholipid phosphatase
+prot_01701	FIG00120101	549	79	549	TonB-dependent receptor; Outer membrane receptor for ferrienterochelin and colicins
+prot_01702	FIG00000011	636	95	636	Multimodular transpeptidase-transglycosylase (EC 2.4.1.129) (EC 3.4.-.-)
+prot_01705	FIG00897332	15	7	20	FIG00897334: hypothetical protein
+prot_01706	FIG00896779	28	8	30	FIG00896781: hypothetical protein
+prot_01707	FIG00897901	18	7	22	FIG00897902: hypothetical protein
+prot_01710	FIG00059124	113	18	113	Low molecular weight protein tyrosine phosphatase (EC 3.1.3.48)
+prot_01711	FIG00000095	224	38	224	Signal recognition particle receptor protein FtsY (=alpha subunit) (TC 3.A.5.1.1)
+prot_01716	FIG00946040	5	3	8	putative anti-sigma factor
+prot_01719	FIG01396189	126	27	127	Transposase, IS4
+prot_01720	FIG00439698	30	8	31	membrane protein, putative
+prot_01722	FIG01306568	3	4	5	Mobile element protein
+prot_01724	FIG00937811	15	6	16	Hypothetical Nudix-like regulator
+prot_01725	FIG00001548	26	5	26	Beta-galactosidase (EC 3.2.1.23)
+prot_01726	FIG00001548	8	2	8	Beta-galactosidase (EC 3.2.1.23)
+prot_01729	FIG00038814	142	28	143	RNA polymerase sigma factor RpoD
+prot_01730	FIG00003002	41	14	45	HtrA protease/chaperone protein
+prot_01731	FIG00000421	36	11	37	Diaminopimelate epimerase (EC 5.1.1.7)
+prot_01735	FIG00001337	356	53	356	Na(+)-translocating NADH-quinone reductase subunit A (EC 1.6.5.-)
+prot_01736	FIG00033847	290	44	290	Na(+)-translocating NADH-quinone reductase subunit B (EC 1.6.5.-)
+prot_01737	FIG00036997	182	26	182	Na(+)-translocating NADH-quinone reductase subunit C (EC 1.6.5.-)
+prot_01738	FIG00002053	154	26	154	Na(+)-translocating NADH-quinone reductase subunit D (EC 1.6.5.-)
+prot_01739	FIG00001289	192	30	192	Na(+)-translocating NADH-quinone reductase subunit E (EC 1.6.5.-)
+prot_01740	FIG00001373	330	49	330	Na(+)-translocating NADH-quinone reductase subunit F (EC 1.6.5.-)
+prot_01744	FIG01954412	6	4	11	TonB family protein / TonB-dependent receptor
+prot_01745	FIG00946040	3	3	6	putative anti-sigma factor
+prot_01748	FIG00000040	332	49	332	Serine hydroxymethyltransferase (EC 2.1.2.1)
+prot_01750	FIG00000261	12	6	13	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)
+prot_01751	FIG00001618	291	51	293	Oxaloacetate decarboxylase alpha chain (EC 4.1.1.3)
+prot_01753	FIG01956045	51	16	53	Na(+)/H(+) antiporter
+prot_01765	FIG00000124	70	20	71	Ribosomal large subunit pseudouridine synthase D (EC 4.2.1.70)
+prot_01766	FIG00116638	68	17	69	Carboxynorspermidine decarboxylase, putative (EC 4.1.1.-)
+prot_01767	FIG00016265	87	22	88	Carboxynorspermidine dehydrogenase, putative (EC 1.1.1.-)
+prot_01769	FIG00132942	712	112	712	RND multidrug efflux transporter; Acriflavin resistance protein
+prot_01770	FIG00001932	228	37	228	Probable Co/Zn/Cd efflux system membrane fusion protein
+prot_01771	FIG00004180	11	5	13	Magnesium and cobalt transport protein CorA
+prot_01774	FIG00002803	304	48	304	Membrane-associated zinc metalloprotease
+prot_01775	FIG00000401	285	45	285	1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)
+prot_01778	FIG01341998	23	9	26	Small-conductance mechanosensitive channel
+prot_01779	FIG01322260	16	6	18	Probable zinc protease pqqL (EC 3.4.99.-)
+prot_01780	FIG00139706	126	25	128	N-acetyl glucosamine transporter, NagP
+prot_01784	FIG00000560	433	63	433	Peptide chain release factor 3
+prot_01787	FIG00000146	254	48	256	Excinuclease ABC subunit B
+prot_01788	FIG00000766	379	56	379	Alkaline phosphatase (EC 3.1.3.1)
+prot_01795	FIG00937480	8	4	12	FIG00937481: hypothetical protein
+prot_01803	FIG00002720	35	13	37	Lipopolysaccharide ABC transporter, ATP-binding protein LptB
+prot_01805	FIG00000743	62	14	64	Arabinose 5-phosphate isomerase (EC 5.3.1.13)
+prot_01806	FIG00000422	552	82	552	ATP-dependent DNA helicase RecQ
+prot_01810	FIG00000309	266	40	266	Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)
+prot_01811	FIG00000300	443	68	443	Lysyl-tRNA synthetase (class II) (EC 6.1.1.6)
+prot_01818	FIG01304224	280	49	282	Large exoproteins involved in heme utilization or adhesion
+prot_01819	FIG01304224	256	47	258	Large exoproteins involved in heme utilization or adhesion
+prot_01820	FIG01304224	230	43	232	Large exoproteins involved in heme utilization or adhesion
+prot_01821	FIG01304224	439	67	439	Large exoproteins involved in heme utilization or adhesion
+prot_01822	FIG01304224	428	67	429	Large exoproteins involved in heme utilization or adhesion
+prot_01829		108	15	108	hypothetical protein
+prot_01830	FIG00897048	420	62	420	FIG00897050: hypothetical protein
+prot_01831	FIG00638247	147	25	147	Resolvase
+prot_01832	FIG00005283	211	31	211	Putative DNA-binding protein in cluster with Type I restriction-modification system
+prot_01833	FIG01479074	94	13	94	p5482_32
+prot_01835	FIG01372864	56	9	56	FIG00403362: hypothetical protein
+prot_01836	FIG00898445	327	45	327	FIG00898446: hypothetical protein
+prot_01837	FIG01391233	242	35	242	FIG00407081: hypothetical protein
+prot_01838	FIG00938131	350	49	350	Immunoreactive 53 kDa antigen PG123
+prot_01841	FIG00502854	345	49	345	Predicted ATPase (AAA+ superfamily)
+prot_01846	FIG01356329	58	9	58	FIG00897857: hypothetical protein
+prot_01850	FIG00060517	476	69	476	Single-stranded-DNA-specific exonuclease RecJ (EC 3.1.-.-)
+prot_01851	FIG00000190	158	24	158	Recombination protein RecR
+prot_01853	FIG01956050	93	17	94	Integral membrane protein
+prot_01856	FIG01954412	4	4	6	TonB family protein / TonB-dependent receptor
+prot_01857	FIG00946040	11	6	12	putative anti-sigma factor
+prot_01858	FIG01328633	152	36	154	Conserved protein, with a weak D-galactarate dehydratase/altronate hydrolase domain
+prot_01861	FIG01396189	124	26	126	Transposase, IS4
+prot_01869	FIG00937480	3	3	7	FIG00937481: hypothetical protein
+prot_01877	FIG01306733	6	5	8	Rubrerythrin
+prot_01878	FIG00939557	22	10	42	FIG00939558: hypothetical protein
+prot_01879	FIG00007641	60	17	62	Enoyl-[acyl-carrier-protein] reductase [FMN] (EC 1.3.1.9)
+prot_01880	FIG01315555	5	4	7	putative zinc protease
+prot_01881	FIG01005052	9	3	11	ZINC PROTEASE (EC 3.4.99.-)
+prot_01884	FIG00024510	4	3	8	NAD(P)H oxidoreductase YRKL (EC 1.6.99.-) @ Putative NADPH-quinone reductase (modulator of drug activity B) @ Flavodoxin 2
+prot_01886	FIG00004587	9	4	10	PhnO protein
+prot_01888	FIG00937790	3	3	4	RNA polymerase ECF-type sigma factor
+prot_01896	FIG00937480	11	4	15	FIG00937481: hypothetical protein
+prot_01903	FIG00092051	114	27	117	putative membrane protein
+prot_01904	FIG00095288	3	2	5	Cell wall endopeptidase, family M23/M37
+prot_01905	FIG00000720	100	17	100	Cytidine deaminase (EC 3.5.4.5)
+prot_01907	FIG01320216	12	6	14	Hemagglutinin
+prot_01909	FIG00003788	13	10	20	Glycosyl transferase, group 2 family protein
+prot_01910	FIG00001253	168	25	168	G:T/U mismatch-specific uracil/thymine DNA-glycosylase
+prot_01911	FIG00004528	215	37	216	Di-/tripeptide transporter
+prot_01912	FIG00001377	160	32	162	Pyruvate oxidase [ubiquinone, cytochrome] (EC 1.2.2.2)
+prot_01913	FIG00000504	592	84	592	Polyphosphate kinase (EC 2.7.4.1)
+prot_01914	FIG00066575	233	36	233	Exopolyphosphatase (EC 3.6.1.11)
+prot_01915	FIG00002099	314	48	314	Acetyl-coenzyme A carboxyl transferase alpha chain (EC 6.4.1.2) / Acetyl-coenzyme A carboxyl transferase beta chain (EC 6.4.1.2); Propionyl-CoA carboxylase beta chain (EC 6.4.1.3)
+prot_01917	FIG00744535	14	5	18	ABC transporter, ATP-binding protein
+prot_01918	FIG00439698	19	8	21	membrane protein, putative
+prot_01924	FIG01228322	56	17	60	FIG008208: hypothetical protein
+prot_01925	FIG00031250	225	36	225	D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95)
+prot_01926	FIG00000445	297	43	297	Phosphoserine aminotransferase (EC 2.6.1.52)
+prot_01927	FIG00138538	305	43	305	Aminomethyltransferase (glycine cleavage system T protein) (EC 2.1.2.10)
+prot_01930	FIG01031438	37	9	39	DNA-binding response regulator
+prot_01931	FIG01308481	8	5	11	Two-component system sensor histidine kinase
+prot_01932	FIG01316706	3	3	5	putative periplasmic protein
+prot_01934	FIG00003535	207	29	207	Hydrolase (HAD superfamily) in cluster with DUF1447
+prot_01935	FIG00000043	386	55	386	Pyruvate kinase (EC 2.7.1.40)
+prot_01936	FIG00000430	76	14	76	3-dehydroquinate dehydratase II (EC 4.2.1.10)
+prot_01939	FIG00000196	64	14	65	tRNA dimethylallyltransferase (EC 2.5.1.75)
+prot_01943	FIG01396189	131	26	133	Transposase, IS4
+prot_01946	FIG01326884	44	14	46	HIPA PROTEIN
+prot_01947	FIG01315156	146	24	147	Ser/Thr protein phosphatase family protein
+prot_01948	FIG01229404	140	20	141	Phosphohydrolase (MutT/nudix family protein)
+prot_01949	FIG00054476	342	50	342	archaeal ATPase, fused to C-terminal DUF234 domain
+prot_01954	FIG01563195	16	6	17	FIG00939935: hypothetical protein
+prot_01957	FIG00009681	15	5	18	Bipolar DNA helicase HerA
+prot_01958	FIG00001980	51	7	51	Very-short-patch mismatch repair endonuclease (G-T specific)
+prot_01960	FIG00005283	201	33	203	Putative DNA-binding protein in cluster with Type I restriction-modification system
+prot_01961	FIG00005283	206	33	207	Putative DNA-binding protein in cluster with Type I restriction-modification system
+prot_01963	FIG01438911	43	8	44	Excisionase
+prot_01964	FIG01382441	151	26	152	putative protein involved in transposition
+prot_01965	FIG01116662	296	42	299	Integrase
+prot_01966	FIG01331389	133	30	135	putative transposase
+prot_01967	FIG00000279	337	53	337	GTPase and tRNA-U34 5-formylation enzyme TrmE
+prot_01969	FIG00003029	220	39	222	Tryptophanase (EC 4.1.99.1)
+prot_01975	FIG00000776	23	6	24	6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type
+prot_01976	FIG00004612	76	15	78	LSU m5C1962 methyltransferase RlmI
+prot_01977	FIG00002377	284	48	284	Phosphomannomutase (EC 5.4.2.8) / Phosphoglucosamine mutase (EC 5.4.2.10)
+prot_01978	FIG00000296	87	13	87	Glycine cleavage system H protein
+prot_01980	FIG00897992	78	16	79	BexA
+prot_01982	FIG00007157	19	3	19	Alpha-N-arabinofuranosidase (EC 3.2.1.55)
+prot_01984	FIG00007157	11	3	12	Alpha-N-arabinofuranosidase (EC 3.2.1.55)
+prot_01986	FIG00000084	253	38	253	Ornithine carbamoyltransferase (EC 2.1.3.3)
+prot_01987	FIG00000762	254	39	254	Carbamate kinase (EC 2.7.2.2)
+prot_01990	FIG00010099	7	3	8	Putative Holliday junction resolvase YqgF
+prot_01991	FIG00000017	146	21	146	Peptide deformylase (EC 3.5.1.88)
+prot_01993	FIG00000838	338	51	338	Trk system potassium uptake protein TrkA
+prot_01994	FIG00000736	370	55	370	Potassium uptake protein TrkH
+prot_01995	FIG00436510	10	7	15	Mg(2+) transport ATPase protein C
+prot_01996	FIG00698462	9	6	12	Hypothetical YciO protein, TsaC/YrdC paralog
+prot_01997	FIG00000023	164	25	164	Transaldolase (EC 2.2.1.2)
+prot_02011	FIG00946040	15	6	18	putative anti-sigma factor
+prot_02014	FIG00000087	134	28	136	Histidyl-tRNA synthetase (EC 6.1.1.21)
+prot_02016	FIG00091940	384	59	384	Histidine ammonia-lyase (EC 4.3.1.3)
+prot_02019	FIG00003808	4	4	6	Two-component system response regulator
+prot_02024	FIG00938131	10	6	12	Immunoreactive 53 kDa antigen PG123
+prot_02025	FIG00000139	663	100	663	Alanyl-tRNA synthetase (EC 6.1.1.7)
+prot_02026	FIG00031732	8	5	11	Peptidase, family M23 (EC 3.4.24.-)
+prot_02027	FIG01312420	24	5	25	Transcriptional regulator
+prot_02028	FIG01264307	8	4	10	FIG137478: Hypothetical protein YbgI
+prot_02029	FIG00493361	64	14	65	FIG137478: Hypothetical protein
+prot_02030	FIG00000129	337	64	339	Valyl-tRNA synthetase (EC 6.1.1.9)
+prot_02031	FIG01396189	131	26	133	Transposase, IS4
+prot_02033	FIG01326884	263	47	264	HIPA PROTEIN
+prot_02038	FIG00446664	159	24	160	Retron-type RNA-directed DNA polymerase (EC 2.7.7.49)
+prot_02039	FIG00446664	43	7	44	Retron-type RNA-directed DNA polymerase (EC 2.7.7.49)
+prot_02040	FIG00446664	29	6	30	Retron-type RNA-directed DNA polymerase (EC 2.7.7.49)
+prot_02041	FIG00446664	38	6	38	Retron-type RNA-directed DNA polymerase (EC 2.7.7.49)
+prot_02043	FIG00946040	7	3	9	putative anti-sigma factor
+prot_02045	FIG01354430	3	2	5	Predicted transcriptional regulator containing an HTH domain and an uncharacterized domain shared with the mammalian protein Schlafen
+prot_02047	FIG01314079	7	3	8	Transposase
+prot_02049	FIG00008490	184	27	184	NAD-dependent protein deacetylase of SIR2 family
+prot_02050	FIG00004538	123	28	125	RNA methyltransferase, TrmA family
+prot_02052	FIG00017247	131	19	131	Non-specific DNA-binding protein Dps / Iron-binding ferritin-like antioxidant protein / Ferroxidase (EC 1.16.3.1)
+prot_02056	FIG00000834	361	60	363	Phosphoenolpyruvate carboxykinase [ATP] (EC 4.1.1.49)
+prot_02058	FIG00000508	84	19	86	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase (EC 2.3.1.129)
+prot_02059	FIG00022223	45	18	55	N-acetylglucosamine deacetylase (EC 3.5.1.-) / 3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabZ form (EC 4.2.1.59)
+prot_02060	FIG00138404	12	10	14	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase (EC 2.3.1.191)
+prot_02062	FIG00000168	324	50	324	Transcription termination protein NusA
+prot_02063	FIG00000102	704	112	704	Translation initiation factor 2
+prot_02064	FIG00000709	111	17	111	Cytochrome c-type biogenesis protein DsbD, protein-disulfide reductase (EC 1.8.1.8)
+prot_02065	FIG01378242	3	3	5	Capsule biosynthesis protein capA
+prot_02066	FIG00000967	65	12	66	Methylglyoxal synthase (EC 4.2.3.3)
+prot_02068	FIG00897404	10	8	28	Cation efflux system protein
+prot_02069	FIG00008299	753	119	753	Cobalt-zinc-cadmium resistance protein CzcA; Cation efflux system protein CusA
+prot_02072	FIG01394735	5	2	7	FIG00404105: hypothetical protein
+prot_02073	FIG00621925	3	2	4	Transcriptional regulator, GntR family
+prot_02077	FIG00994683	15	6	17	HIT family protein
+prot_02078	FIG00000288	10	6	12	Transcription elongation factor GreA
+prot_02079	FIG00000214	57	11	58	LSU ribosomal protein L19p
+prot_02080	FIG00000901	15	12	32	Phosphoglucomutase (EC 5.4.2.2)
+prot_02081	FIG00131476	53	14	55	RecD-like DNA helicase Atu2026
+prot_02085	FIG00000700	731	111	731	Glycine dehydrogenase [decarboxylating] (glycine cleavage system P protein) (EC 1.4.4.2)
+prot_02087	FIG01360083	23	8	25	RidA/YER057c/UK114 superfamily, group 7, YjgH-like protein
+prot_02088	FIG00017059	17	7	19	Lipid A export ATP-binding/permease protein MsbA
+prot_02089	FIG00017059	7	7	9	Lipid A export ATP-binding/permease protein MsbA
+prot_02092	FIG00003998	74	14	76	V-type ATP synthase subunit K (EC 3.6.3.14)
+prot_02093	FIG00140555	150	32	153	V-type ATP synthase subunit I (EC 3.6.3.14)
+prot_02094	FIG00002460	79	15	81	V-type ATP synthase subunit D (EC 3.6.3.14)
+prot_02095	FIG00134167	301	48	303	V-type ATP synthase subunit B (EC 3.6.3.14)
+prot_02096	FIG00001902	335	54	336	V-type ATP synthase subunit A (EC 3.6.3.14)
+prot_02097	FIG00002560	25	5	26	V-type ATP synthase subunit C (EC 3.6.3.14)
+prot_02098	FIG00067562	27	10	29	V-type ATP synthase subunit E (EC 3.6.3.14)
+prot_02104	FIG00017761	72	12	72	Biopolymer transport protein ExbD/TolR
+prot_02105	FIG00002161	173	27	173	MotA/TolQ/ExbB proton channel family protein
+prot_02107	FIG00004373	96	23	98	Putative membrane protein YeiH
+prot_02108	FIG00001719	72	15	74	Co-activator of prophage gene expression IbrB
+prot_02109	FIG00001798	56	16	59	Co-activator of prophage gene expression IbrA
+prot_02111	FIG00001049	16	6	18	23S rRNA (guanosine-2'-O-) -methyltransferase rlmB (EC 2.1.1.-)
+prot_02112	FIG00450796	7	5	12	ABC transporter ATP-binding protein
+prot_02113	FIG00043720	303	53	303	Delta-1-pyrroline-5-carboxylate dehydrogenase (EC 1.5.1.12)
+prot_02114	FIG00936696	36	13	38	Polysaccharide biosynthesis protein
+prot_02115	FIG00761799	25	11	26	FIG00761799: membrane protein
+prot_02116	FIG00001045	24	6	25	ATP:Cob(I)alamin adenosyltransferase (EC 2.5.1.17)
+prot_02119	FIG00021289	567	82	567	ATP-dependent DNA helicase RecG (EC 3.6.1.-)
+prot_02122	FIG00079822	315	50	315	Aspartate ammonia-lyase (EC 4.3.1.1)
+prot_02124	FIG00649582	3	2	4	FIG00649583: hypothetical protein
+prot_02126	FIG00038920	8	2	9	Alpha-L-fucosidase (EC 3.2.1.51)
+prot_02128	FIG00000242	477	98	479	DNA-directed RNA polymerase beta' subunit (EC 2.7.7.6)
+prot_02129	FIG00000156	524	99	526	DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)
+prot_02130	FIG00000141	24	9	25	LSU ribosomal protein L7/L12 (P1/P2)
+prot_02131	FIG00000159	23	6	24	LSU ribosomal protein L10p (P0)
+prot_02132	FIG00000264	120	22	121	LSU ribosomal protein L1p (L10Ae)
+prot_02133	FIG00000182	43	9	44	LSU ribosomal protein L11p (L12e)
+prot_02134	FIG00000269	58	11	60	Transcription antitermination protein NusG
+prot_02135	FIG00000039	230	40	230	Translation elongation factor Tu
+prot_02137	FIG00936845	9	3	13	Integrase, site-specific recombinase
+prot_02138	FIG00000178	45	7	45	SSU ribosomal protein S21p
+prot_02139	FIG01303527	179	27	179	Trk system potassium uptake protein TrkA
+prot_02140	FIG00615415	372	63	372	Potassium uptake protein, integral membrane component, KtrB
+prot_02145	FIG00039528	199	40	200	2',3'-cyclic-nucleotide 2'-phosphodiesterase (EC 3.1.4.16)
+prot_02147	FIG01341998	54	13	56	Small-conductance mechanosensitive channel
+prot_02148	FIG00008299	4	8	15	Cobalt-zinc-cadmium resistance protein CzcA; Cation efflux system protein CusA
+prot_02151	FIG01346671	9	4	12	FIG00896341: hypothetical protein
+prot_02153	FIG01954412	12	8	21	TonB family protein / TonB-dependent receptor
+prot_02161	FIG00001630	163	23	163	Alpha-aspartyl dipeptidase Peptidase E (EC 3.4.13.21)
+prot_02162	FIG01333326	242	35	243	transcriptional regulator, putative
+prot_02167	FIG00898681	132	24	133	FIG00898683: hypothetical protein
+prot_02168	FIG00897338	200	33	202	Mobilization protein BmgA
+prot_02170	FIG00019251	300	43	300	DNA primase (EC 2.7.7.-)
+prot_02171	FIG00939578	230	38	232	FIG00939579: hypothetical protein
+prot_02174	FIG01412586	83	11	83	FIG00412260: hypothetical protein
+prot_02176	FIG00000539	5	2	7	Glutamate synthase [NADPH] large chain (EC 1.4.1.13)
+prot_02177	FIG01388981	99	18	101	Tyrosine type site-specific recombinase
+prot_02178	FIG00000659	236	34	236	Purine nucleoside phosphorylase (EC 2.4.2.1)
+prot_02180	FIG01377187	43	15	45	Probable dipeptidase (EC 3.4.-.-)
+prot_02181	FIG00138938	198	28	198	tRNA(Cytosine32)-2-thiocytidine synthetase
+prot_02182	FIG00010508	278	41	278	Phosphate ABC transporter, periplasmic phosphate-binding protein PstS (TC 3.A.1.7.1)
+prot_02183	FIG00018561	194	32	194	Phosphate transport system permease protein PstC (TC 3.A.1.7.1)
+prot_02184	FIG00083946	211	34	211	Phosphate transport system permease protein PstA (TC 3.A.1.7.1)
+prot_02185	FIG00011114	164	27	164	Phosphate transport ATP-binding protein PstB (TC 3.A.1.7.1)
+prot_02186	FIG00104848	202	29	202	Phosphate transport system regulatory protein PhoU
+prot_02187	FIG01290653	135	24	135	Phosphate regulon transcriptional regulatory protein PhoB (SphR)
+prot_02188	FIG00073301	481	70	481	Phosphate regulon sensor protein PhoR (SphS) (EC 2.7.13.3)
+prot_02190	FIG01116662	3	2	6	Integrase
+prot_02195	FIG00037431	140	20	140	DNA repair protein RadC
+prot_02199	FIG00017972	14	5	16	Internalin-like protein (LPXTG motif) Lmo0331 homolog
+prot_02204	FIG00001676	221	32	221	Ferredoxin
+prot_02210	FIG01479441	24	7	26	iron(III) ABC transporter, ATP-binding protein, putative
+prot_02211	FIG00003124	44	12	46	Vitamin B12 ABC transporter, permease component BtuC
+prot_02212	FIG00016684	32	9	35	Vitamin B12 ABC transporter, B12-binding component BtuF
+prot_02213	FIG00000641	19	7	21	Cob(I)alamin adenosyltransferase (EC 2.5.1.17)
+prot_02216	FIG00136866	86	19	88	Electron transfer flavoprotein, alpha subunit
+prot_02217	FIG01304886	79	16	81	Electron transfer flavoprotein, beta subunit
+prot_02218	FIG00009149	110	21	110	Butyryl-CoA dehydrogenase (EC 1.3.99.2)
+prot_02219	FIG01338335	35	12	37	Methionine synthase II (cobalamin-independent)
+prot_02223	FIG01067880	14	6	16	Multiple antibiotic resistance protein marC
+prot_02224	FIG01435856	27	10	37	Succinate-semialdehyde dehydrogenase, CoA-dependent
+prot_02226	FIG01322903	14	8	21	NAD-dependent 4-hydroxybutyrate dehydrogenase (EC 1.1.1.61)
+prot_02227	FIG01347679	50	14	68	4-hydroxybutyrate:acetyl-CoA CoA transferase (EC 2.3.1.-)
+prot_02229	FIG00669987	78	26	95	4-hydroxybutanoyl-CoA dehydratase (EC 4.2.1.-) / Vinylacetyl-CoA Delta-isomerase (EC 5.3.3.3)
+prot_02231	FIG00002099	304	50	304	Acetyl-coenzyme A carboxyl transferase alpha chain (EC 6.4.1.2) / Acetyl-coenzyme A carboxyl transferase beta chain (EC 6.4.1.2); Propionyl-CoA carboxylase beta chain (EC 6.4.1.3)
+prot_02232	FIG00000420	23	11	27	Biotin carboxylase of acetyl-CoA carboxylase (EC 6.3.4.14)
+prot_02234	FIG01423458	6	5	9	Probable integral membrane protein Cj1166c
+prot_02236	FIG00000479	120	17	120	Zinc uptake regulation protein ZUR
+prot_02237	FIG00658111	400	68	400	Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5); Copper-translocating P-type ATPase (EC 3.6.3.4)
+prot_02238	FIG00001181	134	19	134	Superoxide dismutase [Cu-Zn] precursor (EC 1.15.1.1)
+prot_02240	FIG00000028	194	27	194	ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)
+prot_02241	FIG00000241	326	48	326	ATP-dependent Clp protease ATP-binding subunit ClpX
+prot_02242	FIG01396189	131	26	133	Transposase, IS4
+prot_02244	FIG01314079	7	3	8	Transposase
+prot_02245	FIG00025759	46	13	48	Orotate phosphoribosyltransferase (EC 2.4.2.10)
+prot_02247	FIG00012552	269	39	269	COG3178: Predicted phosphotransferase related to Ser/Thr protein kinases
+prot_02248	FIG01965850	46	12	48	membrane protein, putative
+prot_02249	FIG00624891	141	27	141	Peptide chain release factor 2; programmed frameshift-containing
+prot_02250	FIG00014339	21	10	23	ADP-heptose synthase (EC 2.7.-.-) / D-glycero-beta-D-manno-heptose 7-phosphate kinase
+prot_02252	FIG00001203	156	23	156	Pyridoxine biosynthesis glutamine amidotransferase, glutaminase subunit (EC 2.4.2.-)
+prot_02253	FIG00021445	205	31	205	Pyridoxine biosynthesis glutamine amidotransferase, synthase subunit (EC 2.4.2.-)
+prot_02254	FIG00135025	24	9	26	Aldose 1-epimerase (EC 5.1.3.3)
+prot_02256	FIG01306568	8	3	9	Mobile element protein
+prot_02257	FIG00024073	92	19	93	Galactokinase (EC 2.7.1.6)
+prot_02258	FIG00938721	98	22	99	Predicted sodium-dependent galactose transporter
+prot_02259	FIG00038814	31	11	34	RNA polymerase sigma factor RpoD
+prot_02262	FIG00000227	37	10	39	Phosphoribosylaminoimidazole carboxylase catalytic subunit (EC 4.1.1.21)
+prot_02263	FIG00000355	20	6	22	Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)
+prot_02264	FIG00000169	233	36	233	GTP-binding protein Obg
+prot_02265	FIG00000862	125	22	125	Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19) / Phosphoribosyl-ATP pyrophosphatase (EC 3.6.1.31)
+prot_02266	FIG00000258	168	28	168	Imidazole glycerol phosphate synthase cyclase subunit (EC 4.1.3.-)
+prot_02267	FIG00044478	171	28	171	Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase (EC 5.3.1.16)
+prot_02268	FIG00010738	140	22	140	Imidazole glycerol phosphate synthase amidotransferase subunit (EC 2.4.2.-)
+prot_02269	FIG00001302	267	41	267	Histidinol-phosphatase (EC 3.1.3.15) / Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)
+prot_02270	FIG00000474	255	40	255	Histidinol-phosphate aminotransferase (EC 2.6.1.9)
+prot_02271	FIG00000303	340	51	340	Histidinol dehydrogenase (EC 1.1.1.23)
+prot_02272	FIG00000811	211	34	211	ATP phosphoribosyltransferase (EC 2.4.2.17)
+prot_02289	FIG00001497	107	15	107	Ribosome-associated heat shock protein implicated in the recycling of the 50S subunit (S4 paralog)
+prot_02290	FIG00000151	144	23	144	Peptidyl-tRNA hydrolase (EC 3.1.1.29)
+prot_02291	FIG00001896	24	9	26	LSU ribosomal protein L25p
+prot_02293	FIG00000252	146	21	146	5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)
+prot_02295	FIG00000914	35	9	36	NAD synthetase (EC 6.3.1.5) / Glutamine amidotransferase chain of NAD synthetase
+prot_02296	FIG00007339	175	28	175	transcriptional regulator, Crp/Fnr family
+prot_02303	FIG00000825	234	46	236	Glutaminyl-tRNA synthetase (EC 6.1.1.18)
+prot_02306	FIG00938205	8	3	10	FIG00403149: hypothetical protein
+prot_02308	FIG00014199	131	36	133	Ferrous iron transport protein B
+prot_02311	FIG00008246	45	14	47	Na+/H+ antiporter
+prot_02312	FIG00897070	35	13	37	S-layer domain
+prot_02313	FIG00001005	35	9	38	ABC-type multidrug transport system, ATPase component
+prot_02314	FIG00899125	98	22	100	ABC-type transport, permease protein
+prot_02315	FIG00000107	340	50	340	Adenylosuccinate synthetase (EC 6.3.4.4)
+prot_02316	FIG00132630	135	19	135	Ferric uptake regulation protein FUR
+prot_02317	FIG01258918	37	16	45	GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase II / Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase (EC 3.1.7.2)
+prot_02318	FIG00000397	217	33	217	Glutamate racemase (EC 5.1.1.3)
+prot_02320	FIG00089707	138	22	138	Outer membrane protein H precursor
+prot_02321	FIG00000667	53	23	55	Outer membrane protein assembly factor YaeT precursor
+prot_02322	FIG00000110	195	29	195	Undecaprenyl diphosphate synthase (EC 2.5.1.31)
+prot_02325	FIG00000075	23	8	25	NAD kinase (EC 2.7.1.23)
+prot_02329	FIG01350483	13	8	17	Ribosylnicotinamide kinase (EC 2.7.1.22) homolog / Unknown conserved in Flavobacteria
+prot_02330	FIG01956050	11	6	16	Integral membrane protein
+prot_02331	FIG01961768	21	7	23	Shikimate 5-dehydrogenase I alpha (EC 1.1.1.25)
+prot_02332	FIG00017454	163	35	165	Indolepyruvate oxidoreductase subunit IorA (EC 1.2.7.8)
+prot_02333	FIG00042781	59	12	61	Indolepyruvate oxidoreductase subunit IorB (EC 1.2.7.8)
+prot_02334	FIG01304886	94	20	95	Electron transfer flavoprotein, beta subunit
+prot_02335	FIG01959383	148	28	151	Electron transfer flavoprotein, alpha subunit
+prot_02336	FIG01344744	57	21	61	Acyl-CoA dehydrogenase (EC 1.3.8.7)
+prot_02338	FIG01335209	57	24	78	putative Tricorn-like protease
+prot_02339	FIG00001406	281	41	281	Aspartate--ammonia ligase (EC 6.3.1.1)
+prot_02340	FIG00021555	6	3	8	Zinc ABC transporter, periplasmic-binding protein ZnuA
+prot_02342	FIG00005113	21	7	23	Zinc ABC transporter, inner membrane permease protein ZnuB
+prot_02343	FIG00140039	48	18	51	Dihydrolipoamide dehydrogenase of branched-chain alpha-keto acid dehydrogenase (EC 1.8.1.4) / Dihydrolipoamide dehydrogenase (EC 1.8.1.4)
+prot_02344	FIG00001732	12	8	14	Aminopeptidase C (EC 3.4.22.40)
+prot_02348	FIG00084105	77	14	77	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)
+prot_02350	FIG00029939	462	62	462	GldJ
+prot_02351	FIG00024401	348	51	348	UDP-N-acetylmuramoylalanyl-D-glutamyl-2,6-diaminopimelate--D-alanyl-D-alanine ligase (EC 6.3.2.10)
+prot_02352	FIG00853556	27	7	31	Dolichol-phosphate mannosyltransferase
+prot_02353	FIG00000032	77	19	79	Dihydroorotase (EC 3.5.2.3)
+prot_02355	FIG00000235	93	24	95	Phosphoribosylamine--glycine ligase (EC 6.3.4.13)
+prot_02361	FIG01308481	42	14	45	Two-component system sensor histidine kinase
+prot_02362	FIG00001065	269	40	269	Glucokinase (EC 2.7.1.2)
+prot_02364	FIG00000332	115	29	117	Glucose-6-phosphate 1-dehydrogenase (EC 1.1.1.49)
+prot_02365	FIG00000405	145	31	146	6-phosphogluconate dehydrogenase, decarboxylating (EC 1.1.1.44)
+prot_02366	FIG00025216	451	74	451	ClpB protein
+prot_02368	FIG01042081	5	3	6	FIG01042082: hypothetical protein
+prot_02369	FIG00000248	183	27	183	Ribosomal RNA small subunit methyltransferase E (EC 2.1.1.-)
+prot_02373	FIG00001635	560	84	560	Translation elongation factor G-related protein
+prot_02375	FIG00897181	4	4	10	FIG00897182: hypothetical protein
+prot_02376	FIG00946040	6	3	8	putative anti-sigma factor
+prot_02377	FIG00010771	7	4	10	SusC, outer membrane protein involved in starch binding
+prot_02384	FIG00000329	358	53	358	S-adenosylmethionine synthetase (EC 2.5.1.6)
+prot_02385	FIG00000616	4	4	7	Lipid IVA 3-deoxy-D-manno-octulosonic acid transferase (EC 2.4.99.12) [often with (EC 2.4.99.13) also]
+prot_02386	FIG00001494	64	18	65	Methylthioribose-1-phosphate isomerase (EC 5.3.1.23)
+prot_02389	FIG00452872	6	6	15	Multidrug and toxin extrusion (MATE) family efflux pump YdhE/NorM, homolog
+prot_02391	FIG01414047	4	6	12	putative ferric aerobactin receptor
+prot_02393	FIG00003090	188	26	188	cAMP-binding proteins - catabolite gene activator and regulatory subunit of cAMP-dependent protein kinases
+prot_02394	FIG00000594	18	3	19	Chaperone protein HtpG
+prot_02396	FIG00001548	514	73	514	Beta-galactosidase (EC 3.2.1.23)
+prot_02401	FIG00010771	3	4	7	SusC, outer membrane protein involved in starch binding
+prot_02402	FIG00946040	7	3	9	putative anti-sigma factor
+prot_02410	FIG00450796	6	9	21	ABC transporter ATP-binding protein
+prot_02411	FIG00006235	327	52	327	RND efflux system, outer membrane lipoprotein CmeC
+prot_02412	FIG00034851	554	97	554	RND efflux system, inner membrane transporter CmeB
+prot_02413	FIG01004481	245	41	245	RND efflux system, membrane fusion protein CmeA
+prot_02414	FIG00006235	10	6	13	RND efflux system, outer membrane lipoprotein CmeC
+prot_02415	FIG01960366	3	5	8	RND efflux system, membrane fusion protein CmeA
+prot_02416	FIG00034851	680	113	680	RND efflux system, inner membrane transporter CmeB
+prot_02418	FIG01396189	19	5	20	Transposase, IS4
+prot_02420	FIG01396189	131	26	133	Transposase, IS4
+prot_02422	FIG00710920	5	3	9	FIG00710921: hypothetical protein
+prot_02423	FIG00502854	26	10	27	Predicted ATPase (AAA+ superfamily)
+prot_02427	FIG00000973	3	2	5	RNA polymerase sigma factor RpoE
+prot_02430	FIG00029463	412	62	412	Regulatory sensor-transducer, BlaR1/MecR1 family / TonB-dependent receptor
+prot_02431	FIG01317294	9	3	10	Transcriptional regulator, MecI family
+prot_02432	FIG00050603	290	41	290	Branched-chain amino acid aminotransferase (EC 2.6.1.42)
+prot_02434	FIG00000293	268	41	268	Ribosomal RNA large subunit methyltransferase N (EC 2.1.1.-)
+prot_02435	FIG00000594	8	2	9	Chaperone protein HtpG
+prot_02436	FIG00129130	196	36	196	NADP-specific glutamate dehydrogenase (EC 1.4.1.4)
+prot_02437	FIG01306568	3	4	5	Mobile element protein
+prot_02443	FIG01853708	5	2	7	Uncharacterized protein AF_2205
+prot_02446	FIG01306568	4	5	6	Mobile element protein
+prot_02447	FIG01964561	177	39	179	Glucosamine-6-phosphate deaminase (EC 3.5.99.6)
+prot_02448	FIG00000539	4	4	7	Glutamate synthase [NADPH] large chain (EC 1.4.1.13)
+prot_02450	FIG01345949	4	4	9	TonB-dependent outer membrane receptor
+prot_02453	FIG00000943	28	9	30	UDP-2,3-diacylglucosamine diphosphatase (EC 3.6.1.54)
+prot_02454	FIG00000635	125	33	127	MG(2+) CHELATASE FAMILY PROTEIN / ComM-related protein
+prot_02455	FIG00000429	194	27	194	Inorganic pyrophosphatase (EC 3.6.1.1)
+prot_02456	FIG00000620	124	19	124	Phosphoheptose isomerase (EC 5.3.1.-)
+prot_02457	FIG00031825	263	38	263	Hydrogen peroxide-inducible genes activator
+prot_02458	FIG00000070	254	42	254	Chaperone protein DnaJ
+prot_02459	FIG00000103	143	23	143	Heat shock protein GrpE
+prot_02460	FIG00037431	175	28	175	DNA repair protein RadC
+prot_02461	FIG00000213	29	5	29	SSU ribosomal protein S20p
+prot_02462	FIG00000260	181	29	181	rRNA small subunit methyltransferase I
+prot_02463	FIG00000594	11	2	13	Chaperone protein HtpG
+prot_02473	FIG00946040	9	4	12	putative anti-sigma factor
+prot_02476	FIG01873245	8	3	10	Biotin synthase and related enzymes
+prot_02478	FIG01004154	35	13	37	Putative hemolysin
+prot_02480	FIG00000412	288	43	288	DNA recombination and repair protein RecF
+prot_02488	FIG00049580	76	16	78	2-oxoglutarate oxidoreductase, beta subunit (EC 1.2.7.3)
+prot_02489	FIG00937303	102	25	104	2-oxoglutarate oxidoreductase, alpha subunit (EC 1.2.7.3)
+prot_02491	FIG00004180	17	6	18	Magnesium and cobalt transport protein CorA
+prot_02492	FIG00000118	318	50	318	Enolase (EC 4.2.1.11)
+prot_02496	FIG01292924	50	12	51	LSU ribosomal protein L17p
+prot_02497	FIG00000140	123	25	124	DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6)
+prot_02498	FIG00000148	149	23	149	SSU ribosomal protein S4p (S9e)
+prot_02499	FIG00055673	62	9	62	SSU ribosomal protein S11p (S14e)
+prot_02500	FIG00000160	88	14	88	SSU ribosomal protein S13p (S18e)
+prot_02501	FIG00000143	56	8	56	Translation initiation factor 1
+prot_02502	FIG00000036	210	31	210	Methionine aminopeptidase (EC 3.4.11.18)
+prot_02503	FIG00937056	164	32	166	Preprotein translocase secY subunit (TC 3.A.5.1.1)
+prot_02504	FIG00000166	18	4	19	LSU ribosomal protein L15p (L27Ae)
+prot_02505	FIG00000409	14	4	15	LSU ribosomal protein L30p (L7e)
+prot_02506	FIG00000155	109	18	109	SSU ribosomal protein S5p (S2e)
+prot_02507	FIG00000200	32	8	33	LSU ribosomal protein L18p (L5e)
+prot_02508	FIG00001577	64	13	66	LSU ribosomal protein L6p (L9e)
+prot_02509	FIG00000153	104	15	104	SSU ribosomal protein S8p (S15Ae)
+prot_02510	FIG00000066	53	9	53	SSU ribosomal protein S14p (S29e) @ SSU ribosomal protein S14p (S29e), zinc-independent
+prot_02511	FIG00000174	81	17	82	LSU ribosomal protein L5p (L11e)
+prot_02512	FIG00000198	44	10	45	LSU ribosomal protein L24p (L26e)
+prot_02513	FIG00090781	54	12	54	LSU ribosomal protein L14p (L23e)
+prot_02514	FIG00000181	63	9	63	SSU ribosomal protein S17p (S11e)
+prot_02516	FIG00001132	59	11	60	LSU ribosomal protein L16p (L10e)
+prot_02517	FIG00000218	192	29	192	SSU ribosomal protein S3p (S3e)
+prot_02518	FIG00000219	25	6	26	LSU ribosomal protein L22p (L17e)
+prot_02519	FIG00000199	71	11	71	SSU ribosomal protein S19p (S15e)
+prot_02520	FIG00000223	127	27	128	LSU ribosomal protein L2p (L8e)
+prot_02521	FIG00000271	24	8	25	LSU ribosomal protein L23p (L23Ae)
+prot_02522	FIG00000263	67	15	69	LSU ribosomal protein L4p (L1e)
+prot_02523	FIG00001818	93	18	94	LSU ribosomal protein L3p (L3e)
+prot_02524	FIG00001107	72	11	72	SSU ribosomal protein S10p (S20e)
+prot_02525	FIG00063189	463	75	463	Translation elongation factor G
+prot_02526	FIG00000209	106	16	106	SSU ribosomal protein S7p (S5e)
+prot_02527	FIG00000203	31	7	31	SSU ribosomal protein S12p (S23e)
+prot_02533	FIG01396189	56	12	57	Transposase, IS4
+prot_02534	FIG01396189	66	15	68	Transposase, IS4
+prot_02535	FIG00946040	8	5	10	putative anti-sigma factor
+prot_02542	FIG00946040	14	6	16	putative anti-sigma factor
+prot_02549	FIG01954412	5	5	8	TonB family protein / TonB-dependent receptor
+prot_02550	FIG00946040	3	4	6	putative anti-sigma factor
+prot_02555	FIG01312420	35	12	42	Transcriptional regulator
+prot_02567	FIG00936112	6	2	8	FIG00936113: hypothetical protein
+prot_02568	FIG00001563	63	11	63	Preprotein translocase subunit SecG (TC 3.A.5.1.1)
+prot_02570	FIG00009229	61	10	61	Heat shock protein 60 family co-chaperone GroES
+prot_02571	FIG00000056	348	60	348	Heat shock protein 60 family chaperone GroEL
+prot_02573	FIG00058322	459	70	459	Sodium-dependent phosphate transporter
+prot_02574	FIG00001189	277	47	279	Glycyl-tRNA synthetase (EC 6.1.1.14)
+prot_02579	FIG00936696	5	3	6	Polysaccharide biosynthesis protein
+prot_02587	FIG00000220	242	38	242	Riboflavin kinase (EC 2.7.1.26) / FMN adenylyltransferase (EC 2.7.7.2)
+prot_02588	FIG00010285	347	64	349	Ribonucleotide reductase of class II (coenzyme B12-dependent) (EC 1.17.4.1)
+prot_02591	FIG00000193	51	10	51	SSU ribosomal protein S16p
+prot_02592	FIG01359026	8	3	10	FIG00404843: hypothetical protein
+prot_02593	FIG01323541	16	6	19	FIG00403793: hypothetical protein
+prot_02597	FIG01580765	6	4	9	putative outer membrane receptor
+prot_02598	FIG01374177	6	4	9	FIG00405034: hypothetical protein
+prot_02600	FIG00450796	69	16	71	ABC transporter ATP-binding protein
+prot_02601	FIG01309028	19	5	20	FIG00405701: hypothetical protein
+prot_02603	FIG00088533	3	2	5	Cobalt-precorrin-2 C20-methyltransferase (EC 2.1.1.130)
+prot_02608	FIG00621151	21	11	27	FIG00621154: hypothetical protein
+prot_02609	FIG00946040	3	4	5	putative anti-sigma factor
+prot_02611	FIG00938907	3	3	6	FIG00938908: hypothetical protein
+prot_02612	FIG00016684	55	15	58	Vitamin B12 ABC transporter, B12-binding component BtuF
+prot_02613	FIG00003124	48	16	50	Vitamin B12 ABC transporter, permease component BtuC
+prot_02614	FIG00112961	62	14	63	Ferric enterobactin transport ATP-binding protein FepC (TC 3.A.1.14.2)
+prot_02615	FIG00002223	14	5	16	Flavodoxin 1
+prot_02617	FIG00028420	32	16	45	Cobalt-precorrin-6x reductase (EC 1.3.1.54) / Cobalt-precorrin-6 synthase, anaerobic
+prot_02619	FIG00046007	132	30	138	Cobalamin biosynthesis protein CbiG / Cobalt-precorrin-4 C11-methyltransferase (EC 2.1.1.133)
+prot_02620	FIG00010600	26	10	28	Xaa-Pro aminopeptidase (EC 3.4.11.9)
+prot_02621	FIG00554286	109	27	111	Manganese transport protein MntH
+prot_02622	FIG00001256	72	16	74	Cobalt-precorrin-6y C5-methyltransferase (EC 2.1.1.-) / Cobalt-precorrin-6y C15-methyltransferase [decarboxylating] (EC 2.1.1.-)
+prot_02624	FIG00046200	101	23	103	Cobalt-precorrin-3b C17-methyltransferase / Cobalt-precorrin-8x methylmutase (EC 5.4.1.2)
+prot_02626	FIG00058578	20	6	22	Optional hypothetical component of the B12 transporter BtuN
+prot_02627	FIG00002414	24	8	26	Sirohydrochlorin cobaltochelatase CbiK (EC 4.99.1.3)
+prot_02630	FIG00000477	248	43	250	Type I restriction-modification system, DNA-methyltransferase subunit M (EC 2.1.1.72)
+prot_02631	FIG00904518	4	3	7	FIG074102: hypothetical protein
+prot_02632	FIG01432943	15	3	17	FIG00412424: hypothetical protein
+prot_02633	FIG00040248	284	45	285	ATPase component BioM of energizing module of biotin ECF transporter
+prot_02634	FIG00898357	165	29	167	putative two-component system sensor protein histidine kinase
+prot_02635	FIG00517054	111	19	113	two-component system response regulator
+prot_02636	FIG00016514	23	5	24	Type I restriction-modification system, restriction subunit R (EC 3.1.21.3)
+prot_02638	FIG01349536	18	6	21	ATP-dependent DNA helicase
+prot_02639	FIG00937127	95	28	99	CobN/magnesium chelatase family protein
+prot_02643	FIG00935706	21	6	23	FIG00935708: hypothetical protein
+prot_02644	FIG00938964	25	5	27	hypothetical transporter PduT for various metalloporphyrins
+prot_02647	FIG00001088	652	96	652	Beta-hexosaminidase (EC 3.2.1.52)
+prot_02648	FIG00001088	499	73	499	Beta-hexosaminidase (EC 3.2.1.52)
+prot_02649	FIG00138468	58	17	60	Cobyrinic acid A,C-diamide synthase
+prot_02650	FIG00000689	61	15	63	Adenosylcobinamide-phosphate synthase (EC 6.3.1.10)
+prot_02651	FIG00000863	17	6	19	L-threonine 3-O-phosphate decarboxylase (EC 4.1.1.81)
+prot_02652	FIG00000530	112	28	115	Cobyric acid synthase (EC 6.3.5.10)
+prot_02653	FIG00001045	27	9	28	ATP:Cob(I)alamin adenosyltransferase (EC 2.5.1.17)
+prot_02654	FIG00750264	15	3	16	Phosphoglycerate mutase family
+prot_02655	FIG01306568	3	2	5	Mobile element protein
+prot_02660	FIG01493471	10	3	12	major outer membrane protein OmpA
+prot_02666	FIG01954412	3	4	6	TonB family protein / TonB-dependent receptor
+prot_02669	FIG00000764	45	13	48	Adenosylcobinamide-phosphate guanylyltransferase (EC 2.7.7.62)
+prot_02670	FIG00000824	69	19	70	Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase (EC 2.4.2.21)
+prot_02672	FIG00000979	16	4	17	Alpha-ribazole-5'-phosphate phosphatase (EC 3.1.3.73)
+prot_02673	FIG00938430	14	3	17	FIG00938431: hypothetical protein
+prot_02675	FIG00001395	62	23	65	CobN component of cobalt chelatase involved in B12 biosynthesis
+prot_02676	FIG00000912	3	3	5	Outer membrane vitamin B12 receptor BtuB
+prot_02682	FIG01446100	10	4	12	FIG00405116: hypothetical protein
+prot_02683	FIG00030585	233	49	235	Acetyl-CoA synthetase (ADP-forming) alpha and beta chains, putative
+prot_02684	FIG00000732	292	41	292	Fructose-1,6-bisphosphatase, type I (EC 3.1.3.11)
+prot_02685	FIG00000132	56	15	59	Aspartokinase (EC 2.7.2.4)
+prot_02686	FIG00454917	9	6	12	Glycosyl transferase, family 2
+prot_02688	FIG00000085	394	77	397	Isoleucyl-tRNA synthetase (EC 6.1.1.5)
+prot_02689	FIG00430996	34	9	35	DnaK suppressor protein, putative
+prot_02690	FIG00000081	143	21	143	Lipoprotein signal peptidase (EC 3.4.23.36)
+prot_02691	FIG00000402	8	4	9	Multi antimicrobial extrusion protein (Na(+)/drug antiporter), MATE family of MDR efflux pumps
+prot_02692	FIG00000402	17	7	20	Multi antimicrobial extrusion protein (Na(+)/drug antiporter), MATE family of MDR efflux pumps
+prot_02695	FIG00000204	629	92	629	DNA topoisomerase I (EC 5.99.1.2)
+prot_02700	FIG01969951	8	2	8	DNA polymerase III epsilon subunit (EC 2.7.7.7)
+prot_02701	FIG00005283	97	20	98	Putative DNA-binding protein in cluster with Type I restriction-modification system
+prot_02702	FIG00007960	39	9	41	Glycosyltransferase
+prot_02703	FIG01338019	18	5	20	TPR/glycosyl transferase domain protein
+prot_02704	FIG00000532	241	40	241	UDP-glucose dehydrogenase (EC 1.1.1.22)
+prot_02705	FIG00000482	123	29	124	UDP-N-acetylglucosamine 2-epimerase (EC 5.1.3.14)
+prot_02711	FIG00649757	3	3	6	FIG00649758: hypothetical protein
+prot_02714	FIG01349835	3	3	6	FIG00899400: hypothetical protein
+prot_02715	FIG00935646	63	16	65	Collagenase precursor (EC 3.4.-.-)
+prot_02717	FIG01365272	12	7	19	Na+/H+ antiporter NhaC
+prot_02719	FIG00000594	28	5	28	Chaperone protein HtpG
+prot_02720	FIG01317294	14	4	15	Transcriptional regulator, MecI family
+prot_02721	FIG00038726	12	7	18	Ferric siderophore transport system, periplasmic binding protein TonB
+prot_02722	FIG00000202	142	21	142	Ribosome recycling factor
+prot_02723	FIG00000603	62	13	63	3-deoxy-manno-octulosonate cytidylyltransferase (EC 2.7.7.38)
+prot_02727	FIG00015100	11	6	14	3-oxoacyl-[acyl-carrier-protein] synthase, KASIII (EC 2.3.1.180)
+prot_02729	FIG00000464	221	33	221	Ribosome small subunit-stimulated GTPase EngC
+prot_02730	FIG00000584	149	23	149	Nucleoside 5-triphosphatase RdgB (dHAPTP, dITP, XTP-specific) (EC 3.6.1.15)
+prot_02731	FIG00000315	210	29	210	DNA recombination and repair protein RecO
+prot_02732	FIG00450796	14	5	17	ABC transporter ATP-binding protein
+prot_02734	FIG00899347	6	4	7	putative outer membrane lipoprotein silC precursor
+prot_02735	FIG01017256	51	13	53	Probable Co/Zn/Cd efflux system membrane fusion protein
+prot_02736	FIG00132942	731	115	731	RND multidrug efflux transporter; Acriflavin resistance protein
+prot_02737	FIG00898162	17	13	36	FIG00898163: hypothetical protein
+prot_02740	FIG00000594	67	9	67	Chaperone protein HtpG
+prot_02742	FIG00019251	533	78	533	DNA primase (EC 2.7.7.-)
+prot_02745	FIG01017256	95	19	97	Probable Co/Zn/Cd efflux system membrane fusion protein
+prot_02746	FIG00132942	354	74	356	RND multidrug efflux transporter; Acriflavin resistance protein
+prot_02750	FIG00000897	30	7	32	Ribonucleotide reductase of class III (anaerobic), activating protein (EC 1.97.1.4)
+prot_02751	FIG00044622	312	55	314	Ribonucleotide reductase of class III (anaerobic), large subunit (EC 1.17.4.2)
+prot_02754	FIG01348637	25	6	26	FIG00406685: hypothetical protein
+prot_02756	FIG00002086	6	5	9	TPR domain protein, putative component of TonB system
+prot_02757	FIG00000503	211	36	211	Cobalt-zinc-cadmium resistance protein CzcD
+prot_02759	FIG01423458	3	5	6	Probable integral membrane protein Cj1166c
+prot_02760	FIG00034881	454	66	454	Alkaline phosphatase (EC 3.1.3.1); Type I phosphodiesterase/nucleotide pyrophosphatase precursor
+prot_02763	FIG01954213	23	6	25	FIG053235: Diacylglucosamine hydrolase like
+prot_02765	FIG01279159	7	4	9	Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)
+prot_02766	FIG00000165	463	69	463	Translation elongation factor LepA
+prot_02767	FIG00032749	30	9	32	Protein YicC
+prot_02769	FIG00000131	146	22	146	Guanylate kinase (EC 2.7.4.8)
+prot_02771	FIG00673062	7	3	9	Para-aminobenzoate synthase, amidotransferase component (EC 2.6.1.85)
+prot_02772	FIG00453115	39	12	41	Putative transport protein
+prot_02773	FIG00002048	14	3	16	Cell division inhibitor
+prot_02776	FIG00138090	319	49	319	S-adenosylhomocysteine deaminase (EC 3.5.4.28); Methylthioadenosine deaminase
+prot_02778	FIG00052802	234	33	234	Agmatinase (EC 3.5.3.11)
+prot_02779	FIG00897844	15	3	17	FIG00897847: hypothetical protein
+prot_02782	FIG01954412	5	4	7	TonB family protein / TonB-dependent receptor
+prot_02793	FIG00054476	173	24	173	archaeal ATPase, fused to C-terminal DUF234 domain
+prot_02795	FIG00001636	10	6	12	Maltose O-acetyltransferase (EC 2.3.1.79)
+prot_02796	FIG00002695	497	75	497	Biosynthetic arginine decarboxylase (EC 4.1.1.19)
+prot_02798	FIG01471707	13	4	15	FIG00898834: hypothetical protein
+prot_02810	FIG00514149	25	9	27	DNA adenine-specific methyltransferase
+prot_02814	FIG00019251	1116	158	1116	DNA primase (EC 2.7.7.-)
+prot_02834	FIG00001385	6	2	7	N-acetylmuramoyl-L-alanine amidase (EC 3.5.1.28)
+prot_02847	FIG00000164	78	12	78	Ribosome-binding factor A
+prot_02848	FIG00009971	297	46	297	Lipoprotein releasing system transmembrane protein LolC
+prot_02849	FIG01955868	10	5	12	Peptidyl-prolyl cis-trans isomerase (EC 5.2.1.8)
+prot_02851	FIG00000098	120	22	122	Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)
+prot_02852	FIG00025360	44	10	46	Flagellar motor rotation protein MotB
+prot_02854	FIG01220847	4	3	6	FIG00545237: hypothetical protein
+prot_02857	FIG00096830	113	24	115	Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)
+prot_02859	FIG01335747	16	6	17	nodulin 21-related protein
+prot_02861	FIG00896446	5	5	9	sodium/iodide co-transporter
+prot_02864	FIG00000114	366	73	369	Leucyl-tRNA synthetase (EC 6.1.1.4)
+prot_02866	FIG01228742	7	3	9	Probable transcriptional regulator
+prot_02870	FIG00000614	267	39	267	Ornithine cyclodeaminase (EC 4.3.1.12)
+prot_02872	FIG00010771	4	4	7	SusC, outer membrane protein involved in starch binding
+prot_02878	FIG01351255	22	4	23	AhpC/TSA family protein
+prot_02880	FIG00936903	12	6	15	Carboxy-terminal processing protease
+prot_02881	FIG00000019	184	33	184	Octaprenyl diphosphate synthase (EC 2.5.1.90) / Dimethylallyltransferase (EC 2.5.1.1) / (2E,6E)-farnesyl diphosphate synthase (EC 2.5.1.10) / Geranylgeranyl pyrophosphate synthetase (EC 2.5.1.29)
+prot_02882	FIG01964365	21	12	30	Hypothetical oxidoreductase YqhD (EC 1.1.-.-)
+prot_02884	FIG00000473	43	10	44	D-tyrosyl-tRNA(Tyr) deacylase (EC 3.6.1.n1)
+prot_02886	FIG00537918	12	8	15	Probable integral membrane protein
+prot_02887	FIG00000450	17	5	18	Deoxyribose-phosphate aldolase (EC 4.1.2.4)
+prot_02889	FIG00000356	705	105	705	DNA mismatch repair protein MutS
+prot_02898	FIG00946040	3	2	6	putative anti-sigma factor
+prot_02900	FIG01955868	20	7	21	Peptidyl-prolyl cis-trans isomerase (EC 5.2.1.8)
+prot_02903	FIG00006092	55	15	57	RNA polymerase sigma-54 factor RpoN
+prot_02904	FIG00000636	394	58	394	Asparaginyl-tRNA synthetase (EC 6.1.1.22)
+prot_02905	FIG00105365	278	44	278	Hypothetical radical SAM family enzyme, NOT coproporphyrinogen III oxidase, oxygen-independent
+prot_02908	FIG00000211	52	11	53	LSU ribosomal protein L13p (L13Ae)
+prot_02909	FIG00001110	91	15	91	SSU ribosomal protein S9p (S16e)
+prot_02910	FIG00037273	190	30	190	SSU ribosomal protein S2p (SAe)
+prot_02911	FIG00000191	213	33	213	Translation elongation factor Ts
+prot_02912	FIG01613107	4	4	7	Melittin resistance protein PqaB
+prot_02913	FIG00000611	6	3	8	Lipid-A-disaccharide synthase (EC 2.4.1.182)
+prot_02915	FIG01310753	112	24	114	Sulfatase family protein
+prot_02916	FIG00007960	41	15	44	Glycosyltransferase
+prot_02917	FIG00001379	28	11	30	Polymyxin resistance protein ArnT, undecaprenyl phosphate-alpha-L-Ara4N transferase; Melittin resistance protein PqaB
+prot_02919	FIG00001819	186	28	186	Uridine monophosphate kinase (EC 2.7.4.22)
+prot_02920	FIG00000343	514	75	514	1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)
+prot_02921	FIG00007339	165	26	165	transcriptional regulator, Crp/Fnr family
+prot_02922	FIG00719736	325	47	325	Aspartate aminotransferase (EC 2.6.1.1)
+prot_02925	FIG00000773	286	46	286	Glutamyl-tRNA synthetase (EC 6.1.1.17)
+prot_02928	FIG00000580	259	39	259	tRNA dihydrouridine synthase B (EC 1.-.-.-)
+prot_02933	FIG00008394	60	15	61	2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase I beta (EC 2.5.1.54) / Chorismate mutase I (EC 5.4.99.5)
+prot_02934	FIG00132770	14	5	16	Prephenate and/or arogenate dehydrogenase (unknown specificity) (EC 1.3.1.12)(EC 1.3.1.43)
+prot_02935	FIG01294635	291	47	291	Biosynthetic Aromatic amino acid aminotransferase alpha (EC 2.6.1.57) @ Aspartate aminotransferase (EC 2.6.1.1)
+prot_02936	FIG00341289	15	9	16	Prephenate dehydratase (EC 4.2.1.51)
+prot_02937	FIG00000404	747	108	747	DNA polymerase I (EC 2.7.7.7)
+prot_02940	FIG00936885	26	13	28	uroporphyrinogen-III synthase HemD, putative
+prot_02941	FIG00092649	11	4	13	Ribonuclease P protein component (EC 3.1.26.5)
+prot_02943	FIG00000185	115	28	118	Excinuclease ABC subunit C
+prot_02944	FIG00001522	451	66	451	Adenine deaminase (EC 3.5.4.2)
+prot_02945	FIG00000576	149	30	151	tRNA uridine 5-carboxymethylaminomethyl modification enzyme GidA
+prot_02946	FIG01954455	130	17	130	Metal-dependent hydrolase YbeY, involved in rRNA and/or ribosome maturation and assembly
+prot_02952	FIG00000388	38	10	39	Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)
+prot_02953	FIG00014339	9	6	11	ADP-heptose synthase (EC 2.7.-.-) / D-glycero-beta-D-manno-heptose 7-phosphate kinase
+prot_02954	FIG00008304	32	6	33	Aspartate 1-decarboxylase (EC 4.1.1.11)
+prot_02955	FIG00000440	51	16	53	Pantoate--beta-alanine ligase (EC 6.3.2.1)
+prot_02956	FIG00003270	125	19	125	Arginine pathway regulatory protein ArgR, repressor of arg regulon
+prot_02957	FIG00000130	62	18	63	Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)
+prot_02958	FIG00000111	278	69	283	Carbamoyl-phosphate synthase large chain (EC 6.3.5.5)
+prot_02960	FIG00946040	3	2	4	putative anti-sigma factor
+prot_02969	FIG00899307	590	89	590	Monofunctional biosynthetic peptidoglycan transglycosylase (EC 2.4.2.-)
+prot_02970	FIG00000283	338	53	338	DNA repair protein RadA
+prot_02973	FIG01486652	8	3	10	Site-specific recombinase Mpi
+prot_02974	FIG00000859	37	14	38	FIG000859: hypothetical protein YebC
+prot_02978	FIG00001029	387	59	387	Alkyl hydroperoxide reductase protein F (EC 1.6.4.-)
+prot_02980	FIG00000710	140	21	140	Alkyl hydroperoxide reductase protein C (EC 1.6.4.-)
+prot_02981	FIG00002515	104	16	104	4-hydroxybenzoyl-CoA thioesterase family active site
+prot_02982	FIG00001676	308	45	308	Ferredoxin
+prot_02983	FIG00553614	35	12	37	Possible oxidoreductase
+prot_02984	FIG00000065	156	21	156	Exodeoxyribonuclease III (EC 3.1.11.2)
+prot_02987	FIG00017247	113	18	113	Non-specific DNA-binding protein Dps / Iron-binding ferritin-like antioxidant protein / Ferroxidase (EC 1.16.3.1)
+prot_02988	FIG00846773	237	35	237	Permease of the drug/metabolite transporter (DMT) superfamily
+prot_02989	FIG01309544	108	20	110	FIG00402688: hypothetical protein
+prot_02990	FIG01354105	289	48	291	putative cell surface protein
+prot_02991	FIG01410171	119	32	120	putative cell wall biogenesis protein
+prot_02992	FIG01348025	240	35	241	putative surface layer protein
+prot_02994	FIG01411730	47	14	49	Vitamin B12 ABC transporter, B12-binding component BtuF
+prot_02996	FIG00051009	13	6	17	Iron(III) dicitrate transport system permease protein FecD (TC 3.A.1.14.1)
+prot_02997	FIG01964172	27	8	32	Fe3+ ABC transporter, ATP-binding protein
+prot_02998	FIG01790781	14	5	20	FIG00410604: hypothetical protein
+prot_03003	FIG00787283	11	6	13	Type I secretion system, outer membrane component LapE
+prot_03005	FIG00001785	5	5	7	ABC-type multidrug transport system, permease component
+prot_03006	FIG00001785	5	4	6	ABC-type multidrug transport system, permease component
+prot_03007	FIG00001932	277	41	277	Probable Co/Zn/Cd efflux system membrane fusion protein
+prot_03008	FIG00007059	128	39	131	Acriflavin resistance protein
+prot_03011	FIG01017256	22	9	25	Probable Co/Zn/Cd efflux system membrane fusion protein
+prot_03012	FIG00007059	46	20	53	Acriflavin resistance protein
+prot_03016	FIG01654639	9	11	29	Tricorn protease homolog 1 (EC 3.4.21.-)
+prot_03019	FIG00134889	410	59	410	Glutamine synthetase type I (EC 6.3.1.2)
+prot_03020	FIG00651556	11	6	13	FIG00651573: hypothetical protein
+prot_03021	FIG00000301	332	48	332	Argininosuccinate synthase (EC 6.3.4.5)
+prot_03022	FIG00000358	228	37	228	N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38)
+prot_03023	FIG00001168	260	42	260	Acetylornithine aminotransferase (EC 2.6.1.11)
+prot_03024	FIG00000383	200	29	200	Acetylglutamate kinase (EC 2.7.2.8)
+prot_03025	FIG00020897	257	40	257	Acetylornithine deacetylase (EC 3.5.1.16)
+prot_03026	FIG00000333	348	53	348	Argininosuccinate lyase (EC 4.3.2.1)
+prot_03028	FIG00148254	380	55	380	Inner membrane protein CreD-like protein
+prot_03029	FIG00652624	10	3	12	Bsl7504 protein
+prot_03032	FIG00001548	1184	165	1184	Beta-galactosidase (EC 3.2.1.23)
+prot_03035	FIG00650856	4	3	5	FIG00935740: hypothetical protein
+prot_03036	FIG00937264	5	4	8	Biopolymer transport exbD protein.
+prot_03038	FIG00002161	158	25	158	MotA/TolQ/ExbB proton channel family protein
+prot_03039	FIG00000376	236	39	236	L-asparaginase (EC 3.5.1.1)
+prot_03040	FIG00000184	31	9	33	Putative deoxyribonuclease YcfH
+prot_03041	FIG00129130	265	42	265	NADP-specific glutamate dehydrogenase (EC 1.4.1.4)
+prot_03042	FIG00035268	288	43	288	Rossmann fold nucleotide-binding protein Smf possibly involved in DNA uptake
+prot_03044	FIG00000224	29	11	31	3-dehydroquinate synthase (EC 4.2.3.4)
+prot_03045	FIG00075970	46	14	48	5-Enolpyruvylshikimate-3-phosphate synthase (EC 2.5.1.19)
+prot_03046	FIG00000291	38	7	39	tRNA-specific adenosine-34 deaminase (EC 3.5.4.-)
+prot_03047	FIG00054459	312	48	312	Phosphoglycerate kinase (EC 2.7.2.3)
+prot_03048	FIG00001695	3	4	7	D-serine dehydratase (EC 4.3.1.18)
+prot_03049	FIG00003090	160	23	160	cAMP-binding proteins - catabolite gene activator and regulatory subunit of cAMP-dependent protein kinases
+prot_03050	FIG00001469	612	92	612	Beta-glucosidase (EC 3.2.1.21)
+prot_03052	FIG01303527	165	27	165	Trk system potassium uptake protein TrkA
+prot_03054	FIG00615415	422	67	422	Potassium uptake protein, integral membrane component, KtrB
+prot_03056	FIG00439698	16	4	18	membrane protein, putative
+prot_03061	FIG00000352	256	40	256	Holliday junction DNA helicase RuvB
+prot_03063	FIG00553125	21	8	24	Transcriptional regulatory protein rprY
+prot_03064	FIG00134342	103	17	103	Ribose 5-phosphate isomerase B (EC 5.3.1.6)
+prot_03068	FIG00006151	3	2	6	Methionine ABC transporter ATP-binding protein
+prot_03069	FIG00000380	72	17	74	DNA mismatch repair protein MutL
+prot_03072	FIG01956050	3	2	5	Integral membrane protein
+prot_03074	FIG01314079	7	3	8	Transposase
+prot_03076	FIG00001436	24	7	26	GlpG protein (membrane protein of glp regulon)
+prot_03077	FIG00001436	20	8	22	GlpG protein (membrane protein of glp regulon)
+prot_03078	FIG00007916	153	29	154	Signal peptidase-like protein
+prot_03079	FIG00057709	321	45	321	DNA polymerase III delta prime subunit (EC 2.7.7.7)
+prot_03080	FIG00000750	164	37	169	Aspartyl-tRNA synthetase (EC 6.1.1.12)
+prot_03082	FIG00346039	103	26	105	Tyrosyl-tRNA synthetase (EC 6.1.1.1)
+prot_03083	FIG00038726	163	26	163	Ferric siderophore transport system, periplasmic binding protein TonB
+prot_03084	FIG00000304	312	49	312	GTP-binding protein HflX
+prot_03085	FIG00038726	158	26	158	Ferric siderophore transport system, periplasmic binding protein TonB
+prot_03087	FIG00026137	155	29	157	Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)
+prot_03089	FIG00687285	27	8	29	Outer membrane protein/protective antigen OMA87
+prot_03094	FIG01954412	3	3	6	TonB family protein / TonB-dependent receptor
+prot_03100	FIG00000268	466	70	466	GTP-binding protein TypA/BipA
+prot_03101	FIG00000370	231	36	231	Fructose-bisphosphate aldolase class II (EC 4.1.2.13)
+prot_03102	FIG00133325	76	13	76	Pyrroline-5-carboxylate reductase (EC 1.5.1.2)
+prot_03106	FIG00000538	49	7	49	Uracil-DNA glycosylase, family 1
+prot_03118	FIG00000538	194	27	194	Uracil-DNA glycosylase, family 1
+prot_03119	FIG01445585	7	5	12	Glutamine cyclotransferase
+prot_03120	FIG00000086	399	59	399	Cysteinyl-tRNA synthetase (EC 6.1.1.16)
+prot_03123	FIG00001004	265	43	265	Threonine dehydratase biosynthetic (EC 4.3.1.19)
+prot_03124	FIG00000341	254	40	254	3-isopropylmalate dehydrogenase (EC 1.1.1.85)
+prot_03125	FIG00000282	148	23	148	3-isopropylmalate dehydratase small subunit (EC 4.2.1.33)
+prot_03126	FIG00000280	386	57	386	3-isopropylmalate dehydratase large subunit (EC 4.2.1.33)
+prot_03127	FIG00000157	353	55	353	2-isopropylmalate synthase (EC 2.3.3.13)
+prot_03128	FIG00000244	270	42	270	Ketol-acid reductoisomerase (EC 1.1.1.86)
+prot_03129	FIG00000433	135	20	135	Acetolactate synthase small subunit (EC 2.2.1.6)
+prot_03130	FIG00136692	435	65	435	Acetolactate synthase large subunit (EC 2.2.1.6)
+prot_03131	FIG00138258	461	71	461	Dihydroxy-acid dehydratase (EC 4.2.1.9)
+prot_03132	FIG00634063	15	6	16	SanA protein
+prot_03134	FIG00000449	450	70	450	1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate synthase (EC 1.17.7.1)
+prot_03135	FIG00000402	369	55	369	Multi antimicrobial extrusion protein (Na(+)/drug antiporter), MATE family of MDR efflux pumps
+prot_03136	FIG00041008	38	8	40	Cytidylate kinase (EC 2.7.4.25)
+prot_03148	FIG01956050	28	5	29	Integral membrane protein
+prot_03150	FIG01956050	60	12	61	Integral membrane protein
+prot_03151	FIG00531177	51	13	55	no significant homology.
+prot_03152	FIG00531177	14	8	22	no significant homology.
+prot_03153	FIG00935893	8	3	10	Flavoredoxin
+prot_03154	FIG01304850	139	24	140	4-carboxymuconolactone decarboxylase (EC 4.1.1.44)
+prot_03155	FIG00010844	39	9	41	Flavodoxin
+prot_03167	FIG00004743	113	15	113	Lactoylglutathione lyase (EC 4.4.1.5)
+prot_03168	FIG01369295	14	6	16	Metal dependent hydrolase (EC 3.-.-.-)
+prot_03169	FIG00008556	113	22	113	L-proline glycine betaine ABC transport system permease protein ProV (TC 3.A.1.12.1)
+prot_03170	FIG00669894	31	9	34	Glycine betaine transport system permease protein / Glycine betaine-binding protein
+prot_03171	FIG00669894	17	7	20	Glycine betaine transport system permease protein / Glycine betaine-binding protein
+prot_03172	FIG00931068	6	3	10	FIG00931070: hypothetical protein
+prot_03175	FIG00000373	33	7	34	Dihydroneopterin aldolase (EC 4.1.2.25)
+prot_03178	FIG00010771	4	6	10	SusC, outer membrane protein involved in starch binding
+prot_03182	FIG00935824	3	3	6	FIG00935826: hypothetical protein
+prot_03183	FIG00938823	6	2	8	FIG00938824: hypothetical protein
+prot_03191	FIG00000542	128	19	128	Ribonuclease HI (EC 3.1.26.4)
+prot_03192	FIG00003022	253	37	253	L-threonine 3-dehydrogenase (EC 1.1.1.103)
+prot_03193	FIG00000308	152	34	154	3'-to-5' exoribonuclease RNase R
+prot_03194	FIG00001750	389	56	389	Carbon starvation protein A
+prot_03195	FIG00022140	18	6	20	Peptidase, M23/M37 family
+prot_03197	FIG01318274	10	5	12	Thioredoxin
+prot_03198	FIG00008411	996	146	996	DNA polymerase III alpha subunit (EC 2.7.7.7)
+prot_03199	FIG00000253	48	10	51	Phosphoribosylglycinamide formyltransferase (EC 2.1.2.2)
+prot_03200	FIG00002328	14	5	15	Acyl carrier protein
+prot_03201	FIG00002246	192	37	192	3-oxoacyl-[acyl-carrier-protein] synthase, KASII (EC 2.3.1.179)
+prot_03202	FIG00000208	14	5	15	Ribonuclease III (EC 3.1.26.3)
+prot_03203	FIG00000177	154	22	154	Translation elongation factor P
+prot_03214	FIG01344139	14	4	16	Transcriptional regulators of sugar metabolism
+prot_03219	FIG00000578	555	83	555	DNA topoisomerase III (EC 5.99.1.2)
+prot_03224	FIG00139739	40	15	44	Lipopolysaccharide biosynthesis protein WzxC
+prot_03226	FIG01335321	67	17	69	Phosphoribosylglycinamide synthetase, ATP-grasp (A) domain protein
+prot_03229	FIG00000319	9	3	11	Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39)
+prot_03231	FIG00621114	6	5	8	3-oxoacyl-[acyl-carrier protein] reductase (EC 1.1.1.100)
+prot_03232	FIG01375985	7	3	9	Putative amino acid activating enzyme (EC 6.3.2.-)
+prot_03236	FIG00000013	6	3	8	Hydroxyacylglutathione hydrolase (EC 3.1.2.6)
+prot_03237	FIG00011380	205	28	205	putative glycosyltransferase - possibly involved in cell wall localization and side chain formation of rhamnose-glucose polysaccharide
+prot_03241	FIG00022300	58	22	60	UDP-glucose 4-epimerase (EC 5.1.3.2)
+prot_03244	FIG00000187	215	34	215	Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)
+prot_03247	FIG00000408	162	22	162	dTDP-4-dehydrorhamnose 3,5-epimerase (EC 5.1.3.13)
+prot_03248	FIG00000368	95	14	95	dTDP-4-dehydrorhamnose reductase (EC 1.1.1.133)
+prot_03249	FIG00030688	261	39	261	dTDP-glucose 4,6-dehydratase (EC 4.2.1.46)
+prot_03252	FIG01677166	63	15	65	FIG00935838: hypothetical protein
+prot_03253	FIG00000532	217	34	217	UDP-glucose dehydrogenase (EC 1.1.1.22)
+prot_03254	FIG00000482	159	33	161	UDP-N-acetylglucosamine 2-epimerase (EC 5.1.3.14)
+prot_03255	FIG00003715	201	34	201	UDP-N-acetylglucosamine 4,6-dehydratase (EC 4.2.1.-)
+prot_03256	FIG00150184	9	6	12	Bacillosamine/Legionaminic acid biosynthesis aminotransferase PglE; 4-keto-6-deoxy-N-Acetyl-D-hexosaminyl-(Lipid carrier) aminotransferase
+prot_03270	FIG00524602	12	5	18	glycosyl transferase, family 2
+prot_03271	FIG00000187	150	23	150	Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)
+prot_03272	FIG00000408	160	22	160	dTDP-4-dehydrorhamnose 3,5-epimerase (EC 5.1.3.13)
+prot_03275	FIG01954412	11	7	15	TonB family protein / TonB-dependent receptor
+prot_03282	FIG01623186	42	11	45	FIG00896977: hypothetical protein
+prot_03283	FIG01623186	43	10	45	FIG00896977: hypothetical protein
+prot_03284	FIG00024546	45	12	46	Phosphonoacetaldehyde hydrolase (EC 3.11.1.1)
+prot_03285	FIG00002574	39	9	41	2-aminoethylphosphonate:pyruvate aminotransferase (EC 2.6.1.37)
+prot_03286	FIG00002574	37	11	38	2-aminoethylphosphonate:pyruvate aminotransferase (EC 2.6.1.37)
+prot_03294	FIG00946040	4	3	6	putative anti-sigma factor
+prot_03296	FIG01271377	12	3	14	Beta-propeller domains of methanol dehydrogenase type
+prot_03298	FIG01185449	24	7	27	LemA family protein
+prot_03302	FIG00001666	19	5	21	LemA protein
+prot_03303	FIG01325061	7	3	9	Putative threonine efflux protein
+prot_03305	FIG01472029	4	3	6	hypothetical protein
+prot_03307	FIG01968210	78	18	79	Iron-sulfur cluster-binding protein
+prot_03308	FIG00001676	399	59	399	Ferredoxin
+prot_03309	FIG00005216	233	45	235	Sulfate permease
+prot_03315	FIG00000179	63	14	65	Amidophosphoribosyltransferase (EC 2.4.2.14)
+prot_03318	FIG00946040	9	4	11	putative anti-sigma factor
+prot_03322	FIG00001548	842	121	842	Beta-galactosidase (EC 3.2.1.23)
+prot_03323	FIG00846773	173	27	173	Permease of the drug/metabolite transporter (DMT) superfamily
+prot_03324	FIG00846773	29	5	29	Permease of the drug/metabolite transporter (DMT) superfamily
+prot_03326	FIG00000390	278	41	278	Cytochrome d ubiquinol oxidase subunit II (EC 1.10.3.-)
+prot_03327	FIG00096593	402	60	402	Cytochrome d ubiquinol oxidase subunit I (EC 1.10.3.-)
+prot_03334	FIG00132617	580	89	580	ATP-dependent protease La (EC 3.4.21.53) Type I
+prot_03337	FIG00003370	18	6	20	COG1496: Uncharacterized conserved protein
+prot_03338	FIG00000832	94	14	94	Antiholin-like protein LrgA
+prot_03339	FIG00000822	143	25	143	LrgA-associated membrane protein LrgB
+prot_03341	FIG00000659	190	30	190	Purine nucleoside phosphorylase (EC 2.4.2.1)
+prot_03342	FIG00138202	20	6	22	Tetraacyldisaccharide 4'-kinase (EC 2.7.1.130)
+prot_03343	FIG01327138	4	7	12	Protease IV (EC 3.4.21.-)
+prot_03344	FIG00034392	336	52	336	UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)
+prot_03346	FIG00000171	97	15	97	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase (EC 2.7.6.3)
+prot_03347	FIG00936254	3	3	5	FIG00936255: hypothetical protein
+prot_03349	FIG00000372	70	27	73	ATP-dependent DNA helicase UvrD/PcrA
+prot_03360	FIG01359083	104	22	107	FIG00897313: hypothetical protein
+prot_03369	FIG01280345	26	9	28	LSU m3Psi1915 methyltransferase RlmH
+prot_03370	FIG00653220	5	4	8	Nitrogen regulation protein NtrY
+prot_03372	FIG00013366	32	8	34	ADP-heptose--lipooligosaccharide heptosyltransferase II (EC 2.4.1.-)
+prot_03373	FIG00016846	5	4	7	N-acetyl-L,L-diaminopimelate deacetylase (EC 3.5.1.47)
+prot_03375	FIG00000775	42	9	43	CDP-diacylglycerol--serine O-phosphatidyltransferase (EC 2.7.8.8)
+prot_03377	FIG00022300	255	39	255	UDP-glucose 4-epimerase (EC 5.1.3.2)
+prot_03378	FIG00937668	51	10	53	Similar to glycogen synthase (EC 2.4.1.21)
+prot_03381	FIG00042188	5	6	9	Dihydroflavonol-4-reductase (EC 1.1.1.219)
+prot_03382	FIG00000188	255	40	255	Peptide chain release factor 1
+prot_03383	FIG00000173	68	15	69	Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)
+prot_03385	FIG00001020	230	34	230	Pyridoxal kinase (EC 2.7.1.35)
+prot_03386	FIG00132839	613	89	613	Glutamine synthetase type III, GlnN (EC 6.3.1.2)
+prot_03387	FIG00002839	30	9	32	MutS-related protein, family 1
+prot_03388	FIG00002839	22	8	24	MutS-related protein, family 1
+prot_03390	FIG00001005	7	6	10	ABC-type multidrug transport system, ATPase component
+prot_03393	FIG01519065	9	3	12	conserved hypothetical protein, putative outer membrane protein
+prot_03395	FIG01306568	32	12	34	Mobile element protein
+prot_03403	FIG00010771	5	4	8	SusC, outer membrane protein involved in starch binding
+prot_03405	FIG00000126	151	22	151	Ribonuclease HII (EC 3.1.26.4)
+prot_03406	FIG00896845	81	20	82	putative auxin-regulated protein
+prot_03411	FIG00946040	7	5	9	putative anti-sigma factor
+prot_03416	FIG00023651	42	12	43	Butyrate-acetoacetate CoA-transferase subunit A (EC 2.8.3.9)
+prot_03417	FIG01304748	27	7	30	3-aminobutyryl-CoA ammonia-lyase (EC 4.3.1.14)
+prot_03418	FIG00049340	109	21	112	3-keto-5-aminohexanoate cleavage enzyme
+prot_03419	FIG00043603	217	37	218	3,5-diaminohexanoate dehydrogenase (EC 1.4.1.11)
+prot_03420	FIG00134830	292	46	292	Lysine 2,3-aminomutase (EC 5.4.3.2)
+prot_03421	FIG01346051	11	6	14	hypothetical protein clustered with lysine fermentation genes
+prot_03423	FIG00040232	408	62	408	L-beta-lysine 5,6-aminomutase alpha subunit (EC 5.4.3.3)
+prot_03424	FIG00047336	193	31	193	L-beta-lysine 5,6-aminomutase beta subunit (EC 5.4.3.3)
+prot_03425	FIG00132715	35	12	40	Butyrate-acetoacetate CoA-transferase subunit B (EC 2.8.3.9)
+prot_03427	FIG00009149	97	19	97	Butyryl-CoA dehydrogenase (EC 1.3.99.2)
+prot_03428	FIG01304886	93	19	95	Electron transfer flavoprotein, beta subunit
+prot_03429	FIG00136866	100	21	102	Electron transfer flavoprotein, alpha subunit
+prot_03430	FIG00002255	25	9	30	3-hydroxybutyryl-CoA dehydratase (EC 4.2.1.55)
+prot_03431	FIG00068115	13	7	20	3-hydroxybutyryl-CoA dehydrogenase (EC 1.1.1.157)
+prot_03434	FIG00946040	11	5	13	putative anti-sigma factor
+prot_03435	FIG01580765	11	6	14	putative outer membrane receptor
+prot_03436	FIG01438351	9	4	11	FIG00405513: hypothetical protein
+prot_03439	FIG01348028	31	12	37	FIG00405564: hypothetical protein
+prot_03440	FIG01419928	26	8	29	FIG00404178: hypothetical protein
+prot_03441	FIG01093921	17	8	27	FIG00404578: hypothetical protein
+prot_03442	FIG01345284	7	2	9	putative disulphide-isomerase
+prot_03444	FIG01954412	8	6	10	TonB family protein / TonB-dependent receptor
+prot_03448	FIG01953929	28	6	30	2-oxoglutarate oxidoreductase, gamma subunit (EC 1.2.7.3)
+prot_03449	FIG00049580	40	13	41	2-oxoglutarate oxidoreductase, beta subunit (EC 1.2.7.3)
+prot_03450	FIG00937303	104	25	105	2-oxoglutarate oxidoreductase, alpha subunit (EC 1.2.7.3)
+prot_03451	FIG00003740	13	4	14	2-oxoglutarate oxidoreductase, delta subunit, putative (EC 1.2.7.3)
+prot_03452	FIG00719736	367	53	367	Aspartate aminotransferase (EC 2.6.1.1)
+prot_03460	FIG00001850	323	46	323	alternate gene name: yzbB
+prot_03461	FIG01536265	32	8	35	Outer membrane assembly protein
+prot_03463	FIG01719204	3	3	5	UPF0331 protein MA_1296
+prot_03464	FIG00000222	221	36	222	Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)
+prot_03468	FIG00004237	29	8	32	Ferritin-like protein 2
+prot_03469	FIG00003086	180	35	182	Beta-xylosidase (EC 3.2.1.37)
+prot_03470	FIG00000552	227	34	227	Cell division protein FtsX
+prot_03472	FIG00000555	36	10	38	Undecaprenyl-diphosphatase (EC 3.6.1.27)
+prot_03473	FIG01016270	195	28	195	tRNA pseudouridine synthase B (EC 4.2.1.70)
+prot_03474	FIG00000334	282	42	282	S-adenosylmethionine:tRNA ribosyltransferase-isomerase (EC 5.-.-.-)
+prot_03475	FIG01311934	7	3	11	Zn-dependent protease with chaperone function PA4632
+prot_03477	FIG00000741	332	50	332	2-amino-3-ketobutyrate coenzyme A ligase (EC 2.3.1.29)
+prot_03479	FIG00649482	7	3	11	FIG00649492: hypothetical protein
+prot_03480	FIG00000330	107	27	109	Phosphopantothenoylcysteine decarboxylase (EC 4.1.1.36) / Phosphopantothenoylcysteine synthetase (EC 6.3.2.5)
+prot_03481	FIG00000122	107	21	109	Aspartate carbamoyltransferase (EC 2.1.3.2)
+prot_03482	FIG00002148	4	2	5	Aspartate carbamoyltransferase regulatory chain (PyrI)
+prot_03483	FIG00598409	281	39	281	Mannose-6-phosphate isomerase (EC 5.3.1.8)
+prot_03486	FIG00026006	195	30	195	Succinate dehydrogenase iron-sulfur protein (EC 1.3.99.1)
+prot_03487	FIG00136922	521	78	521	Succinate dehydrogenase flavoprotein subunit (EC 1.3.99.1)
+prot_03488	FIG00002431	186	27	186	Succinate dehydrogenase cytochrome b subunit
+prot_03489	FIG00001088	116	32	118	Beta-hexosaminidase (EC 3.2.1.52)
+prot_03490	FIG00940013	4	2	6	Thiol:disulfide interchange protein
+prot_03494	FIG00938297	7	4	10	TPR repeat precursor
+prot_03495	FIG00011422	110	25	113	Tryptophan synthase beta chain like (EC 4.2.1.20)
+prot_03498	FIG01539930	55	14	57	Cytoplasmic peptidoglycan synthetase, N-terminal precursor
+prot_03501	FIG00058830	320	47	320	6-phosphofructokinase (EC 2.7.1.11)
+prot_03511	FIG01328566	99	23	101	putative large secreted protein
+prot_03512	FIG00139408	28	10	31	L-fuco-beta-pyranose dehydrogenase (EC 1.1.1.122)
+prot_03518	FIG00003555	22	7	23	Phosphoglycolate phosphatase (EC 3.1.3.18)
+prot_03522	FIG00000570	299	42	299	Thiamine-monophosphate kinase (EC 2.7.4.16)
+prot_03523	FIG00000451	327	52	327	Iron-sulfur cluster assembly protein SufB
+prot_03524	FIG00018727	98	21	99	Iron-sulfur cluster assembly ATPase protein SufC
+prot_03525	FIG00072797	12	7	14	Iron-sulfur cluster assembly protein SufD
+prot_03526	FIG01960676	238	42	238	Cysteine desulfurase (EC 2.8.1.7), SufS subfamily
+prot_03527	FIG00073306	16	4	17	Sulfur acceptor protein SufE for iron-sulfur cluster assembly
+prot_03530	FIG00001265	313	52	313	2-iminoacetate synthase (ThiH) (EC 4.1.99.19)
+prot_03531	FIG00126843	19	10	21	Periplasmic [Fe] hydrogenase (EC 1.12.7.2)
+prot_03534	FIG00126843	22	8	23	Periplasmic [Fe] hydrogenase (EC 1.12.7.2)
+prot_03536	FIG00229272	61	27	63	Protein-export membrane protein SecD (TC 3.A.5.1.1) / Protein-export membrane protein SecF (TC 3.A.5.1.1)
+prot_03538	FIG00000455	103	21	105	Malate dehydrogenase (EC 1.1.1.37)
+prot_03539	FIG00719736	307	47	307	Aspartate aminotransferase (EC 2.6.1.1)
+prot_03540	FIG00000402	326	52	326	Multi antimicrobial extrusion protein (Na(+)/drug antiporter), MATE family of MDR efflux pumps
+prot_03542	FIG00000594	35	5	35	Chaperone protein HtpG
+prot_03543	FIG00000350	253	37	253	D-alanine--D-alanine ligase (EC 6.3.2.4)
+prot_03544	FIG00000626	15	7	17	tRNA-specific 2-thiouridylase MnmA
+prot_03545	FIG00002733	18	10	20	tRNA (guanine46-N7-)-methyltransferase (EC 2.1.1.33)
+prot_03547	FIG00004788	250	36	250	Muramoyltetrapeptide carboxypeptidase (EC 3.4.17.13)
+prot_03548	FIG01265301	298	56	300	Methionyl-tRNA synthetase (EC 6.1.1.10)
+prot_03551	FIG00039709	717	105	717	Thiamin-regulated outer membrane receptor Omr1
+prot_03552	FIG01395490	17	7	19	FIG00408350: hypothetical protein
+prot_03553	FIG00369872	497	71	497	5'-nucleotidase (EC 3.1.3.5); 2',3'-cyclic-nucleotide 2'-phosphodiesterase (EC 3.1.4.16); Putative UDP-sugar hydrolase (EC 3.6.1.45)
+prot_03555	FIG01959522	38	15	40	Nucleoside permease NupC
+prot_03556	FIG00003406	75	18	77	AmpG permease
+prot_03557	FIG00939777	9	8	17	Amidase enhancer
+prot_03558	FIG00011380	7	3	10	putative glycosyltransferase - possibly involved in cell wall localization and side chain formation of rhamnose-glucose polysaccharide
+prot_03559	FIG00011380	11	11	23	putative glycosyltransferase - possibly involved in cell wall localization and side chain formation of rhamnose-glucose polysaccharide
+prot_03561	FIG00003217	19	7	21	Protein-N(5)-glutamine methyltransferase PrmC, methylates polypeptide chain release factors RF1 and RF2
+prot_03562	FIG00052605	52	18	54	Cardiolipin synthetase (EC 2.7.8.-)
+prot_03563	FIG01305431	535	89	535	UDP-N-acetylmuramoylalanyl-D-glutamyl-2,6-diaminopimelate--D-alanyl-D-alanine ligase (EC 6.3.2.10) / Alanine racemase (EC 5.1.1.1)
+prot_03565	FIG01306568	41	8	50	Mobile element protein
+prot_03571	FIG00946155	271	45	272	putative helicase
+prot_03572	FIG00019251	171	28	171	DNA primase (EC 2.7.7.-)
+prot_03573	FIG00085334	87	15	88	Conjugative transposon protein TraB
+prot_03574	FIG01486613	52	8	53	FIG00938000: hypothetical protein
+prot_03575	FIG01264168	108	23	116	mobilization protein BmgA
+prot_03577	FIG00031250	236	37	236	D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95)
+prot_03579	FIG00229386	329	53	329	Glycerol-3-phosphate dehydrogenase (EC 1.1.5.3)
+prot_03580	FIG00075702	364	56	364	Glycerol kinase (EC 2.7.1.30)
+prot_03581	FIG00045413	167	28	167	Glycerol uptake facilitator protein
+prot_03582	FIG00003127	177	28	177	Transcriptional repressor of aga operon
+prot_03583	FIG00002158	36	10	38	UPF0246 protein YaaA
+prot_03585	FIG00001915	204	39	204	Anaerobic glycerol-3-phosphate dehydrogenase subunit A (EC 1.1.5.3)
+prot_03586	FIG00023879	327	49	327	Anaerobic glycerol-3-phosphate dehydrogenase subunit B (EC 1.1.5.3)
+prot_03587	FIG00139050	316	48	316	Anaerobic glycerol-3-phosphate dehydrogenase subunit C (EC 1.1.5.3)
+prot_03589	FIG00052943	340	52	340	Glycerol-3-phosphate transporter
+prot_03593	FIG00052943	353	53	353	Glycerol-3-phosphate transporter
+prot_03594	FIG00002239	413	59	413	Glycerophosphoryl diester phosphodiesterase (EC 3.1.4.46)
+prot_03595	FIG00019737	382	55	382	Phosphate-specific outer membrane porin OprP ; Pyrophosphate-specific outer membrane porin OprO
+prot_03597	FIG00067681	876	131	876	Transcription-repair coupling factor
+prot_03598	FIG00000695	8	4	10	Pantothenate kinase type III, CoaX-like (EC 2.7.1.33)
+prot_03601	FIG00042627	22	11	24	Magnesium and cobalt efflux protein CorC
+prot_03603	FIG01396189	120	26	122	Transposase, IS4
+prot_03604	FIG01956356	331	46	331	Mannose-1-phosphate guanylyltransferase (GDP) (EC 2.7.7.22)
+prot_03605	FIG00450905	3	3	5	ABC-type transport system involved in resistance to organic solvents, permease component
+prot_03606	FIG00006151	169	26	169	Methionine ABC transporter ATP-binding protein
+prot_03610	FIG00002474	101	15	101	Transcriptional regulator, PadR family
+prot_03611	FIG00000624	426	61	426	2,3-bisphosphoglycerate-independent phosphoglycerate mutase (EC 5.4.2.1)
+prot_03620	FIG01894785	5	2	6	Uncharacterized protein MJ1379
+prot_03622	FIG00000673	164	24	164	DNA-3-methyladenine glycosylase (EC 3.2.2.20)
+prot_03624	FIG00450284	48	14	50	Transporter
+prot_03631	FIG00040248	261	44	262	ATPase component BioM of energizing module of biotin ECF transporter
+prot_03633	FIG00658111	594	94	594	Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5); Copper-translocating P-type ATPase (EC 3.6.3.4)
+prot_03636	FIG00629921	8	5	10	transcriptional regulator
+prot_03637	FIG01363295	44	10	46	FIG00897497: hypothetical protein
+prot_03638	FIG01388981	18	8	20	Tyrosine type site-specific recombinase
+prot_03641	FIG01388981	9	3	11	Tyrosine type site-specific recombinase
+prot_03645	FIG01363295	13	7	26	FIG00897497: hypothetical protein
+prot_03646	FIG00904859	5	2	7	Oxygen-insensitive NADPH nitroreductase (EC 1.-.-.-)
+prot_03647	FIG00003394	383	57	383	5'-nucleotidase (EC 3.1.3.5)
+prot_03648	FIG01956045	25	9	28	Na(+)/H(+) antiporter
+prot_03652	FIG01954412	7	6	10	TonB family protein / TonB-dependent receptor
+prot_03660	FIG00745599	14	5	16	Alpha-glucosidase (EC 3.2.1.20)
+prot_03661	FIG00007157	35	9	40	Alpha-N-arabinofuranosidase (EC 3.2.1.55)
+prot_03662	FIG00018388	16	10	19	Putative glycosyl hydrolase of unknown function (DUF1680)
+prot_03665	FIG00000113	295	50	295	Signal recognition particle, subunit Ffh SRP54 (TC 3.A.5.1.1)
+prot_03666	FIG00000105	202	33	202	Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5) / Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9)
+prot_03667	FIG00020218	242	42	242	Fused spore maturation proteins A and B
+prot_03668	FIG00000626	14	7	17	tRNA-specific 2-thiouridylase MnmA
+prot_03669	FIG00000594	49	8	50	Chaperone protein HtpG
+prot_03670	FIG01327324	32	6	33	MarC family integral membrane protein
+prot_03673	FIG00946040	13	6	15	putative anti-sigma factor
+prot_03683	FIG00946040	11	5	13	putative anti-sigma factor
+prot_03690	FIG00000453	267	39	267	5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)
+prot_03691	FIG00000672	894	135	894	5-methyltetrahydrofolate--homocysteine methyltransferase (EC 2.1.1.13)
+prot_03693	FIG00001676	114	17	114	Ferredoxin
+prot_03694	FIG00058517	5	5	12	Uncharacterized ferredoxin oxidoreductase MJ0100
+prot_03696	FIG00002293	9	5	11	tRNA (guanosine(18)-2'-O)-methyltransferase (EC 2.1.1.34)
+prot_03702	FIG01309186	4	6	9	FIG00896779: hypothetical protein
+prot_03709	FIG00534696	13	6	15	ATPase (AAA+ superfamily)-like protein
+prot_03711	FIG00054476	372	53	372	archaeal ATPase, fused to C-terminal DUF234 domain
+prot_03712	FIG00898544	41	8	43	putative DNA methylase
+prot_03714	FIG00000539	3	3	5	Glutamate synthase [NADPH] large chain (EC 1.4.1.13)
+prot_03717	FIG00658111	464	80	464	Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5); Copper-translocating P-type ATPase (EC 3.6.3.4)
+prot_03719	FIG00000714	57	17	61	Membrane alanine aminopeptidase N (EC 3.4.11.2)
+prot_03720	FIG00001712	439	75	439	Transcription accessory protein (S1 RNA-binding domain)
+prot_03722	FIG00133034	218	45	221	Excinuclease ABC subunit A paralog of unknown function
+prot_03723	FIG01607961	315	63	318	FIG00897066: hypothetical protein
+prot_03727	FIG00846773	235	36	235	Permease of the drug/metabolite transporter (DMT) superfamily
+prot_03729	FIG01067880	8	4	10	Multiple antibiotic resistance protein marC
+prot_03732	FIG00004172	40	14	43	Response regulator of zinc sigma-54-dependent two-component system
+prot_03733	FIG01181132	27	7	29	ATP-dependent DNA helicase RecG-related protein
+prot_03737	FIG01531045	3	2	5	Thioredoxin-like
+prot_03738	FIG00000741	256	43	256	2-amino-3-ketobutyrate coenzyme A ligase (EC 2.3.1.29)
+prot_03740	FIG01306568	48	14	50	Mobile element protein
+prot_03743	FIG00937790	11	5	13	RNA polymerase ECF-type sigma factor
+prot_03747	FIG00040248	146	25	148	ATPase component BioM of energizing module of biotin ECF transporter
+prot_03749	FIG00000384	61	19	63	Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26) / 5-amino-6-(5-phosphoribosylamino)uracil reductase (EC 1.1.1.193)
+prot_03750	FIG00000273	44	14	46	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9)
+prot_03751	FIG00000378	92	17	92	3,4-dihydroxy-2-butanone 4-phosphate synthase (EC 4.1.99.12) / GTP cyclohydrolase II (EC 3.5.4.25)
+prot_03752	FIG00000231	46	12	48	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+prot_03753	FIG00002857	129	19	129	Thiol peroxidase, Tpx-type (EC 1.11.1.15)
+prot_03754	FIG00002818	56	17	59	Inner membrane protein translocase component YidC, long form
+prot_03755	FIG00000176	211	43	213	CTP synthase (EC 6.3.4.2)
+prot_03758	FIG00000545	5	3	7	Lipid A biosynthesis lauroyl acyltransferase (EC 2.3.1.-)
+prot_03759	FIG00007960	18	8	22	Glycosyltransferase
+prot_03760	FIG00937790	22	6	23	RNA polymerase ECF-type sigma factor
+prot_03764	FIG00000594	27	4	27	Chaperone protein HtpG
+prot_03773	FIG00019600	31	12	34	4-hydroxy-tetrahydrodipicolinate synthase (EC 4.3.3.7)
+prot_03775	FIG00004542	195	27	195	gliding motility protein GldF
+prot_03791	FIG00002508	30	12	33	Membrane protein containing HD superfamily hydrolase domain, YQFF ortholog
+prot_03792	FIG00000319	96	22	98	Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39)
+prot_03793	FIG00000226	169	25	169	GTP cyclohydrolase I (EC 3.5.4.16) type 1
+prot_03800	FIG01391784	264	48	270	ISNCY family transposase
+prot_03802	FIG00093180	3	2	5	Choline binding protein A
+prot_03805	FIG00648509	21	11	22	DUF1432 domain-containing protein
+prot_03806	FIG00138250	66	15	67	Diaminopimelate decarboxylase (EC 4.1.1.20)
+prot_03807	FIG00000132	71	19	73	Aspartokinase (EC 2.7.2.4)
+prot_03808	FIG00000346	210	33	210	Ribosomal protein L11 methyltransferase (EC 2.1.1.-)
+prot_03809	FIG00000163	279	41	279	UDP-N-acetylenolpyruvoylglucosamine reductase (EC 1.1.1.158)
+prot_03810	FIG00193265	13	6	18	tRNA and rRNA cytosine-C5-methylases
+prot_03813	FIG00001463	5	4	8	FKBP-type peptidyl-prolyl cis-trans isomerase FkpA precursor (EC 5.2.1.8)
+prot_03814	FIG00001407	10	6	17	FKBP-type peptidyl-prolyl cis-trans isomerase FklB (EC 5.2.1.8)
+prot_03815	FIG00000771	109	20	109	Lipoprotein releasing system ATP-binding protein LolD
+prot_03822	FIG00000286	345	53	345	Cell division trigger factor (EC 5.2.1.8)
+prot_03823	FIG00007959	6	4	11	FIG007959: peptidase, M16 family
+prot_03825	FIG00000398	212	31	212	Thymidylate synthase (EC 2.1.1.45)
+prot_03828	FIG00000048	125	18	125	Dihydrofolate reductase (EC 1.5.1.3)
+prot_03830	FIG00524602	11	3	12	glycosyl transferase, family 2
+prot_03833	FIG01735908	56	13	60	CDP-Glycerol:Poly(glycerophosphate) glycerophosphotransferase family protein
+prot_03834	FIG00050391	11	6	13	Choline permease LicB
+prot_03835	FIG00000474	230	38	230	Histidinol-phosphate aminotransferase (EC 2.6.1.9)
+prot_03839	FIG00074225	183	28	183	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase (EC 2.7.7.60)
+prot_03840	FIG00022300	241	37	241	UDP-glucose 4-epimerase (EC 5.1.3.2)
+prot_03841	FIG00000532	195	35	195	UDP-glucose dehydrogenase (EC 1.1.1.22)
+prot_03842	FIG00004078	656	90	656	Alpha-1,2-mannosidase
+prot_03843	FIG00000648	14	4	15	tRNA (adenine37-N(6))-methyltransferase TrmN6 (EC 2.1.1.223)
+prot_03845	FIG00002904	3	3	5	DnaJ-like protein DjlA
+prot_03846	FIG00000267	6	4	9	Dephospho-CoA kinase (EC 2.7.1.24)
+prot_03849	FIG00051656	7	2	8	Preprotein translocase subunit YajC (TC 3.A.5.1.1)
+prot_03851	FIG00001232	227	33	227	AMP nucleosidase (EC 3.2.2.4)
+prot_03852	FIG00000334	338	49	338	S-adenosylmethionine:tRNA ribosyltransferase-isomerase (EC 5.-.-.-)
+prot_03859	FIG01962529	68	17	69	putative periplasmic protein kinase ArgK and related GTPases of G3E family
+prot_03861	FIG01306568	12	4	14	Mobile element protein
+prot_03877	FIG01357915	44	19	66	FIG00898950: hypothetical protein
+prot_03889	FIG00946040	6	3	8	putative anti-sigma factor
+prot_03892	FIG01396189	125	27	127	Transposase, IS4
+prot_03900	FIG01306568	4	3	5	Mobile element protein
+prot_03901	FIG00937790	5	3	6	RNA polymerase ECF-type sigma factor
+prot_03908	FIG00019251	781	109	781	DNA primase (EC 2.7.7.-)
+prot_03909	FIG01309544	14	4	15	FIG00402688: hypothetical protein
+prot_03911	FIG01354105	56	14	59	putative cell surface protein
+prot_03913	FIG01348025	238	37	239	putative surface layer protein
+prot_03916	FIG01411730	110	26	111	Vitamin B12 ABC transporter, B12-binding component BtuF
+prot_03917	FIG00003124	71	17	72	Vitamin B12 ABC transporter, permease component BtuC
+prot_03918	FIG01964172	73	14	74	Fe3+ ABC transporter, ATP-binding protein
+prot_03919	FIG01790781	34	6	35	FIG00410604: hypothetical protein
+prot_03920	FIG01453256	43	11	44	abortive infection protein, putative
+prot_03921	FIG00936187	5	3	7	FIG00936191: hypothetical protein
+prot_03922	FIG01444067	140	21	140	FIG00405933: hypothetical protein
+prot_03923	FIG01398643	172	24	172	FIG00402873: hypothetical protein
+prot_03928	FIG01348025	327	45	327	putative surface layer protein
+prot_03929	FIG01410171	555	82	556	putative cell wall biogenesis protein
+prot_03930	FIG01354105	505	72	505	putative cell surface protein
+prot_03931	FIG01309544	265	36	265	FIG00402688: hypothetical protein
+prot_03933	FIG01116662	258	36	258	Integrase
+prot_03935	FIG00001076	664	104	664	Pyruvate,phosphate dikinase (EC 2.7.9.1)
+prot_03938	FIG00001867	20	9	22	COG1242: Predicted Fe-S oxidoreductase
+prot_03940	FIG00010600	96	20	101	Xaa-Pro aminopeptidase (EC 3.4.11.9)
+prot_03941	FIG01114793	19	12	23	DNA-binding response regulator, AraC family
+prot_03942	FIG00000721	208	30	208	Pyruvate formate-lyase activating enzyme (EC 1.97.1.4)
+prot_03943	FIG00002541	673	95	673	Pyruvate formate-lyase (EC 2.3.1.54)
+prot_03954	FIG01346671	14	3	17	FIG00896341: hypothetical protein
+prot_03957	FIG00745599	558	78	558	Alpha-glucosidase (EC 3.2.1.20)
+prot_03958	FIG00043402	584	88	584	Dipeptidyl peptidase IV in 4-hydroxyproline catabolic gene cluster
+prot_03959	FIG00018388	212	45	215	Putative glycosyl hydrolase of unknown function (DUF1680)
+prot_03964	FIG00018388	49	19	62	Putative glycosyl hydrolase of unknown function (DUF1680)
+prot_03966	FIG00001385	322	46	322	N-acetylmuramoyl-L-alanine amidase (EC 3.5.1.28)
