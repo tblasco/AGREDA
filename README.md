@@ -10,7 +10,7 @@ For further information, please refer to:
 * Francisco J. Planes	fplanes@tecnun.es
 
 ## Citing AGREDA
-(reference)
+Blasco, T., Pérez-Burillo, S., Balzerani, F., Hinojosa-Nogueira, D., Lerma-Aguilera, A., Pastoriza, S., ... & Planes, F. J. (2021). An extended reconstruction of human gut microbiota metabolism of dietary compounds. Nature communications, 12(1), 1-12.
 
 # PIPELINE
 
